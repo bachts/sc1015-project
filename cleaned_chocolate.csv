@@ -1,16 +1,16 @@
 country_of_bean_origin,cocoa_percent,rating_category,rating,counts_of_ingredients,cocoa_butter,vanilla,lecithin,salt,sugar,sweetener_without_sugar,first_taste,second_taste,third_taste,fourth_taste,number_of_taste
 Madagascar,76.0,1,3.75,3,1,0,0,0,1,0,cocoa,blackberry,full body,no taste,3
 Dominican republic,76.0,1,3.5,3,1,0,0,0,1,0,cocoa,vegetal,savory,no taste,3
-Tanzania,76.0,0,3.25,3,1,0,0,0,1,0,rich cocoa,fatty,bready,no taste,3
+Tanzania,76.0,1,3.25,3,1,0,0,0,1,0,rich cocoa,fatty,bready,no taste,3
 Peru,63.0,1,3.75,4,1,0,1,0,1,0,fruity,melon,roasty,no taste,3
 Bolivia,70.0,1,3.5,4,1,0,1,0,1,0,vegetal,nutty,no taste,no taste,2
 Venezuela,70.0,1,4.0,4,1,0,1,0,1,0,oily,nut,caramel,raspberry,4
 Peru,63.0,1,4.0,3,1,0,0,0,1,0,sweet,cocoa,tangerine,no taste,3
 Ecuador,70.0,1,3.75,4,1,0,1,0,1,0,sandy,nutty,cocoa,fig,4
 Peru,70.0,1,3.5,4,1,0,1,0,1,0,cocoa,sour,intense tangerine,no taste,3
-Brazil,70.0,0,3.25,4,1,0,1,0,1,0,mild tobacco,no taste,no taste,no taste,1
-Papua new guinea,70.0,0,3.25,4,1,0,1,0,1,0,mild fruit,strong smoke,no taste,no taste,2
-Peru,70.0,0,3.25,4,1,0,1,0,1,0,green,nutty,cocoa,no taste,3
+Brazil,70.0,1,3.25,4,1,0,1,0,1,0,mild tobacco,no taste,no taste,no taste,1
+Papua new guinea,70.0,1,3.25,4,1,0,1,0,1,0,mild fruit,strong smoke,no taste,no taste,2
+Peru,70.0,1,3.25,4,1,0,1,0,1,0,green,nutty,cocoa,no taste,3
 Madagascar,70.0,0,3.0,4,1,0,1,0,1,0,sticky,red fruit,sour,no taste,3
 Burma,70.0,0,3.0,4,1,0,1,0,1,0,sticky,smokey,grass,no taste,3
 Panama,70.0,0,2.75,4,1,0,1,0,1,0,brief fruit note,earthy,nutty,no taste,3
@@ -30,10 +30,10 @@ Venezuela,70.0,1,3.5,4,1,0,1,0,1,0,alluring aroma,powdery,nutty,no taste,3
 Peru,70.0,1,3.75,2,0,0,0,0,1,0,yellow fruit,no taste,no taste,no taste,1
 Peru,70.0,1,3.75,2,0,0,0,0,1,0,intense,nutty,cherry,cocoa,4
 Peru,70.0,1,3.5,2,0,0,0,0,1,0,hot cocoa,rich,molasses,no taste,3
-Mexico,74.0,0,3.25,2,0,0,0,0,1,0,herbal,molasses,hammy,no taste,3
+Mexico,74.0,1,3.25,2,0,0,0,0,1,0,herbal,molasses,hammy,no taste,3
 Fiji,88.0,1,3.5,3,1,0,0,0,1,0,orange,floral,lemon,no taste,3
 Fiji,72.0,1,3.5,3,1,0,0,0,1,0,cocoa and powerful tang,no taste,no taste,no taste,1
-Fiji,80.0,0,3.25,3,1,0,0,0,1,0,spicy and candy-like,no taste,no taste,no taste,1
+Fiji,80.0,1,3.25,3,1,0,0,0,1,0,spicy and candy-like,no taste,no taste,no taste,1
 Fiji,60.0,0,2.75,3,1,0,0,0,1,0,sweet,sublte strawberry,no taste,no taste,2
 Vanuatu,70.0,0,3.0,2,0,0,0,0,1,0,sandy,woody,spicy,sweet,4
 Vanuatu,70.0,0,2.75,2,0,0,0,0,1,0,basic,sweet,cocoa,woody,4
@@ -55,8 +55,8 @@ Ecuador,70.0,1,3.5,3,1,0,0,0,1,0,sandy,green,floral,no taste,3
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,sandy,sweet,nibby,no taste,3
 Tanzania,70.0,1,3.5,3,1,0,0,0,1,0,sandy,melon,banana,no taste,3
 Vietnam,70.0,1,3.5,3,1,0,0,0,1,0,sandy,sweet,roasty,no taste,3
-Bolivia,80.0,0,3.25,4,1,0,1,0,1,0,gritty,berry,mild bitter,no taste,3
-Peru,60.0,0,3.25,4,1,0,1,0,1,0,gritty,too sweet,fruit,no taste,3
+Bolivia,80.0,1,3.25,4,1,0,1,0,1,0,gritty,berry,mild bitter,no taste,3
+Peru,60.0,1,3.25,4,1,0,1,0,1,0,gritty,too sweet,fruit,no taste,3
 Dominican republic,60.0,0,3.0,4,1,0,1,0,1,0,sandy,sweet,dairy,spice,4
 Bolivia,60.0,0,3.0,4,1,0,1,0,1,0,grit,sweet,caramel,fruit,4
 Venezuela,60.0,0,2.5,4,1,0,1,0,1,0,sweet,moldy,off,no taste,3
@@ -80,12 +80,12 @@ Ghana,85.0,0,3.0,2,0,0,0,0,1,0,roasty,oddly sweet,marshmallow,no taste,3
 Ecuador,70.0,0,2.75,2,0,0,0,0,1,0,waxy mouthfeel,spicy,no taste,no taste,2
 Ecuador,85.0,0,2.75,2,0,0,0,0,1,0,fatty,mushroom,off notes,no taste,3
 Peru,73.0,1,3.5,3,1,0,0,0,1,0,oily,vegetal,nutty,cocoa,4
-Peru,72.0,0,3.25,3,1,0,0,0,1,0,oily,vanilla,melon,cocoa,4
+Peru,72.0,1,3.25,3,1,0,0,0,1,0,oily,vanilla,melon,cocoa,4
 Peru,68.0,1,3.5,2,0,0,0,0,1,0,rich,sour,mild smoke,no taste,3
-Madagascar,66.0,0,3.25,2,0,0,0,0,1,0,fruity,sour,no taste,no taste,2
-Dominican republic,75.0,0,3.25,2,0,0,0,0,1,0,high roast,high astringnet,no taste,no taste,2
-Papua new guinea,63.0,0,3.25,2,0,0,0,0,1,0,smokey,savory,no taste,no taste,2
-Venezuela,70.0,0,3.25,2,0,0,0,0,1,0,sandy,roasty,nutty,no taste,3
+Madagascar,66.0,1,3.25,2,0,0,0,0,1,0,fruity,sour,no taste,no taste,2
+Dominican republic,75.0,1,3.25,2,0,0,0,0,1,0,high roast,high astringnet,no taste,no taste,2
+Papua new guinea,63.0,1,3.25,2,0,0,0,0,1,0,smokey,savory,no taste,no taste,2
+Venezuela,70.0,1,3.25,2,0,0,0,0,1,0,sandy,roasty,nutty,no taste,3
 Belize,64.0,0,3.0,4,1,0,1,0,1,0,roasty,brownie,nutty,no taste,3
 Blend,66.0,1,3.75,4,1,1,0,0,1,0,red wine,rich cocoa,long,no taste,3
 Venezuela,70.0,1,3.75,4,1,1,0,0,1,0,creamy,fruit,cocoa,no taste,3
@@ -104,7 +104,7 @@ Brazil,60.0,1,4.0,4,1,0,1,0,1,0,creamy,sweet,cocoa,banana,4
 Brazil,50.0,1,3.75,4,1,0,1,0,1,0,very sweet,bright red,banana,no taste,3
 Brazil,75.0,1,3.75,4,1,0,1,0,1,0,roasty,fatty,nutty,coffee,4
 Brazil,85.0,0,2.75,4,1,0,1,0,1,0,creamy,red berry,bitter,no taste,3
-Brazil,75.0,0,3.25,4,1,0,1,0,1,0,grainy,sweet,poor aftertaste,no taste,3
+Brazil,75.0,1,3.25,4,1,0,1,0,1,0,grainy,sweet,poor aftertaste,no taste,3
 Dominican republic,75.0,0,3.0,2,0,0,0,0,1,0,chalky,mild fruit,burnt,no taste,3
 Bolivia,75.0,1,3.5,2,0,0,0,0,1,0,light roast,caramel,cocoa,no taste,3
 Madagascar,75.0,0,3.0,3,1,0,0,0,1,0,sandy,fruity,short,no taste,3
@@ -118,7 +118,7 @@ Brazil,70.0,1,3.5,2,0,0,0,0,1,0,creamy,rich,rum,roasty,4
 Peru,68.0,1,3.5,2,0,0,0,0,1,0,floral,nutty,rich cocoa,no taste,3
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,spicy,brownie,nutty,no taste,3
 Ecuador,75.0,1,3.5,3,1,0,0,0,1,0,intense,floral,bourbon,no taste,3
-Guatemala,70.0,0,3.25,2,0,0,0,0,1,0,strawberry,butterscotch,off,no taste,3
+Guatemala,70.0,1,3.25,2,0,0,0,0,1,0,strawberry,butterscotch,off,no taste,3
 Brazil,75.0,0,2.75,2,0,0,0,0,1,0,floral,chemical off,no taste,no taste,2
 Costa rica,70.0,1,4.0,2,0,0,0,0,1,0,balanced,cherry,choco,no taste,3
 Peru,70.0,1,4.0,2,0,0,0,0,1,0,creamy,complex,balanced,no taste,3
@@ -129,10 +129,10 @@ Trinidad,70.0,1,3.5,2,0,0,0,0,1,0,delicate,simple,no taste,no taste,2
 Vietnam,73.0,1,3.5,3,1,0,0,0,1,0,cashew,roasty,chunky melt,no taste,3
 Guatemala,70.0,1,3.5,2,0,0,0,0,1,0,subtle,mysterious,no taste,no taste,2
 Honduras,70.0,1,3.5,2,0,0,0,0,1,0,nutty,green,no taste,no taste,2
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,sticky,floral,roasty,no taste,3
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,chewy,mild floral,no taste,no taste,2
-Fiji,70.0,0,3.25,2,0,0,0,0,1,0,smoke,hammy,cocoa base,no taste,3
-Vietnam,73.0,0,3.25,2,0,0,0,0,1,0,earthy,nutty,cardboard,no taste,3
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,sticky,floral,roasty,no taste,3
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,chewy,mild floral,no taste,no taste,2
+Fiji,70.0,1,3.25,2,0,0,0,0,1,0,smoke,hammy,cocoa base,no taste,3
+Vietnam,73.0,1,3.25,2,0,0,0,0,1,0,earthy,nutty,cardboard,no taste,3
 Bolivia,70.0,1,4.0,2,0,0,0,0,1,0,creamy,bright fruit,no taste,no taste,2
 Haiti,70.0,1,4.0,2,0,0,0,0,1,0,long lasting,cocoa,no taste,no taste,2
 India,70.0,1,3.5,2,0,0,0,0,1,0,slight roasty,basic cocoa,no taste,no taste,2
@@ -141,14 +141,14 @@ Vietnam,73.0,1,3.5,3,1,0,0,0,1,0,rich cocoa,mild roasty,no taste,no taste,2
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,dried fruit,fig,anise,no taste,3
 Colombia,70.0,1,4.0,2,0,0,0,0,1,0,smooth,nutty,cocoa,no taste,3
 Trinidad,70.0,0,3.0,2,0,0,0,0,1,0,nuts,dried fruit,short,no taste,3
-India,70.0,0,3.25,3,1,0,0,0,1,0,herbs,mushroom,acidic,no taste,3
+India,70.0,1,3.25,3,1,0,0,0,1,0,herbs,mushroom,acidic,no taste,3
 India,70.0,0,3.0,3,1,0,0,0,1,0,burn butterscotch,rubbery,no taste,no taste,2
 Nicaragua,70.0,1,3.5,2,0,0,0,0,1,0,smooth,vegetal,no taste,no taste,2
 Nicaragua,70.0,1,3.5,2,0,0,0,0,1,0,roasty,rich cocoa,no taste,no taste,2
-Nicaragua,70.0,0,3.25,2,0,0,0,0,1,0,melon,late hammy,no taste,no taste,2
+Nicaragua,70.0,1,3.25,2,0,0,0,0,1,0,melon,late hammy,no taste,no taste,2
 Nicaragua,70.0,0,3.0,2,0,0,0,0,1,0,cocoa,earthy,hammy,no taste,3
 Congo,72.0,1,3.75,3,1,0,0,0,1,0,spicy,minty,vegetal,no taste,3
-Dominican republic,72.0,0,3.25,3,1,0,0,0,1,0,spice,cocoa,short,no taste,3
+Dominican republic,72.0,1,3.25,3,1,0,0,0,1,0,spice,cocoa,short,no taste,3
 Madagascar,80.0,0,3.0,3,1,0,0,0,1,0,sl. bitter,cherry,rich,no taste,3
 Peru,75.0,0,3.0,3,1,0,0,0,1,0,spicey,mild metallic,no taste,no taste,2
 Indonesia,72.0,0,2.75,3,1,0,0,0,1,0,gritty,very smokey,sour,no taste,3
@@ -156,12 +156,12 @@ Venezuela,75.0,0,2.5,3,1,0,0,0,1,0,oily,nutty,burnt,sour,4
 Brazil,72.0,0,1.75,3,1,0,0,0,1,0,cocoa,dominate off note,no taste,no taste,2
 Jamaica,72.0,1,3.75,3,1,0,0,0,1,0,grassy,black licorice,mint,no taste,3
 Indonesia,72.0,1,3.5,3,1,0,0,0,1,0,black pepper and banana,no taste,no taste,no taste,1
-Costa rica,72.0,0,3.25,3,1,0,0,0,1,0,chewy,grassy,nutty,no taste,3
-Vietnam,72.0,0,3.25,3,1,0,0,0,1,0,unrefined,distinct spicey,no taste,no taste,2
+Costa rica,72.0,1,3.25,3,1,0,0,0,1,0,chewy,grassy,nutty,no taste,3
+Vietnam,72.0,1,3.25,3,1,0,0,0,1,0,unrefined,distinct spicey,no taste,no taste,2
 Haiti,72.0,1,4.0,3,1,0,0,0,1,0,nuts,butterscotch,brownie,no taste,3
 Panama,72.0,0,2.75,3,1,0,0,0,1,0,blackpepper,chemical,rubber,no taste,3
 Colombia,72.0,1,3.75,3,1,0,0,0,1,0,marshmallow,roasty,nutty,no taste,3
-Trinidad,72.0,0,3.25,3,1,0,0,0,1,0,gritty,nutty,no taste,no taste,2
+Trinidad,72.0,1,3.25,3,1,0,0,0,1,0,gritty,nutty,no taste,no taste,2
 Colombia,72.0,0,2.75,4,1,0,1,0,1,0,creamy,marshmallow,off,no taste,3
 Ecuador,70.0,0,3.0,2,0,0,0,0,1,0,smooth,astringent,cocoa,no taste,3
 Mexico,75.0,0,2.5,2,0,0,0,0,1,0,leather,black licorice,off,no taste,3
@@ -178,16 +178,16 @@ Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,unrefined,flat,grassy,no taste,3
 Brazil,70.0,0,2.5,2,0,0,0,0,1,0,chalky,intense,chemical,no taste,3
 Blend,70.0,0,2.5,2,0,0,0,0,1,0,chalky,fragrant,then off,no taste,3
 Papua new guinea,70.0,1,3.5,2,0,0,0,0,1,0,smoke,ham,papaya,no taste,3
-Blend,80.0,0,3.25,2,0,0,0,0,1,0,coarse,smokey,metallic,no taste,3
+Blend,80.0,1,3.25,2,0,0,0,0,1,0,coarse,smokey,metallic,no taste,3
 Brazil,70.0,0,3.0,2,0,0,0,0,1,0,bland,sugary,large grits,no taste,3
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,black pepper,cardamom,no taste,no taste,2
 Peru,70.0,0,2.75,3,1,0,0,0,1,0,molasses,caramel,pungent,no taste,3
-Tanzania,72.0,0,3.25,3,1,0,0,0,1,0,base cocoa,mild fruit,roasty,no taste,3
+Tanzania,72.0,1,3.25,3,1,0,0,0,1,0,base cocoa,mild fruit,roasty,no taste,3
 Uganda,82.0,0,2.75,3,1,0,0,0,1,0,bitter,fatty,mild fruit,no taste,3
 Belize,72.0,0,2.5,3,1,0,0,0,1,0,gritty,fatty,sour,off,4
 Madagascar,70.0,1,3.75,2,0,0,0,0,1,0,raspberry,mild sour,no taste,no taste,2
 Mexico,70.0,1,3.5,2,0,0,0,0,1,0,molasses,toffee,coffee grounds,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,complex,black pepper,coffee,no taste,3
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,complex,black pepper,coffee,no taste,3
 Peru,70.0,1,4.0,2,0,0,0,0,1,0,creamy,rounded,orange,no taste,3
 Brazil,70.0,1,3.5,2,0,0,0,0,1,0,intense,smokey,dried fruit,no taste,3
 Costa rica,72.0,1,3.5,2,0,0,0,0,1,0,slightly dry,cocoa,berry,no taste,3
@@ -195,9 +195,9 @@ Trinidad,80.0,1,3.5,2,0,0,0,0,1,0,intense,tangy,alcohol,no taste,3
 Costa rica,80.0,0,2.75,4,1,1,0,0,1,0,gritty,floral,vanilla,no taste,3
 Brazil,70.0,1,3.75,3,1,0,0,0,1,0,strawberry,candy flavor,no taste,no taste,2
 Dominican republic,65.0,1,3.5,3,1,0,0,0,1,0,creamy,sweet,fudgey,no taste,3
-Ecuador,65.0,0,3.25,3,1,0,0,0,1,0,sandy,floral,sweet,no taste,3
+Ecuador,65.0,1,3.25,3,1,0,0,0,1,0,sandy,floral,sweet,no taste,3
 Peru,70.0,0,2.25,4,1,1,0,0,1,0,strong vanilla,off notes,no taste,no taste,2
-Malaysia,72.0,0,3.25,3,1,0,0,0,1,0,smokey,woody,tobacco,no taste,3
+Malaysia,72.0,1,3.25,3,1,0,0,0,1,0,smokey,woody,tobacco,no taste,3
 Malaysia,73.0,0,3.0,3,1,0,0,0,1,0,caramel,spice,earthy,no taste,3
 Brazil,80.0,0,2.75,3,1,0,0,0,1,0,intense,bitter,dry,no taste,3
 Dominican republic,70.0,0,2.75,3,1,0,0,0,1,0,sandy,sweet,molasses,no taste,3
@@ -209,8 +209,8 @@ Papua new guinea,64.0,0,2.75,4,1,0,1,0,1,0,intense,smokey,no taste,no taste,2
 Peru,64.0,0,2.75,4,1,0,1,0,1,0,sticky,moss,nuts,no taste,3
 Tanzania,70.0,1,3.5,3,1,0,0,0,1,0,sticky,delicate,melon,no taste,3
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,caramel,mild dried fruit,no taste,no taste,2
-Bolivia,70.0,0,3.25,3,1,0,0,0,1,0,oily,complex,pungent,no taste,3
-Vietnam,75.0,0,3.25,3,1,0,0,0,1,0,high acidity,nutty,roasty,no taste,3
+Bolivia,70.0,1,3.25,3,1,0,0,0,1,0,oily,complex,pungent,no taste,3
+Vietnam,75.0,1,3.25,3,1,0,0,0,1,0,high acidity,nutty,roasty,no taste,3
 Belize,83.0,1,3.5,3,1,0,0,0,1,0,balanced,complex,berry,no taste,3
 Belize,78.0,0,3.0,3,1,0,0,0,1,0,sweet,nibby,green,no taste,3
 Belize,83.0,0,2.75,3,1,0,0,0,1,0,unbalanced,tangy,pungent,no taste,3
@@ -226,13 +226,13 @@ Venezuela,74.0,1,3.5,3,1,0,0,0,1,0,nutty,roasty,dairy,no taste,3
 Blend,55.0,0,2.75,5,1,1,1,0,1,0,sweet,vanilla,cocoa,no taste,3
 Indonesia,64.0,1,3.5,3,1,0,0,0,1,0,ham-like,smokey,banana,no taste,3
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,dark cocoa,spicy pepper,no taste,no taste,2
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,creamy,macadamia,pepper,no taste,3
-Venezuela,74.0,0,3.25,3,1,0,0,0,1,0,nutty,light toffee,mild musty,no taste,3
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,creamy,macadamia,pepper,no taste,3
+Venezuela,74.0,1,3.25,3,1,0,0,0,1,0,nutty,light toffee,mild musty,no taste,3
 Ecuador,72.0,1,4.0,3,1,0,0,0,1,0,creamy,nutty,cocoa,no taste,3
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,creamy,banana,rich,no taste,3
 Madagascar,64.0,0,3.0,3,1,0,0,0,1,0,chunky,nutty,banana,no taste,3
 Venezuela,88.0,0,3.0,3,1,0,0,0,1,0,bitter then nutty rustic,earthy,no taste,no taste,2
-Belize,86.0,0,3.25,4,1,1,0,0,1,0,mild bitter,diluted,vanilla,no taste,3
+Belize,86.0,1,3.25,4,1,1,0,0,1,0,mild bitter,diluted,vanilla,no taste,3
 Nicaragua,76.0,0,2.5,2,0,0,0,0,1,0,bitter,molasses,flour,no taste,3
 Costa rica,76.0,0,2.5,2,0,0,0,0,1,0,molasses,metallic,earthy,no taste,3
 Costa rica,78.0,0,2.5,4,1,1,0,0,1,0,sour,tart,molasses,no taste,3
@@ -245,15 +245,15 @@ Madagascar,71.0,0,3.0,2,0,0,0,0,1,0,rich cocoa,red berry,sour,no taste,3
 Ghana,70.0,0,3.0,2,0,0,0,0,1,0,nutmeg,sour,no taste,no taste,2
 Dominican republic,65.0,1,3.5,2,0,0,0,0,1,0,intense marshmallow,cocoa,no taste,no taste,2
 Madagascar,65.0,1,3.5,2,0,0,0,0,1,0,chocolate covered cherries,no taste,no taste,no taste,1
-Madagascar,75.0,0,3.25,2,0,0,0,0,1,0,rustic,red berry,woody,no taste,3
+Madagascar,75.0,1,3.25,2,0,0,0,0,1,0,rustic,red berry,woody,no taste,3
 Dominican republic,75.0,0,3.0,2,0,0,0,0,1,0,chalky,strong,harsh smoke,no taste,3
 Blend,70.0,1,3.75,2,0,0,0,0,1,0,robust,cocoa,fruity,no taste,3
-Indonesia,75.0,0,3.25,2,0,0,0,0,1,0,dry,cardamom,medicinal,no taste,3
+Indonesia,75.0,1,3.25,2,0,0,0,0,1,0,dry,cardamom,medicinal,no taste,3
 Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,red berry,strong wine,sour,no taste,3
 Venezuela,78.0,0,3.0,2,0,0,0,0,1,0,nutty,mild bitter,no taste,no taste,2
 Indonesia,65.0,0,2.75,2,0,0,0,0,1,0,pastey,off spicey,nutty,no taste,3
 Ghana,72.0,1,3.5,3,1,0,0,0,1,0,roasted nuts,rich,roasty,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,sweet,sour milk,no taste,no taste,2
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,sweet,sour milk,no taste,no taste,2
 Haiti,70.0,0,3.0,2,0,0,0,0,1,0,floral,molasses,chemical,no taste,3
 Guatemala,70.0,0,3.0,2,0,0,0,0,1,0,molasses,earthy,spicy,no taste,3
 Belize,70.0,0,2.75,2,0,0,0,0,1,0,off,rubbery,burnt molasses,no taste,3
@@ -270,7 +270,7 @@ Tanzania,75.0,1,3.5,2,0,0,0,0,1,0,bready,melon,no taste,no taste,2
 Dominican republic,75.0,0,3.0,2,0,0,0,0,1,0,astringent,sour,coffee,no taste,3
 Guatemala,75.0,0,2.75,2,0,0,0,0,1,0,roasty,coffee,earthy,no taste,3
 Belize,70.0,0,2.75,3,1,0,0,0,1,0,pungent off flavor,no taste,no taste,no taste,1
-Malaysia,74.0,0,3.25,2,0,0,0,0,1,0,grassy,savory,sour,no taste,3
+Malaysia,74.0,1,3.25,2,0,0,0,0,1,0,grassy,savory,sour,no taste,3
 Malaysia,72.0,0,2.75,2,0,0,0,0,1,0,sweet,fruit,chemical off note,no taste,3
 Malaysia,68.0,0,2.5,2,0,0,0,0,1,0,sweet,dirty,off notes,no taste,3
 Venezuela,75.0,1,4.0,3,1,0,0,0,1,0,creamy,fatty,floral,no taste,3
@@ -292,22 +292,22 @@ Cuba,75.0,1,3.5,3,1,0,0,0,1,0,fatty,raisin,grape,no taste,3
 Peru,75.0,1,3.5,3,1,0,0,0,1,0,roasty,woody,mint,no taste,3
 Peru,75.0,1,3.5,3,1,0,0,0,1,0,creamy,cocoa,smokey,no taste,3
 Brazil,75.0,1,3.5,3,1,0,0,0,1,0,oily,fatty,rich,nutty,4
-Jamaica,75.0,0,3.25,3,1,0,0,0,1,0,oily,creamy,woody,no taste,3
+Jamaica,75.0,1,3.25,3,1,0,0,0,1,0,oily,creamy,woody,no taste,3
 Brazil,75.0,1,3.5,3,1,0,0,0,1,0,oily,roasted nuts,rich cocoa,no taste,3
-Gabon,75.0,0,3.25,3,1,0,0,0,1,0,fatty,roasty,black pepper,no taste,3
+Gabon,75.0,1,3.25,3,1,0,0,0,1,0,fatty,roasty,black pepper,no taste,3
 Brazil,75.0,1,4.0,3,1,0,0,0,1,0,creamy,homey,nutty,no taste,3
 Blend,65.0,1,3.75,3,1,0,0,0,1,0,complex,brownie,mint,spice,4
-Dominican republic,75.0,0,3.25,3,1,0,0,0,1,0,roasty,tobacco,earthy,no taste,3
+Dominican republic,75.0,1,3.25,3,1,0,0,0,1,0,roasty,tobacco,earthy,no taste,3
 Mexico,75.0,1,3.5,3,1,0,0,0,1,0,heavy roast,fatty,gateway,no taste,3
 Peru,75.0,1,4.0,3,1,0,0,0,1,0,oily,subtle,mild coffee,no taste,3
 Blend,75.0,1,4.0,3,1,0,0,0,1,0,creamy,rich,complex,no taste,3
-Ecuador,77.0,0,3.25,2,0,0,0,0,1,0,sticky,lavendar,molasses,no taste,3
-Dominican republic,72.0,0,3.25,3,1,0,0,0,1,0,spicy,banana,no taste,no taste,2
+Ecuador,77.0,1,3.25,2,0,0,0,0,1,0,sticky,lavendar,molasses,no taste,3
+Dominican republic,72.0,1,3.25,3,1,0,0,0,1,0,spicy,banana,no taste,no taste,2
 Peru,70.0,1,3.75,3,1,0,0,0,1,0,sweet,rich mocha,acidic,no taste,3
 Ecuador,75.0,1,3.5,3,1,0,0,0,1,0,balanced,floral,honey,no taste,3
 Ghana,75.0,1,3.5,5,1,1,1,0,1,0,fatty,brownie,nutty,no taste,3
 Venezuela,85.0,1,3.5,5,1,1,1,0,1,0,intense,cooked banana,no taste,no taste,2
-Ecuador,70.0,0,3.25,5,1,1,1,0,1,0,intense,alocohol,floral,no taste,3
+Ecuador,70.0,1,3.25,5,1,1,1,0,1,0,intense,alocohol,floral,no taste,3
 Dominican republic,72.0,0,3.0,5,1,1,1,0,1,0,oily,vanilla,caramel,dairy,4
 Venezuela,70.0,1,4.0,3,1,0,0,0,1,0,intense,raisins,roasty,no taste,3
 Belize,70.0,1,3.75,3,1,0,0,0,1,0,intense,cocoa,complex,no taste,3
@@ -315,12 +315,12 @@ Dominican republic,68.0,1,3.75,3,1,0,0,0,1,0,complex,brownie,lime,rich,4
 Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,simple,rich cocoa,no taste,no taste,2
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,nutty,slight hammy,rich,no taste,3
 Ecuador,75.0,1,3.75,3,1,0,0,0,1,0,sandy,floral,honey,no taste,3
-Dominican republic,70.0,0,3.25,3,1,0,0,0,1,0,earthy,cherries,no taste,no taste,2
+Dominican republic,70.0,1,3.25,3,1,0,0,0,1,0,earthy,cherries,no taste,no taste,2
 Bolivia,70.0,1,4.0,3,1,0,0,0,1,0,nuts,fruit,no taste,no taste,2
 Guatemala,70.0,1,3.5,2,0,0,0,0,1,0,tart,tea,leather,sour,4
-Dominican republic,80.0,0,3.25,3,1,0,0,0,1,0,bitter,dark berry,fatty,no taste,3
-Belize,80.0,0,3.25,3,1,0,0,0,1,0,mild smoke,raisins,coffee,no taste,3
-Madagascar,60.0,0,3.25,3,1,0,0,0,1,0,citrus,sweet,cocoa,no taste,3
+Dominican republic,80.0,1,3.25,3,1,0,0,0,1,0,bitter,dark berry,fatty,no taste,3
+Belize,80.0,1,3.25,3,1,0,0,0,1,0,mild smoke,raisins,coffee,no taste,3
+Madagascar,60.0,1,3.25,3,1,0,0,0,1,0,citrus,sweet,cocoa,no taste,3
 Dominican republic,60.0,0,3.0,3,1,0,0,0,1,0,roasty,sweet,brownie,no taste,3
 Madagascar,80.0,0,2.75,3,1,0,0,0,1,0,bitter,tart,acidic,no taste,3
 Jamaica,70.0,0,3.0,4,1,1,0,0,1,0,chalky,sandy,tart,bland,4
@@ -328,18 +328,18 @@ Dominican republic,70.0,1,3.5,3,1,0,0,0,1,0,spicy,black pepper,banana,no taste,3
 Ecuador,72.0,1,3.5,3,1,0,0,0,1,0,floral,banana,no taste,no taste,2
 Madagascar,72.0,0,3.0,3,1,0,0,0,1,0,sweet,mild molasses,bland,no taste,3
 Trinidad,68.0,0,2.75,3,1,0,0,0,1,0,fatty,sweet,metallic,no taste,3
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,powdery,floral,molasses,no taste,3
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,powdery,floral,molasses,no taste,3
 Dominican republic,68.0,0,2.75,3,1,0,0,0,1,0,gritty,sweet,brownie,no taste,3
 Guatemala,70.0,0,3.0,3,1,0,0,0,1,0,roasty and under refined,no taste,no taste,no taste,1
 Bolivia,70.0,0,2.5,3,1,0,0,0,1,0,dirt,earthy,floral,no taste,3
 Ecuador,72.0,1,3.5,3,1,0,0,0,1,0,floral,mild citrus,orange,no taste,3
-Trinidad,72.0,0,3.25,3,1,0,0,0,1,0,high roast,coffee,spicy,no taste,3
-Belize,72.0,0,3.25,3,1,0,0,0,1,0,roasty,fruit,mild metallic,no taste,3
-Blend,72.0,0,3.25,3,1,0,0,0,1,0,coffee,high roast,spicy,no taste,3
+Trinidad,72.0,1,3.25,3,1,0,0,0,1,0,high roast,coffee,spicy,no taste,3
+Belize,72.0,1,3.25,3,1,0,0,0,1,0,roasty,fruit,mild metallic,no taste,3
+Blend,72.0,1,3.25,3,1,0,0,0,1,0,coffee,high roast,spicy,no taste,3
 Ecuador,60.0,0,2.5,3,1,0,0,0,1,0,sweet,sour dairy,no taste,no taste,2
 Ecuador,70.0,0,3.0,2,0,0,0,0,1,0,smokey,sour,no taste,no taste,2
 Philippines,70.0,1,3.5,2,0,0,0,0,0,1,base cocoa w/ palm notes,no taste,no taste,no taste,1
-Taiwan,70.0,0,3.25,2,0,0,0,0,0,1,molasses,sour notes,no taste,no taste,2
+Taiwan,70.0,1,3.25,2,0,0,0,0,0,1,molasses,sour notes,no taste,no taste,2
 Bolivia,70.0,1,3.75,4,1,0,1,0,1,0,subtle but refreshing,no taste,no taste,no taste,1
 Guatemala,70.0,1,3.5,4,1,0,1,0,1,0,vegetal,unique,no taste,no taste,2
 Guatemala,70.0,0,3.0,4,1,0,1,0,1,0,off pungent,grassy,melon,no taste,3
@@ -358,24 +358,24 @@ Colombia,72.0,0,3.0,2,0,0,0,0,1,0,light color,dirty,astringent,no taste,3
 Colombia,72.0,0,2.5,2,0,0,0,0,1,0,light color,dirty,musty,no taste,3
 Venezuela,70.0,1,3.75,2,0,0,0,0,1,0,fruity,nutty,brownie,no taste,3
 Venezuela,75.0,1,3.5,2,0,0,0,0,1,0,bright fruit,strawberry,no taste,no taste,2
-Venezuela,74.0,0,3.25,2,0,0,0,0,1,0,nutty,intense,leathery,no taste,3
+Venezuela,74.0,1,3.25,2,0,0,0,0,1,0,nutty,intense,leathery,no taste,3
 Venezuela,75.0,0,2.5,2,0,0,0,0,1,0,intense,earthy,fuel,no taste,3
 Venezuela,77.0,1,3.5,2,0,0,0,0,1,0,assertive,fruity,acidic,no taste,3
-Venezuela,74.0,0,3.25,2,0,0,0,0,1,0,intense,black licorice,nutty,no taste,3
-Venezuela,75.0,0,3.25,2,0,0,0,0,1,0,spicy,nutty,ends sour,no taste,3
+Venezuela,74.0,1,3.25,2,0,0,0,0,1,0,intense,black licorice,nutty,no taste,3
+Venezuela,75.0,1,3.25,2,0,0,0,0,1,0,spicy,nutty,ends sour,no taste,3
 Venezuela,75.0,0,2.75,2,0,0,0,0,1,0,sandy,chalky,earthy,no taste,3
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,raspberry,dirty,sour,no taste,3
 Venezuela,75.0,0,2.5,2,0,0,0,0,1,0,high astringent,sandy,grass,no taste,3
 Colombia,64.0,1,3.5,4,1,0,1,0,1,0,intense,marshmallow,fruit,no taste,3
 Colombia,70.0,1,3.5,4,1,0,1,0,1,0,earthy,woody,smoke,no taste,3
-Colombia,70.0,0,3.25,4,1,0,1,0,1,0,intense,spice,no taste,no taste,2
+Colombia,70.0,1,3.25,4,1,0,1,0,1,0,intense,spice,no taste,no taste,2
 Colombia,69.0,0,2.75,4,1,0,1,0,1,0,green,vegetal,soil,fuel,4
 Colombia,72.0,1,3.75,3,1,0,0,0,1,0,rich,nutty,acidic,no taste,3
 Colombia,71.0,1,3.75,3,1,0,0,0,1,0,distinct,short,dried fruit,no taste,3
 Colombia,74.0,1,3.75,3,1,0,0,0,1,0,mild cocoa,astringent,no taste,no taste,2
 Honduras,70.0,1,3.5,4,1,0,1,0,1,0,deep cocoa,fatty,dairy,no taste,3
 Dominican republic,66.0,1,3.75,2,0,0,0,0,1,0,creamy,blueberry,black pepper,no taste,3
-Dominican republic,65.0,0,3.25,2,0,0,0,0,1,0,rustic,gritty,sweet,fruit,4
+Dominican republic,65.0,1,3.25,2,0,0,0,0,1,0,rustic,gritty,sweet,fruit,4
 Dominican republic,72.0,0,3.0,2,0,0,0,0,1,0,rustic,sweet,one dimensional,no taste,3
 Dominican republic,72.0,1,3.75,2,0,0,0,0,1,0,oily,cherry,rich cocoa,no taste,3
 Mexico,70.0,1,4.0,4,1,0,1,0,1,0,distinct lemon,no taste,no taste,no taste,1
@@ -385,13 +385,13 @@ Ecuador,71.0,1,3.75,4,1,0,1,0,1,0,creamy,mild spice,hazelnut,no taste,3
 Madagascar,71.0,1,3.5,4,1,0,1,0,1,0,creamy,earthy,dark roast,no taste,3
 Venezuela,71.0,1,3.5,4,1,0,1,0,1,0,gritty,fudge-like,nutty,no taste,3
 Venezuela,77.0,1,3.5,4,1,0,1,0,1,0,intense,roasty,rich cocoa,no taste,3
-Grenada,71.0,0,3.25,4,1,0,1,0,1,0,silky,Andes mint,off nutty,no taste,3
+Grenada,71.0,1,3.25,4,1,0,1,0,1,0,silky,Andes mint,off nutty,no taste,3
 Congo,70.0,1,3.5,4,1,0,1,0,1,0,rich,cherries,acidic,no taste,3
 Vietnam,70.0,1,3.5,2,0,0,0,0,1,0,balanced,dairy,spicy,no taste,3
-Peru,70.0,0,3.25,2,0,0,0,0,1,0,dried fruit,sour,nutella,no taste,3
+Peru,70.0,1,3.25,2,0,0,0,0,1,0,dried fruit,sour,nutella,no taste,3
 Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,sour milk,off,late tart,no taste,3
 Peru,70.0,0,3.0,2,0,0,0,0,1,0,ripe grapes,very acidic,no taste,no taste,2
-Peru,70.0,0,3.25,2,0,0,0,0,1,0,gritty,molasses,no taste,no taste,2
+Peru,70.0,1,3.25,2,0,0,0,0,1,0,gritty,molasses,no taste,no taste,2
 Ecuador,63.0,1,3.5,4,1,0,1,0,1,0,sandy,sweet,bold citrus,no taste,3
 Ecuador,71.0,1,3.5,4,1,0,1,0,1,0,dry,spicy,fruity,no taste,3
 Ecuador,82.0,0,2.5,4,1,0,1,0,1,0,cloying,fatty,bitter,no taste,3
@@ -403,13 +403,13 @@ Ecuador,100.0,1,3.5,1,0,0,0,0,0,0,fatty,controlled bitter,fruit,no taste,3
 Blend,70.0,1,3.5,2,0,0,0,0,1,0,oily surface,berry,cream,no taste,3
 Dominican republic,72.0,0,3.0,2,0,0,0,0,1,0,intense,fatty,brownie,no taste,3
 Cuba,75.0,0,2.5,2,0,0,0,0,1,0,intense,ashey,earthen,no taste,3
-Brazil,70.0,0,3.25,3,1,0,0,0,1,0,dairy,chocolate,mild fruit,no taste,3
+Brazil,70.0,1,3.25,3,1,0,0,0,1,0,dairy,chocolate,mild fruit,no taste,3
 Venezuela,70.0,0,3.0,3,1,0,0,0,1,0,strong nutty with off notes,no taste,no taste,no taste,1
 Bolivia,75.0,0,3.0,3,1,0,0,0,1,0,sandy,bold,cherry,no taste,3
 Tanzania,73.0,0,2.75,3,1,0,0,0,1,0,sweet,acidic,fatty,no taste,3
 Venezuela,75.0,0,2.5,3,1,0,0,0,1,0,nutty,burnt,fuel,no taste,3
 Ecuador,55.0,1,3.5,4,1,0,1,0,1,0,sandy,sweet,spicy,no taste,3
-Ecuador,55.0,0,3.25,4,1,0,1,0,1,0,sticky,sweet,grassy,no taste,3
+Ecuador,55.0,1,3.25,4,1,0,1,0,1,0,sticky,sweet,grassy,no taste,3
 Ecuador,55.0,0,3.0,4,1,0,1,0,1,0,sweet,floral,yogurt,no taste,3
 Ecuador,77.0,0,2.75,4,1,0,1,0,1,0,crumbly,cinamon,no taste,no taste,2
 Ecuador,77.0,0,2.5,4,1,0,1,0,1,0,perfume,chemical off note,no taste,no taste,2
@@ -420,18 +420,18 @@ Costa rica,72.0,0,3.0,2,0,0,0,0,1,0,fatty,woody,coffee,no taste,3
 Costa rica,80.0,0,2.75,2,0,0,0,0,1,0,fatty,fruit,muted,no taste,3
 Guatemala,72.0,1,3.5,3,1,0,0,0,1,0,woody,spicy,tobacco,no taste,3
 Costa rica,72.0,1,3.5,2,0,0,0,0,1,0,acidic,astringent,spicy,no taste,3
-Costa rica,72.0,0,3.25,2,0,0,0,0,1,0,floral,earthy,acidic,no taste,3
+Costa rica,72.0,1,3.25,2,0,0,0,0,1,0,floral,earthy,acidic,no taste,3
 Colombia,65.0,1,3.5,3,1,0,0,0,1,0,overly sweet,mild spice,no taste,no taste,2
 Colombia,65.0,1,3.5,3,1,0,0,0,1,0,sweet,grassy,nutty,no taste,3
-Colombia,65.0,0,3.25,3,1,0,0,0,1,0,nutty,grain,late choco,no taste,3
-Colombia,65.0,0,3.25,3,1,0,0,0,1,0,mild smoke,sweet edge,no taste,no taste,2
+Colombia,65.0,1,3.25,3,1,0,0,0,1,0,nutty,grain,late choco,no taste,3
+Colombia,65.0,1,3.25,3,1,0,0,0,1,0,mild smoke,sweet edge,no taste,no taste,2
 Colombia,65.0,0,3.0,3,1,0,0,0,1,0,sweet,marshmallow,no taste,no taste,2
 Blend,75.0,0,2.0,2,0,0,0,0,1,0,off notes,vanilla,no taste,no taste,2
-Brazil,65.0,0,3.25,2,0,0,0,0,1,0,molasses,rich,vegetal,no taste,3
+Brazil,65.0,1,3.25,2,0,0,0,0,1,0,molasses,rich,vegetal,no taste,3
 Brazil,71.0,0,3.0,2,0,0,0,0,1,0,sandy,intense,sweet,rich,4
 Dominican republic,73.0,1,3.5,2,0,0,0,0,1,0,sandy,mild intensity,fruit,no taste,3
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,sandy,nutty,cocoa,no taste,3
-Nicaragua,72.0,0,3.25,3,1,0,0,0,1,0,sandy,molasses,spice,no taste,3
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,sandy,nutty,cocoa,no taste,3
+Nicaragua,72.0,1,3.25,3,1,0,0,0,1,0,sandy,molasses,spice,no taste,3
 Bolivia,70.0,0,3.0,3,1,0,0,0,1,0,sandy,tobacco,molasses,no taste,3
 Venezuela,72.0,0,3.0,3,1,0,0,0,1,0,mild metallic and spice,no taste,no taste,no taste,1
 Peru,70.0,0,2.75,3,1,0,0,0,1,0,molasses,cocoa,no taste,no taste,2
@@ -443,7 +443,7 @@ Dominican republic,70.0,1,3.75,3,1,0,0,0,1,0,med roast,grassy,dried fruit,no tas
 Honduras,72.0,1,3.5,3,1,0,0,0,1,0,roasty,black pepper,nutty,no taste,3
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,nutty,floral,roasty,no taste,3
 Belize,72.0,1,4.0,3,1,0,0,0,1,0,bright fruit,molasses,nutty,no taste,3
-Venezuela,70.0,0,3.25,2,0,0,0,0,1,0,nutty,roasty,caramel,no taste,3
+Venezuela,70.0,1,3.25,2,0,0,0,0,1,0,nutty,roasty,caramel,no taste,3
 Mexico,70.0,1,3.75,3,1,0,0,0,1,0,smooth,caramel,dried fruit,no taste,3
 Puerto rico,70.0,1,3.5,3,1,0,0,0,1,0,smooth,mellow,floral,no taste,3
 Bolivia,70.0,0,3.0,3,1,0,0,0,1,0,creamy,woody,slight cherry,no taste,3
@@ -453,18 +453,18 @@ Ecuador,70.0,0,2.5,3,1,0,0,0,1,0,burnt rubber,leather,no taste,no taste,2
 Uganda,70.0,0,2.75,3,1,0,0,0,1,0,sandy,roasty,coffee,no taste,3
 Bolivia,74.0,0,3.0,2,0,0,0,0,1,0,dark roast,rich cocoa,no taste,no taste,2
 Venezuela,68.0,1,3.5,3,1,0,0,0,1,0,butter,roasty,cocoa,nutty,4
-Belize,70.0,0,3.25,3,1,0,0,0,1,0,slightly metallic,woody,berry,no taste,3
+Belize,70.0,1,3.25,3,1,0,0,0,1,0,slightly metallic,woody,berry,no taste,3
 Ecuador,75.0,0,3.0,3,1,0,0,0,1,0,dry,sandy,cocoa,no taste,3
 Ecuador,55.0,0,2.75,3,1,0,0,0,1,0,very sweet,very spicey,no taste,no taste,2
 Costa rica,70.0,1,3.5,3,1,0,0,0,1,0,green,leafy,no taste,no taste,2
 Peru,72.0,0,3.0,3,1,0,0,0,1,0,spicy,chocolatey,atypical,no taste,3
 Ecuador,72.0,1,3.5,3,1,0,0,0,1,0,sl. chalky,floral,pure,no taste,3
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,floral,earthy,no taste,no taste,2
-Belize,82.0,0,3.25,2,0,0,0,0,1,0,powdery,bland,mild choco,no taste,3
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,floral,earthy,no taste,no taste,2
+Belize,82.0,1,3.25,2,0,0,0,0,1,0,powdery,bland,mild choco,no taste,3
 Belize,75.0,0,3.0,2,0,0,0,0,1,0,bland,mild choco & leather,no taste,no taste,2
 Malaysia,70.0,1,3.5,2,0,0,0,0,1,0,high roast,banana raspberry,no taste,no taste,2
 Vietnam,70.0,0,2.75,2,0,0,0,0,1,0,roasty,sour milk,off note,no taste,3
-Dominican republic,71.0,0,3.25,3,1,0,0,0,1,0,chunky,spicy,rubbery,no taste,3
+Dominican republic,71.0,1,3.25,3,1,0,0,0,1,0,chunky,spicy,rubbery,no taste,3
 Nicaragua,72.0,0,2.5,3,1,0,0,0,1,0,grassy,rubbery,no taste,no taste,2
 Peru,65.0,0,2.75,2,0,0,0,0,1,0,flat,floral,medicinal,no taste,3
 Peru,65.0,0,2.5,2,0,0,0,0,1,0,flat,metallic,floral,no taste,3
@@ -474,7 +474,7 @@ Madagascar,70.0,1,3.75,2,0,0,0,0,1,0,mild,fruity then nutty,no taste,no taste,2
 Venezuela,68.0,1,3.75,2,0,0,0,0,1,0,mild,earthy,grassy,no taste,3
 Peru,90.0,0,2.5,2,0,0,0,0,0,1,sticky,bitter,molasses,tart,4
 Blend,80.0,0,2.5,2,0,0,0,0,0,1,sticky,coconut,sour,bitter,4
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,molasses,tart,floral,no taste,3
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,molasses,tart,floral,no taste,3
 Dominican republic,60.0,0,3.0,2,0,0,0,0,1,0,gritty,sweet,molasses,no taste,3
 Dominican republic,75.0,0,3.0,2,0,0,0,0,1,0,sandy,rich,roasty,earthy,4
 Venezuela,80.0,0,3.0,2,0,0,0,0,1,0,gritty,nutty,caramel,no taste,3
@@ -484,8 +484,8 @@ Bolivia,70.0,0,2.5,2,0,0,0,0,1,0,gritty,molasses,earthy,no taste,3
 Peru,74.0,0,2.75,3,1,0,0,0,0,1,unrefined,odd,vegetal,no taste,3
 Peru,80.0,1,3.75,3,1,0,0,0,1,0,nuts,coffee,peanut butter,no taste,3
 Congo,68.0,1,3.5,3,1,0,0,0,1,0,bold,rich cocoa,coffee,no taste,3
-Dominican republic,75.0,0,3.25,3,1,0,0,0,1,0,earthy,coffee,mild,tang,4
-Madagascar,72.0,0,3.25,3,1,0,0,0,1,0,tart,bright fruit,sour coffee,no taste,3
+Dominican republic,75.0,1,3.25,3,1,0,0,0,1,0,earthy,coffee,mild,tang,4
+Madagascar,72.0,1,3.25,3,1,0,0,0,1,0,tart,bright fruit,sour coffee,no taste,3
 Peru,68.0,0,2.75,3,1,0,0,0,1,0,sandy,sweet,cocoa,no taste,3
 Ecuador,82.0,0,2.5,3,1,0,0,0,1,0,sandy,fruity,burnt,no taste,3
 Peru,70.0,1,3.75,2,0,0,0,0,1,0,intense orange,floral notes,no taste,no taste,2
@@ -500,10 +500,10 @@ Blend,70.0,0,3.0,4,1,0,1,0,1,0,sweet,marshmallow,no taste,no taste,2
 Ecuador,71.0,0,2.5,4,1,0,1,0,1,0,earthy,floral,mild bitter,no taste,3
 Grenada,71.0,0,2.5,4,1,0,1,0,1,0,sweet,cardboard,no taste,no taste,2
 Venezuela,71.0,1,3.5,4,1,0,1,0,1,0,long lasting,cocoa base,no taste,no taste,2
-Blend,60.0,0,3.25,4,1,0,1,0,1,0,chewy,fudge-like,perfume,no taste,3
-Blend,75.0,0,3.25,4,1,0,1,0,1,0,oily,grassy,minty,no taste,3
+Blend,60.0,1,3.25,4,1,0,1,0,1,0,chewy,fudge-like,perfume,no taste,3
+Blend,75.0,1,3.25,4,1,0,1,0,1,0,oily,grassy,minty,no taste,3
 Madagascar,71.0,1,3.5,4,1,0,1,0,1,0,spicey,cocoa,no taste,no taste,2
-Mexico,71.0,0,3.25,4,1,0,1,0,1,0,earthy,sweet,no taste,no taste,2
+Mexico,71.0,1,3.25,4,1,0,1,0,1,0,earthy,sweet,no taste,no taste,2
 Mexico,65.0,0,2.5,2,0,0,0,0,1,0,coarse,sweet,sour,leathery,4
 Mexico,75.0,0,2.5,2,0,0,0,0,1,0,gritty,mild bitter,off notes,no taste,3
 Brazil,70.0,0,3.0,4,1,1,0,0,1,0,oily,muted,fruity,no taste,3
@@ -512,14 +512,14 @@ Venezuela,70.0,0,3.0,4,1,1,0,0,1,0,slow,fatty,subdued,nutty,4
 Mexico,70.0,0,2.75,4,1,1,0,0,1,0,fatty,cigarette butt,coffee,no taste,3
 Venezuela,80.0,0,2.5,4,1,1,0,0,1,0,dry,ashey,medicinal,no taste,3
 Martinique,42.0,0,2.75,4,0,1,1,0,1,0,gritty,sweet,hot cocoa,no taste,3
-Mexico,75.0,0,3.25,3,1,0,0,0,1,0,grainy,sweet,whole bean,no taste,3
+Mexico,75.0,1,3.25,3,1,0,0,0,1,0,grainy,sweet,whole bean,no taste,3
 Peru,70.0,0,2.75,2,0,0,0,0,1,0,sweet,sandy,spicy,no taste,3
 Peru,75.0,1,3.75,3,1,0,0,0,1,0,bold,spice,hit of anise,no taste,3
 Brazil,70.0,1,4.0,3,1,0,0,0,1,0,creamy,dried fruit,nutty,no taste,3
 Dominican republic,72.0,1,3.75,3,1,0,0,0,1,0,smooth,spicy,cocoa,no taste,3
 Ecuador,73.0,1,3.5,3,1,0,0,0,1,0,rich cocoa,floral,acidic,no taste,3
 Tanzania,72.0,1,3.5,3,1,0,0,0,1,0,basic cocoa,mild fruit,sweet,no taste,3
-Costa rica,70.0,0,3.25,3,1,0,0,0,1,0,cocoa,woody,basic,no taste,3
+Costa rica,70.0,1,3.25,3,1,0,0,0,1,0,cocoa,woody,basic,no taste,3
 Vietnam,72.0,0,3.0,3,1,0,0,0,1,0,roasty,hammy,nutty,no taste,3
 Venezuela,61.0,0,3.0,5,1,1,1,0,1,0,sweet,peanut butter,no taste,no taste,2
 Venezuela,77.0,0,2.75,3,1,0,0,0,1,0,red berry,bitter,roasty,sour,4
@@ -537,32 +537,32 @@ Mexico,72.0,0,3.0,3,1,0,0,0,1,0,intense,tangy,berry,sour,4
 Venezuela,72.0,0,3.0,3,1,0,0,0,1,0,lemon,sour,slight metallic,no taste,3
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,dark berry,winey,no taste,no taste,2
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,slow,less intense berry,nutty,no taste,3
-Peru,62.0,0,3.25,3,1,0,0,0,1,0,woodsy,nutty,no taste,no taste,2
+Peru,62.0,1,3.25,3,1,0,0,0,1,0,woodsy,nutty,no taste,no taste,2
 Peru,72.0,0,3.0,3,1,0,0,0,1,0,creamy,buttery,non descript,no taste,3
-Grenada,72.0,0,3.25,3,1,0,0,0,1,0,coffee and cocoa,no taste,no taste,no taste,1
-Jamaica,72.0,0,3.25,3,1,0,0,0,1,0,oily,fatty,rum,no taste,3
-Venezuela,72.0,0,3.25,3,1,0,0,0,1,0,oily,coffee,no taste,no taste,2
+Grenada,72.0,1,3.25,3,1,0,0,0,1,0,coffee and cocoa,no taste,no taste,no taste,1
+Jamaica,72.0,1,3.25,3,1,0,0,0,1,0,oily,fatty,rum,no taste,3
+Venezuela,72.0,1,3.25,3,1,0,0,0,1,0,oily,coffee,no taste,no taste,2
 Venezuela,70.0,0,3.0,3,1,0,0,0,1,0,fruity,bland,no taste,no taste,2
 Trinidad,72.0,0,3.0,3,1,0,0,0,1,0,dry,spicy,woody,no taste,3
 Ecuador,72.0,0,2.5,3,1,0,0,0,1,0,harsh aroma,melon floral,off,no taste,3
 Blend,72.0,1,3.75,3,1,0,0,0,1,0,creamy,nutty,cocoa,no taste,3
 Ghana,85.0,1,3.5,3,1,0,0,0,1,0,silky,minty,no taste,no taste,2
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,sandy,sweet,tart red berry,no taste,3
-Ecuador,65.0,0,3.25,4,1,0,1,0,1,0,oily,fragrant,spciy,no taste,3
+Ecuador,65.0,1,3.25,4,1,0,1,0,1,0,oily,fragrant,spciy,no taste,3
 Ghana,75.0,1,3.75,3,1,0,0,0,1,0,oily,rich cocoa,nutty,no taste,3
 Papua new guinea,75.0,1,3.5,3,1,0,0,0,1,0,sandy,sweet,nutty,no taste,3
-Tanzania,75.0,0,3.25,3,1,0,0,0,1,0,spice,roasty,off fatty note,no taste,3
-Brazil,65.0,0,3.25,3,1,0,0,0,1,0,sandy,sweet,smokey,no taste,3
-Fiji,67.0,0,3.25,3,1,0,0,0,1,0,acidic,sweet,cucumber,no taste,3
-Vanuatu,64.0,0,3.25,3,1,0,0,0,1,0,sandy,sweet,spicy,roasty,4
+Tanzania,75.0,1,3.25,3,1,0,0,0,1,0,spice,roasty,off fatty note,no taste,3
+Brazil,65.0,1,3.25,3,1,0,0,0,1,0,sandy,sweet,smokey,no taste,3
+Fiji,67.0,1,3.25,3,1,0,0,0,1,0,acidic,sweet,cucumber,no taste,3
+Vanuatu,64.0,1,3.25,3,1,0,0,0,1,0,sandy,sweet,spicy,roasty,4
 Vanuatu,83.0,0,2.75,3,1,0,0,0,1,0,banana nut,no taste,no taste,no taste,1
 Papua new guinea,70.0,0,2.5,3,1,0,0,0,1,0,true to sugar,molasses,no taste,no taste,2
 Ecuador,73.0,1,3.75,3,1,0,0,0,1,0,creamy,complex,fruity,no taste,3
-Ecuador,85.0,0,3.25,3,1,0,0,0,1,0,oily,mild bitter,nutty,fruit,4
+Ecuador,85.0,1,3.25,3,1,0,0,0,1,0,oily,mild bitter,nutty,fruit,4
 Honduras,70.0,1,3.5,2,0,0,0,0,1,0,banana,spicy,grassy,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,deep cherry,earthy,rubbery,no taste,3
-Colombia,70.0,0,3.25,2,0,0,0,0,1,0,nutty,citrus,no taste,no taste,2
-Australia,70.0,0,3.25,5,1,1,1,0,1,0,vanilla,banana,citrus,no taste,3
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,deep cherry,earthy,rubbery,no taste,3
+Colombia,70.0,1,3.25,2,0,0,0,0,1,0,nutty,citrus,no taste,no taste,2
+Australia,70.0,1,3.25,5,1,1,1,0,1,0,vanilla,banana,citrus,no taste,3
 Australia,70.0,0,2.75,3,1,0,0,0,1,0,sandy,candy like vanilla,off,no taste,3
 Dominican republic,72.0,0,2.75,2,0,0,0,0,1,0,hammy,sour,astringent,no taste,3
 Ecuador,70.0,1,3.5,3,1,0,0,0,1,0,floral,banana,no taste,no taste,2
@@ -571,11 +571,11 @@ Nicaragua,70.0,0,2.75,3,1,0,0,0,1,0,oily,grapes,pungent,no taste,3
 Grenada,70.0,0,2.25,3,1,0,0,0,1,0,off,pungent,intense,no taste,3
 Blend,65.0,0,2.5,4,1,0,1,0,1,0,sweet,vinegar,no taste,no taste,2
 Dominican republic,70.0,1,3.75,2,0,0,0,0,1,0,spicy,fudgey,no taste,no taste,2
-Colombia,70.0,0,3.25,2,0,0,0,0,1,0,grassy,green,candy spice,no taste,3
+Colombia,70.0,1,3.25,2,0,0,0,0,1,0,grassy,green,candy spice,no taste,3
 Costa rica,70.0,0,3.0,2,0,0,0,0,1,0,dried fruit,tannic,no taste,no taste,2
 Venezuela,70.0,1,3.5,2,0,0,0,0,1,0,roasty,oreo shell,coffee,no taste,3
 Papua new guinea,70.0,1,3.5,2,0,0,0,0,1,0,mild smoke,raspberry,cocoa,no taste,3
-Venezuela,70.0,0,3.25,2,0,0,0,0,1,0,licorice,sour,rich cocoa,no taste,3
+Venezuela,70.0,1,3.25,2,0,0,0,0,1,0,licorice,sour,rich cocoa,no taste,3
 Venezuela,70.0,0,2.75,2,0,0,0,0,1,0,acidic,sour,cocoa,no taste,3
 Dominican republic,70.0,1,3.75,2,0,0,0,0,1,0,cherry,rich choco,no taste,no taste,2
 Belize,70.0,1,3.5,2,0,0,0,0,1,0,heavy roast,blackberry,no taste,no taste,2
@@ -585,32 +585,32 @@ Belize,70.0,0,3.0,2,0,0,0,0,1,0,intense,roasty,coffee,raisin,4
 Dominican republic,70.0,1,3.75,2,0,0,0,0,1,0,cherry,rich choco,no taste,no taste,2
 Costa rica,70.0,0,3.0,2,0,0,0,0,1,0,cocoa,sour,toffee,earthy,4
 India,70.0,1,3.5,2,0,0,0,0,1,0,ripe orange,citrus,no taste,no taste,2
-Honduras,70.0,0,3.25,2,0,0,0,0,1,0,nutty,moderate acidity,no taste,no taste,2
+Honduras,70.0,1,3.25,2,0,0,0,0,1,0,nutty,moderate acidity,no taste,no taste,2
 Sierra leone,70.0,0,3.0,2,0,0,0,0,1,0,vegetal,high astringency,no taste,no taste,2
 Vietnam,70.0,1,3.5,2,0,0,0,0,1,0,green apple,sticky,no taste,no taste,2
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,grassy,fruity,brownie,no taste,3
-Madagascar,70.0,0,3.25,2,0,0,0,0,1,0,brownie,red berry,no taste,no taste,2
-Tanzania,70.0,0,3.25,2,0,0,0,0,1,0,cocoa flavor dominates,no taste,no taste,no taste,1
-Guatemala,60.0,0,3.25,4,1,1,0,0,1,0,wood,holiday spice,soap,no taste,3
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,grassy,fruity,brownie,no taste,3
+Madagascar,70.0,1,3.25,2,0,0,0,0,1,0,brownie,red berry,no taste,no taste,2
+Tanzania,70.0,1,3.25,2,0,0,0,0,1,0,cocoa flavor dominates,no taste,no taste,no taste,1
+Guatemala,60.0,1,3.25,4,1,1,0,0,1,0,wood,holiday spice,soap,no taste,3
 Guatemala,75.0,0,3.0,4,1,1,0,0,1,0,dark woody,plum,astringent,no taste,3
 Guatemala,60.0,1,3.5,4,1,1,0,0,1,0,oily,dried fruit,vanilla,no taste,3
 Guatemala,70.0,1,4.0,2,0,0,0,0,1,0,sweet spice,floral,no taste,no taste,2
 Guatemala,70.0,1,3.75,2,0,0,0,0,1,0,spicy,no taste,no taste,no taste,1
 Madagascar,70.0,1,3.75,2,0,0,0,0,1,0,oily,toffee,hints of fruit,no taste,3
-Guatemala,70.0,0,3.25,2,0,0,0,0,1,0,nutty,ashey,spicy pepper,no taste,3
+Guatemala,70.0,1,3.25,2,0,0,0,0,1,0,nutty,ashey,spicy pepper,no taste,3
 Venezuela,75.0,0,3.0,4,1,1,0,0,1,0,gummy,fatty,caramel,no taste,3
-Guatemala,82.0,0,3.25,4,1,1,0,0,1,0,fatty,sunflower,peanutbutter,no taste,3
-Blend,70.0,0,3.25,2,0,0,0,0,1,0,floral,licorice,roasty,no taste,3
+Guatemala,82.0,1,3.25,4,1,1,0,0,1,0,fatty,sunflower,peanutbutter,no taste,3
+Blend,70.0,1,3.25,2,0,0,0,0,1,0,floral,licorice,roasty,no taste,3
 Vietnam,72.0,0,3.0,2,0,0,0,0,1,0,raisins,astringent,no taste,no taste,2
 Venezuela,72.0,0,2.75,2,0,0,0,0,1,0,nut,tobacco,burnt,off notes,4
-Vietnam,70.0,0,3.25,4,1,0,1,0,1,0,muted,creamy,basic cocoa,no taste,3
+Vietnam,70.0,1,3.25,4,1,0,1,0,1,0,muted,creamy,basic cocoa,no taste,3
 Peru,72.0,0,3.0,4,1,0,1,0,1,0,muted,creamy,grapes,fatty,4
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,roasty,nutty,sweet,no taste,3
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,bold,floral,rum,no taste,3
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,roasty,nutty,sweet,no taste,3
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,bold,floral,rum,no taste,3
 Madagascar,70.0,0,3.0,3,1,0,0,0,1,0,sweet,strong sour,acidic,no taste,3
 Tanzania,70.0,0,3.0,3,1,0,0,0,1,0,intense,sweet,brownie,no taste,3
-Bolivia,75.0,0,3.25,3,1,0,0,0,1,0,mild cherry,fatty,no taste,no taste,2
-Blend,58.0,0,3.25,4,1,0,1,0,1,0,nice melt,odd rubber notes,no taste,no taste,2
+Bolivia,75.0,1,3.25,3,1,0,0,0,1,0,mild cherry,fatty,no taste,no taste,2
+Blend,58.0,1,3.25,4,1,0,1,0,1,0,nice melt,odd rubber notes,no taste,no taste,2
 Dominican republic,70.0,0,2.75,4,1,0,1,0,1,0,chalky,vanilla,caramel,no taste,3
 Venezuela,70.0,0,2.75,4,1,0,1,0,1,0,fatty,powdery,nut,sl. Burnt,4
 Ghana,70.0,0,2.5,4,1,0,1,0,1,0,vanilla,fatty,basic cocoa,no taste,3
@@ -634,13 +634,13 @@ Guatemala,72.0,0,3.0,2,0,0,0,0,1,0,smokey,roasty,acidic,rich,4
 Costa rica,77.0,1,3.5,2,0,0,0,0,1,0,red berry,lingering coffee,no taste,no taste,2
 Dominican republic,77.0,1,3.5,2,0,0,0,0,1,0,sticky,woodsy,rum,no taste,3
 Bolivia,80.0,0,2.75,2,0,0,0,0,1,0,intense fruit,bitter ending,no taste,no taste,2
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,grassy,tea,late sour,no taste,3
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,grassy,tea,late sour,no taste,3
 Dominican republic,74.0,0,3.0,2,0,0,0,0,1,0,earthy,tart,sour,no taste,3
 Madagascar,80.0,0,2.75,2,0,0,0,0,1,0,sandy,flat,hint of berry,no taste,3
 Venezuela,75.0,0,2.75,2,0,0,0,0,1,0,sticky,very roasty,nutty,no taste,3
 Bolivia,75.0,0,2.75,2,0,0,0,0,1,0,dry,mint,medicinal,no taste,3
 Ecuador,76.0,1,3.5,2,0,0,0,0,1,0,butter,floral,rum,no taste,3
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,oily,black pepper,roasty,no taste,3
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,oily,black pepper,roasty,no taste,3
 Dominican republic,74.0,1,3.5,2,0,0,0,0,1,0,mild fruit and spice,roasty,no taste,no taste,2
 Bolivia,70.0,1,3.75,2,0,0,0,0,1,0,sticky,rich,cherry,no taste,3
 Vietnam,78.0,1,3.5,2,0,0,0,0,1,0,tropical berry,intense,no taste,no taste,2
@@ -656,13 +656,13 @@ Sao tome,75.0,0,3.0,4,1,0,1,0,1,0,bland,fatty,fruit,no taste,3
 Sao tome,70.0,0,2.75,4,1,0,1,0,1,0,cocoa,raw,dirty,chemical,4
 Sao tome,75.0,0,2.5,4,1,0,1,0,1,0,late cocoa,harsh,off notes,no taste,3
 Nicaragua,72.0,1,3.5,3,1,0,0,0,1,0,nutty,caramel,toffee,no taste,3
-Panama,72.0,0,3.25,3,1,0,0,0,1,0,mild cherry,earthy,no taste,no taste,2
-Venezuela,72.0,0,3.25,3,1,0,0,0,1,0,fatty,rasin,nutty,no taste,3
+Panama,72.0,1,3.25,3,1,0,0,0,1,0,mild cherry,earthy,no taste,no taste,2
+Venezuela,72.0,1,3.25,3,1,0,0,0,1,0,fatty,rasin,nutty,no taste,3
 Venezuela,85.0,0,3.0,3,1,0,0,0,1,0,intense,spicy,floral,no taste,3
 Blend,70.0,0,1.5,3,0,0,1,0,1,0,acidic,astringent,unpleasant,no taste,3
 Blend,88.0,0,3.0,3,0,0,1,0,1,0,sticky,floral,no taste,no taste,2
 Venezuela,70.0,1,3.5,2,0,0,0,0,1,0,creamy,basic cocoa,no taste,no taste,2
-Peru,70.0,0,3.25,2,0,0,0,0,1,0,floral,olive,no taste,no taste,2
+Peru,70.0,1,3.25,2,0,0,0,0,1,0,floral,olive,no taste,no taste,2
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,long lasting,fruit,no taste,no taste,2
 Venezuela,70.0,1,4.0,2,0,0,0,0,1,0,creamy,complex,coffee,no taste,3
 Ecuador,70.0,1,4.0,2,0,0,0,0,1,0,creamy,nuts,woody,cocoa,4
@@ -670,8 +670,8 @@ Venezuela,70.0,1,4.0,2,0,0,0,0,1,0,creamy,mint,tobacco,olive,4
 Indonesia,70.0,1,3.75,2,0,0,0,0,1,0,creamy,smokey,tobacco,no taste,3
 Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,fruity,basic cocoa,no taste,no taste,2
 Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,smooth,banana,cocoa,no taste,3
-Venezuela,75.0,0,3.25,2,0,0,0,0,1,0,sticky,smoke,ham,earthy,4
-Venezuela,60.0,0,3.25,2,0,0,0,0,1,0,mild spice,licorice,no taste,no taste,2
+Venezuela,75.0,1,3.25,2,0,0,0,0,1,0,sticky,smoke,ham,earthy,4
+Venezuela,60.0,1,3.25,2,0,0,0,0,1,0,mild spice,licorice,no taste,no taste,2
 Blend,70.0,1,3.75,2,0,0,0,0,1,0,sticky,olive,no taste,no taste,2
 Blend,78.0,1,3.5,2,0,0,0,0,1,0,sticky,grassy,coffee,no taste,3
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,cucumber,hot spices,no taste,no taste,2
@@ -700,27 +700,27 @@ Ecuador,70.0,0,2.5,3,1,0,0,0,1,0,chalky,bread,dirt,no taste,3
 Honduras,72.0,1,3.75,3,1,0,0,0,1,0,dried fruit,grapes,sour,no taste,3
 Dominican republic,65.0,1,3.5,3,1,0,0,0,1,0,heavy roast,woody,berry,no taste,3
 Venezuela,71.0,1,3.5,3,1,0,0,0,1,0,intense cocoa,no taste,no taste,no taste,1
-Nicaragua,71.0,0,3.25,3,1,0,0,0,1,0,intense,almond,coffee,no taste,3
+Nicaragua,71.0,1,3.25,3,1,0,0,0,1,0,intense,almond,coffee,no taste,3
 Panama,72.0,0,3.0,3,1,0,0,0,1,0,licorice,leathery,no taste,no taste,2
 Venezuela,72.0,1,3.75,3,1,0,0,0,1,0,creamy,nutty,no taste,no taste,2
 Nicaragua,76.0,1,3.75,4,1,0,1,0,1,0,black pepper,rich,intense,no taste,3
 Nicaragua,70.0,1,3.5,4,1,0,1,0,1,0,sandy,full bodied,spicy,no taste,3
 Guatemala,70.0,1,4.0,4,1,0,1,0,1,0,intense,spicy,butterscotch,no taste,3
 Nigeria,70.0,0,2.75,4,1,0,1,0,1,0,candy like off flavor,no taste,no taste,no taste,1
-Guatemala,80.0,0,3.25,4,1,0,1,0,1,0,intense earthy,cocoa,roasty,no taste,3
+Guatemala,80.0,1,3.25,4,1,0,1,0,1,0,intense earthy,cocoa,roasty,no taste,3
 Philippines,70.0,1,3.5,4,1,0,1,0,1,0,cocoa,honey,watery,sweet,4
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,coarse,earthy,mild banana,no taste,3
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,coarse,earthy,mild banana,no taste,3
 Ecuador,70.0,1,4.0,3,1,0,0,0,1,0,blackberry and cinnamon,no taste,no taste,no taste,1
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,sandy,orange,butterscotch,no taste,3
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,fatty,roasty,intense brownie,no taste,3
-Dominican republic,70.0,0,3.25,3,1,0,0,0,1,0,dates,acidic,rich cocoa,no taste,3
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,cherry,earthy,tobacco,no taste,3
+Dominican republic,70.0,1,3.25,3,1,0,0,0,1,0,dates,acidic,rich cocoa,no taste,3
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,cherry,earthy,tobacco,no taste,3
 Peru,70.0,1,4.0,3,1,0,0,0,1,0,smoth,dense,grape,no taste,3
 Dominican republic,70.0,1,3.75,3,1,0,0,0,1,0,spicy,cocoa,no taste,no taste,2
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,ultra fruity,no taste,no taste,no taste,1
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,waxy,spicy,tobacco,no taste,3
-Colombia,70.0,0,3.25,3,1,0,0,0,1,0,dried fruit,strong floral,no taste,no taste,2
-Colombia,70.0,0,3.25,3,1,0,0,0,1,0,mild,dried fruit,chocolate,no taste,3
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,waxy,spicy,tobacco,no taste,3
+Colombia,70.0,1,3.25,3,1,0,0,0,1,0,dried fruit,strong floral,no taste,no taste,2
+Colombia,70.0,1,3.25,3,1,0,0,0,1,0,mild,dried fruit,chocolate,no taste,3
 Peru,72.0,0,2.75,3,1,0,0,0,1,0,buttery,burlap,no taste,no taste,2
 Peru,80.0,1,3.5,2,0,0,0,0,1,0,nutty,almond butter,no taste,no taste,2
 Venezuela,68.0,0,3.0,2,0,0,0,0,1,0,dry,gritty,cardboard,nutty,4
@@ -734,21 +734,21 @@ Venezuela,70.0,0,3.0,5,1,1,1,0,1,0,sandy,bold,cherry,peanut butter,4
 Venezuela,60.5,0,2.75,5,1,1,1,0,1,0,very sweet,marshmallow,no taste,no taste,2
 Venezuela,70.0,1,3.75,5,1,1,1,0,1,0,spicy,caramel,vanilla,no taste,3
 Guatemala,70.0,1,3.5,3,1,0,0,0,1,0,cocoa,fig notes,no taste,no taste,2
-St. lucia,70.0,0,3.25,2,0,0,0,0,1,0,sandy,tannic,earthy,no taste,3
+St. lucia,70.0,1,3.25,2,0,0,0,0,1,0,sandy,tannic,earthy,no taste,3
 St. lucia,60.0,0,2.75,2,0,0,0,0,1,0,low refinement,too sweet,no taste,no taste,2
 Peru,78.0,1,3.5,3,1,0,0,0,1,0,brownine,nutty,no taste,no taste,2
 Venezuela,79.0,0,3.0,3,1,0,0,0,1,0,coarse,woody,roasty,no taste,3
 Haiti,70.0,1,3.5,2,0,0,0,0,1,0,simple,mild cocoa,fruit,no taste,3
 Guatemala,70.0,1,3.5,2,0,0,0,0,1,0,spicy,sweet,no taste,no taste,2
 Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,fruity,roasty,no taste,no taste,2
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,earthy,floral,cocoa,no taste,3
-Honduras,75.0,0,3.25,2,0,0,0,0,1,0,carrots,heavy roast,no taste,no taste,2
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,earthy,floral,cocoa,no taste,3
+Honduras,75.0,1,3.25,2,0,0,0,0,1,0,carrots,heavy roast,no taste,no taste,2
 Vietnam,72.0,0,3.0,2,0,0,0,0,1,0,intens,brownie,spicy,metal,4
 Trinidad,72.0,1,3.5,3,1,0,0,0,1,0,muddy,rainins,nut,rubbery,4
 Tanzania,80.0,0,3.0,3,1,0,0,0,1,0,fruit,dirty,no taste,no taste,2
 Sierra leone,70.0,0,2.5,3,1,0,0,0,1,0,dirty,earthy,burnt,honey,4
-Vietnam,70.0,0,3.25,3,1,0,0,0,1,0,spicy,green,long,intense,4
-Vietnam,74.0,0,3.25,3,1,0,0,0,1,0,grit,smoke,wood,blackberry,4
+Vietnam,70.0,1,3.25,3,1,0,0,0,1,0,spicy,green,long,intense,4
+Vietnam,74.0,1,3.25,3,1,0,0,0,1,0,grit,smoke,wood,blackberry,4
 Vietnam,80.0,0,3.0,3,1,0,0,0,1,0,mild bitter,smoke,hammy,no taste,3
 Venezuela,72.0,0,3.0,4,1,1,0,0,1,0,woody,cocoa,no taste,no taste,2
 Venezuela,81.0,1,3.5,4,1,1,0,0,1,0,hazelnut,fruit,slight bitter,no taste,3
@@ -776,18 +776,18 @@ Venezuela,65.0,0,3.0,5,1,1,1,0,1,0,creamy,floral,complex,no taste,3
 Dominican republic,74.0,0,3.0,5,1,1,1,0,1,0,creamy,roasty,cocoa,no taste,3
 Blend,62.0,0,2.0,5,1,1,1,0,1,0,malitol,cocoa,no taste,no taste,2
 Grenada,58.0,1,3.5,5,1,1,1,0,1,0,spicey,marshmallow,no taste,no taste,2
-Dominican republic,70.0,0,3.25,3,1,0,0,0,1,0,sandy,sweet,mild fruit,no taste,3
+Dominican republic,70.0,1,3.25,3,1,0,0,0,1,0,sandy,sweet,mild fruit,no taste,3
 Dominican republic,80.0,0,3.0,3,1,0,0,0,1,0,molasses,licorice,bitter,no taste,3
 Dominican republic,85.0,0,2.5,3,1,0,0,0,1,0,intense,molasses,bitter,no taste,3
 Puerto rico,65.0,0,2.25,3,1,0,0,0,1,0,intense,molasses,sweet,no taste,3
-Blend,70.0,0,3.25,3,1,0,0,0,1,0,fruit,cocoa,fatty,no taste,3
+Blend,70.0,1,3.25,3,1,0,0,0,1,0,fruit,cocoa,fatty,no taste,3
 Mexico,70.0,0,3.0,3,1,0,0,0,1,0,banana,bland,sour,off,4
 Honduras,70.0,0,2.75,3,1,0,0,0,1,0,off,hammy,roasty,no taste,3
 Colombia,70.0,0,2.75,3,1,0,0,0,1,0,nutty,melon,vinegar,no taste,3
 Vanuatu,72.0,1,3.75,4,1,0,1,0,1,0,cherry,cocoa,creamy,no taste,3
 Papua new guinea,72.0,1,3.5,4,1,0,1,0,1,0,caramel,acidic,creamy,no taste,3
 Solomon islands,69.0,1,3.5,4,1,0,1,0,1,0,plums,cocoa,no taste,no taste,2
-Philippines,73.0,0,3.25,4,1,0,1,0,1,0,creamy,honey,mild hammy,no taste,3
+Philippines,73.0,1,3.25,4,1,0,1,0,1,0,creamy,honey,mild hammy,no taste,3
 Dominican republic,75.0,1,3.5,2,0,0,0,0,1,0,roasty,simple,no taste,no taste,2
 Colombia,75.0,0,3.0,2,0,0,0,0,1,0,high acidity,bitter,nutty,no taste,3
 Belize,75.0,0,2.75,2,0,0,0,0,1,0,hammy,dried fruit,no taste,no taste,2
@@ -802,7 +802,7 @@ Tanzania,67.0,1,3.75,2,0,0,0,0,1,0,gummy,sandy,complex,no taste,3
 Ecuador,75.0,1,3.5,2,0,0,0,0,1,0,sticky,floral,no taste,no taste,2
 Madagascar,70.0,0,2.75,2,0,0,0,0,1,0,gummy,bland,sour,no taste,3
 Haiti,68.0,1,3.5,2,0,0,0,0,1,0,roasty,hazelnut,cocoa,no taste,3
-Philippines,70.0,0,3.25,2,0,0,0,0,1,0,sandy,dried fruit,roasty,no taste,3
+Philippines,70.0,1,3.25,2,0,0,0,0,1,0,sandy,dried fruit,roasty,no taste,3
 Bolivia,70.0,0,3.0,2,0,0,0,0,1,0,nuts,sour milk,no taste,no taste,2
 Indonesia,70.0,0,3.0,2,0,0,0,0,1,0,sandy,powdery,late sour,no taste,3
 Dominican republic,72.0,0,2.75,2,0,0,0,0,1,0,coffee,acidic,astringent,no taste,3
@@ -810,7 +810,7 @@ Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,roasted nuts,citrus,creamy,no taste,3
 Mexico,70.0,0,3.0,2,0,0,0,0,1,0,sticky,dried sour fruit,roasty,no taste,3
 Ecuador,70.0,1,3.75,2,0,0,0,0,1,0,floral,orange,cocoa,no taste,3
 Peru,70.0,1,3.75,2,0,0,0,0,1,0,fig,mild anise,no taste,no taste,2
-Tanzania,70.0,0,3.25,2,0,0,0,0,1,0,nutty,bland,late sour,no taste,3
+Tanzania,70.0,1,3.25,2,0,0,0,0,1,0,nutty,bland,late sour,no taste,3
 Papua new guinea,70.0,0,3.0,2,0,0,0,0,1,0,off,tropical,vegetal,rubbery,4
 Bolivia,70.0,0,3.0,2,0,0,0,0,1,0,honey,mild floral,mild off,no taste,3
 Vanuatu,70.0,0,3.0,2,0,0,0,0,1,0,fruit,smokey,mocha,no taste,3
@@ -820,7 +820,7 @@ Venezuela,60.0,1,3.5,3,1,0,0,0,1,0,grits,hazelnut,rum,no taste,3
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,caramel,dairy,no taste,no taste,2
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,intense,tobacco,nuts,no taste,3
 Venezuela,72.0,1,3.5,2,0,0,0,0,1,0,nutty,no taste,no taste,no taste,1
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,dried fruit,large grits,no taste,no taste,2
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,dried fruit,large grits,no taste,no taste,2
 Venezuela,70.0,0,3.0,3,1,0,0,0,1,0,large grits,no taste,no taste,no taste,1
 Venezuela,85.0,0,3.0,2,0,0,0,0,1,0,sl. dry,gritty,fruity,nuts,4
 Venezuela,60.0,0,2.5,4,1,0,1,0,1,0,large grits,sweet,no taste,no taste,2
@@ -835,21 +835,21 @@ Peru,66.0,1,3.5,2,0,0,0,0,0,1,olive,rum,no taste,no taste,2
 Peru,70.0,0,2.5,2,0,0,0,0,1,0,fruit,cough medicine,no taste,no taste,2
 Peru,81.0,0,2.0,2,0,0,0,0,0,1,sandpaper,some fruit,bitter,no taste,3
 Peru,66.0,1,3.5,2,0,0,0,0,1,0,spice,citrus,sweet,no taste,3
-Nicaragua,68.0,0,3.25,2,0,0,0,0,1,0,sweet,tobacco,no taste,no taste,2
+Nicaragua,68.0,1,3.25,2,0,0,0,0,1,0,sweet,tobacco,no taste,no taste,2
 Costa rica,80.0,0,3.0,2,0,0,0,0,1,0,mild bitter,roasty,red berry,no taste,3
 Guatemala,73.0,1,3.5,2,0,0,0,0,1,0,roasty,grapes,rich brownie,no taste,3
 Peru,70.0,1,3.5,2,0,0,0,0,1,0,slight dry,citrus,grapefruit,no taste,3
-India,71.0,0,3.25,3,1,0,0,0,1,0,tea,spicy,sweet,no taste,3
+India,71.0,1,3.25,3,1,0,0,0,1,0,tea,spicy,sweet,no taste,3
 Venezuela,65.0,1,3.5,3,1,0,0,0,1,0,complex,mild licorice,spice,no taste,3
-Jamaica,70.0,0,3.25,3,1,0,0,0,1,0,creamy,roasty,tobacco,no taste,3
+Jamaica,70.0,1,3.25,3,1,0,0,0,1,0,creamy,roasty,tobacco,no taste,3
 Jamaica,70.0,0,3.0,3,1,0,0,0,1,0,creamy,simple,nutty,no taste,3
 Jamaica,80.0,0,2.75,3,1,0,0,0,1,0,slightly burnt,earthy,no taste,no taste,2
 Venezuela,70.0,1,4.0,3,1,0,0,0,1,0,tart,roasted cocoa,no taste,no taste,2
 Dominican republic,72.0,1,3.5,3,1,0,0,0,1,0,red berry,some roasty notes,no taste,no taste,2
 Jamaica,70.0,1,3.5,3,1,0,0,0,1,0,woody,grassy,long,no taste,3
-Jamaica,70.0,0,3.25,3,1,0,0,0,1,0,grassy,brownie,astringent,no taste,3
-Dominican republic,72.0,0,3.25,3,1,0,0,0,1,0,spicy,cocoa,no taste,no taste,2
-Venezuela,76.0,0,3.25,3,1,0,0,0,1,0,bready,nutty,earthy,intense,4
+Jamaica,70.0,1,3.25,3,1,0,0,0,1,0,grassy,brownie,astringent,no taste,3
+Dominican republic,72.0,1,3.25,3,1,0,0,0,1,0,spicy,cocoa,no taste,no taste,2
+Venezuela,76.0,1,3.25,3,1,0,0,0,1,0,bready,nutty,earthy,intense,4
 Madagascar,74.0,0,3.0,3,1,0,0,0,1,0,sandy,cocoa,red fruit,no taste,3
 Ghana,74.0,0,2.75,3,1,0,0,0,1,0,mild bitter,mild cocoa,roasty,no taste,3
 Madagascar,74.0,0,2.75,3,1,0,0,0,1,0,woody,red fruit,sour,no taste,3
@@ -861,7 +861,7 @@ Papua new guinea,69.0,0,3.0,2,0,0,0,0,1,0,sandy,smoke,red berry,no taste,3
 Peru,70.0,1,4.0,3,1,0,0,0,1,0,chocolate covered banana,no taste,no taste,no taste,1
 Dominican republic,72.0,1,3.75,3,1,0,0,0,1,0,blackberries,caramel,roasty,no taste,3
 Peru,70.0,1,3.75,3,1,0,0,0,1,0,cocoa and fresh grapes,no taste,no taste,no taste,1
-Dominican republic,72.0,0,3.25,3,1,0,0,0,1,0,mildly burnt caramel,no taste,no taste,no taste,1
+Dominican republic,72.0,1,3.25,3,1,0,0,0,1,0,mildly burnt caramel,no taste,no taste,no taste,1
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,orange,mellow but flavorful,no taste,no taste,2
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,fruity,floral,caramel,no taste,3
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,slow develop,caramel,roasty,no taste,3
@@ -870,7 +870,7 @@ Guatemala,70.0,1,3.75,3,1,0,0,0,1,0,long lasting,fruit,spicy,no taste,3
 Guatemala,70.0,1,3.5,3,1,0,0,0,1,0,rich cocoa,mild,fatty,no taste,3
 Guatemala,70.0,1,3.5,3,1,0,0,0,1,0,rich cocoa,nuts,no taste,no taste,2
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,complex,nuts,spice,floral,4
-Venezuela,72.0,0,3.25,3,1,0,0,0,1,0,roasty,mild fatty,no taste,no taste,2
+Venezuela,72.0,1,3.25,3,1,0,0,0,1,0,roasty,mild fatty,no taste,no taste,2
 Tanzania,70.0,1,3.75,2,0,0,0,0,1,0,creamy,simple,strong choco,no taste,3
 Brazil,70.0,1,3.5,2,0,0,0,0,1,0,creamy,fragrant,no taste,no taste,2
 Peru,70.0,1,4.0,2,0,0,0,0,1,0,banana,yogurt,cocoa,no taste,3
@@ -885,23 +885,23 @@ Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,cocoa,savory,no taste,no taste,2
 Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,black pepper,high astringency,no taste,no taste,2
 Nicaragua,68.0,1,3.5,3,1,0,0,0,1,0,unique flavor,floral-spice mix,no taste,no taste,2
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,delicate,balanced,no taste,no taste,2
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,woody,grassy,spicy,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,high acidity,grassy,no taste,no taste,2
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,woody,grassy,spicy,no taste,3
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,high acidity,grassy,no taste,no taste,2
 Nicaragua,60.0,0,3.0,3,1,0,0,0,1,0,sweet,metallic,no taste,no taste,2
 Nicaragua,70.0,0,3.0,3,1,0,0,0,1,0,floral,sticky,no taste,no taste,2
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,tobacco,woody,wild berry,no taste,3
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,roasty,fatty,woody,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,fatty,leathery,earthy,no taste,3
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,fatty,leathery,earthy,no taste,3
 Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,oily,gritty,savory,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,intense olive,citrus,vegetal,no taste,3
-Honduras,70.0,0,3.25,3,1,0,0,0,1,0,spicy,earthy,no taste,no taste,2
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,oily,fatty,bold olive,no taste,3
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,intense olive,citrus,vegetal,no taste,3
+Honduras,70.0,1,3.25,3,1,0,0,0,1,0,spicy,earthy,no taste,no taste,2
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,oily,fatty,bold olive,no taste,3
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,baked bread,no taste,no taste,no taste,1
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,oily,burnt black pepper,no taste,no taste,2
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,oily,burnt black pepper,no taste,no taste,2
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,mild fatty,nutty,roasty,no taste,3
-Nicaragua,85.0,0,3.25,3,1,0,0,0,1,0,oily,spicy,sour,no taste,3
+Nicaragua,85.0,1,3.25,3,1,0,0,0,1,0,oily,spicy,sour,no taste,3
 Nicaragua,60.0,0,3.0,3,1,0,0,0,1,0,oily,sweet,dairy,bland,4
-Costa rica,66.0,0,3.25,3,1,0,0,0,1,0,cocoa,spicy,sweet,no taste,3
+Costa rica,66.0,1,3.25,3,1,0,0,0,1,0,cocoa,spicy,sweet,no taste,3
 Costa rica,70.0,0,3.0,3,1,0,0,0,1,0,fatty,sweet,vanilla,no taste,3
 Peru,70.0,0,2.5,3,1,0,0,0,1,0,oily,tart,chlorine,no taste,3
 Dominican republic,70.0,1,3.75,3,1,0,0,0,1,0,dried fruit,intense,no taste,no taste,2
@@ -921,7 +921,7 @@ Ghana,70.0,1,4.0,4,1,0,1,0,1,0,cocoa and coconut,no taste,no taste,no taste,1
 Dominican republic,70.0,1,3.5,4,1,0,1,0,1,0,sticky,spice,roasty,earthy,4
 Dominican republic,80.0,1,3.5,4,1,0,1,0,1,0,deep cocoa,fruit,spice,no taste,3
 Madagascar,75.0,1,3.5,4,1,0,1,0,1,0,red fruit,tart,fat,leathery,4
-Madagascar,65.0,0,3.25,4,1,0,1,0,1,0,sandy,sweet,candy tart,no taste,3
+Madagascar,65.0,1,3.25,4,1,0,1,0,1,0,sandy,sweet,candy tart,no taste,3
 St. lucia,77.0,1,3.5,3,1,0,0,0,1,0,chewy,woody,rustic,no taste,3
 Venezuela,75.0,1,3.5,3,1,0,0,0,1,0,fatty,creamy,roasty,no taste,3
 Guatemala,72.0,0,2.75,3,1,0,0,0,1,0,dry,grainy,spicy,roasty,4
@@ -931,10 +931,10 @@ Belize,70.0,1,3.5,2,0,0,0,0,1,0,mild strawberry,cocoa,no taste,no taste,2
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,poor texture,earthy,no taste,no taste,2
 Costa rica,73.0,0,3.0,3,1,0,0,0,1,0,floral,rubbery,woody,no taste,3
 Colombia,73.0,0,2.5,3,1,0,0,0,1,0,acidic,mildly burnt,metallic,no taste,3
-Guatemala,77.0,0,3.25,3,1,0,0,0,1,0,sweet edge,bright fruit,sour,no taste,3
-Nicaragua,77.0,0,3.25,3,1,0,0,0,1,0,mild molasses,rich,gateway,no taste,3
+Guatemala,77.0,1,3.25,3,1,0,0,0,1,0,sweet edge,bright fruit,sour,no taste,3
+Nicaragua,77.0,1,3.25,3,1,0,0,0,1,0,mild molasses,rich,gateway,no taste,3
 Mexico,77.0,0,2.75,3,1,0,0,0,1,0,sour off flavor,nutty,earthy,no taste,3
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,creamy,fig,no taste,no taste,2
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,creamy,fig,no taste,no taste,2
 Belize,70.0,0,2.75,2,0,0,0,0,1,0,fruit,tart,rubber,no taste,3
 Vietnam,72.0,0,3.0,5,1,1,1,0,1,0,fatty,vanilla,dairy,no taste,3
 Blend,70.0,0,2.5,5,1,1,1,0,1,0,mildly rich,basic,roasty,no taste,3
@@ -942,8 +942,8 @@ Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,rich,coffee,cherry,no taste,3
 Peru,73.0,0,2.5,2,0,0,0,0,1,0,sour grapes,pungent,ashey,no taste,3
 Grenada,71.0,0,2.5,5,1,1,1,0,1,0,very sour,grassy,fatty,no taste,3
 Grenada,60.0,0,2.75,5,1,1,1,0,1,0,very sweet,coffee,mild sour,no taste,3
-Grenada,82.0,0,3.25,5,1,1,1,0,1,0,chunky,muted,mild bitter,no taste,3
-Blend,64.0,0,3.25,4,1,0,1,0,1,0,mild nutty,spicy,brownie,no taste,3
+Grenada,82.0,1,3.25,5,1,1,1,0,1,0,chunky,muted,mild bitter,no taste,3
+Blend,64.0,1,3.25,4,1,0,1,0,1,0,mild nutty,spicy,brownie,no taste,3
 Ecuador,64.0,0,3.0,4,1,0,1,0,1,0,sl. sweet,nutty,off note,no taste,3
 Ghana,64.0,0,3.0,4,1,0,1,0,1,0,hot cocoa,very nutty,no taste,no taste,2
 Blend,64.0,0,3.0,4,1,0,1,0,1,0,light perfume,mild,sweet,no taste,3
@@ -963,17 +963,17 @@ Blend,70.0,1,3.5,5,1,1,1,0,1,0,complex,fruit,nut,raisin,4
 U.s.a.,55.0,0,3.0,5,1,1,1,0,1,0,sweet,mild lemon,no taste,no taste,2
 Blend,91.0,0,3.0,5,1,1,1,0,1,0,bitter,fatty,fruit,no taste,3
 Trinidad,65.0,0,3.0,5,1,1,1,0,1,0,creamy,mild tobacco,ham,no taste,3
-Blend,61.0,0,3.25,5,1,1,1,0,1,0,sweet,creamy,floral,orange,4
-Blend,72.0,0,3.25,5,1,1,1,0,1,0,dry,sticky,brownie,no taste,3
+Blend,61.0,1,3.25,5,1,1,1,0,1,0,sweet,creamy,floral,orange,4
+Blend,72.0,1,3.25,5,1,1,1,0,1,0,dry,sticky,brownie,no taste,3
 Blend,72.0,0,2.75,5,1,1,1,0,1,0,dutched?,intense,rich cocoa,no taste,3
 Ecuador,65.0,1,3.5,5,1,1,1,0,1,0,very spicy,roasty,no taste,no taste,2
-Jamaica,65.0,0,3.25,5,1,1,1,0,1,0,sweet,vanilla,cocoa,no taste,3
+Jamaica,65.0,1,3.25,5,1,1,1,0,1,0,sweet,vanilla,cocoa,no taste,3
 Haiti,65.0,0,2.75,5,1,1,1,0,1,0,creamy,sl. Burnt,roasty,no taste,3
 Nicaragua,65.0,0,2.75,5,1,1,1,0,1,0,floral,over roasted,harsh,no taste,3
 Blend,70.0,1,3.75,5,1,1,1,0,1,0,nutty,black licorice,no taste,no taste,2
 Blend,70.0,1,3.5,3,1,0,0,0,1,0,sandy,intense,cherry,no taste,3
-Dominican republic,75.0,0,3.25,3,1,0,0,0,1,0,chalky,berry,cocoa,no taste,3
-U.s.a.,66.0,0,3.25,3,1,0,0,0,1,0,muted,mild fruit,sweet,no taste,3
+Dominican republic,75.0,1,3.25,3,1,0,0,0,1,0,chalky,berry,cocoa,no taste,3
+U.s.a.,66.0,1,3.25,3,1,0,0,0,1,0,muted,mild fruit,sweet,no taste,3
 Blend,70.0,0,3.0,3,1,0,0,0,1,0,fatty,nutty,earthy,no taste,3
 Blend,80.0,0,3.0,3,1,0,0,0,1,0,sandy,roasted vegetal,no taste,no taste,2
 Papua new guinea,80.0,0,2.75,3,1,0,0,0,1,0,smokey,cherries,sour,no taste,3
@@ -985,18 +985,18 @@ Ecuador,55.0,0,2.75,4,1,0,1,0,1,0,overyly sweet,banana,yogurt,no taste,3
 Brazil,77.0,1,3.5,3,1,0,0,0,1,0,rich chocolate,sweet edge,no taste,no taste,2
 Brazil,74.0,1,3.5,3,1,0,0,0,1,0,rich chocolate,sandy texture,no taste,no taste,2
 Brazil,67.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,dried fruit,no taste,3
-Brazil,85.0,0,3.25,3,1,0,0,0,1,0,powdery,rich,coffee,roasty,4
+Brazil,85.0,1,3.25,3,1,0,0,0,1,0,powdery,rich,coffee,roasty,4
 Brazil,75.0,0,3.0,3,1,0,0,0,1,0,flat,late tart notes,no taste,no taste,2
-Vietnam,70.0,0,3.25,3,1,0,0,0,1,0,sandy,brownie,coconut,no taste,3
+Vietnam,70.0,1,3.25,3,1,0,0,0,1,0,sandy,brownie,coconut,no taste,3
 India,70.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,cocoa,no taste,3
 Dominican republic,70.0,1,3.5,3,1,0,0,0,1,0,earthy,dirty,dried fruit,no taste,3
-Tanzania,72.0,0,3.25,3,1,0,0,0,1,0,cocoa,fatty,fruit,no taste,3
+Tanzania,72.0,1,3.25,3,1,0,0,0,1,0,cocoa,fatty,fruit,no taste,3
 Peru,65.0,0,2.75,3,1,0,0,0,1,0,pungent,chemical,no taste,no taste,2
 Peru,64.0,0,2.75,3,0,0,1,0,1,0,powdery,vanilla,artificial,no taste,3
 Venezuela,71.0,0,3.0,4,1,0,1,0,1,0,nutty,sweet,fatty,sandy,4
 Indonesia,71.0,0,2.5,4,1,0,1,0,1,0,rubber,fatty,sandy,grape,4
 Blend,71.0,0,2.5,4,1,0,1,0,1,0,sandy,fatty,chemical,no taste,3
-Belize,70.0,0,3.25,3,1,0,0,0,1,0,pungent raisin,metallic,no taste,no taste,2
+Belize,70.0,1,3.25,3,1,0,0,0,1,0,pungent raisin,metallic,no taste,no taste,2
 Costa rica,74.0,1,3.5,3,1,0,0,0,1,0,mostly earthy,mild dried fruit,no taste,no taste,2
 Ecuador,67.0,1,3.75,3,1,0,0,0,1,0,nutty,butterscotch,no taste,no taste,2
 U.s.a.,67.0,1,3.75,3,1,0,0,0,1,0,spicy,intense,fades fast,no taste,3
@@ -1009,8 +1009,8 @@ Bolivia,72.0,1,4.0,3,1,0,0,0,1,0,dark berry,honey,cream,no taste,3
 Bolivia,68.0,1,3.75,3,1,0,0,0,1,0,creamy,mild nutty & woody,no taste,no taste,2
 Venezuela,74.0,1,3.5,3,1,0,0,0,1,0,sandy,sweet,mild fruit,no taste,3
 Uganda,57.0,0,2.75,3,1,0,0,0,1,0,too sweet,spicy,candied,no taste,3
-Ecuador,73.0,0,3.25,2,0,0,0,0,0,1,floral,palm,sour,no taste,3
-Peru,70.0,0,3.25,2,0,0,0,0,0,1,palm,spicy,flour,no taste,3
+Ecuador,73.0,1,3.25,2,0,0,0,0,0,1,floral,palm,sour,no taste,3
+Peru,70.0,1,3.25,2,0,0,0,0,0,1,palm,spicy,flour,no taste,3
 Madagascar,74.0,0,3.0,2,0,0,0,0,0,1,sandy,tart,tangy,palm,4
 Venezuela,70.0,0,3.0,2,0,0,0,0,0,1,intense,palm,nutty,no taste,3
 Tanzania,70.0,0,2.75,2,0,0,0,0,0,1,intense,palm,earthy,no taste,3
@@ -1020,13 +1020,13 @@ Madagascar,74.0,0,2.75,2,0,0,0,0,0,1,sour,citrus,molasses,no taste,3
 Ecuador,73.0,0,2.5,2,0,0,0,0,0,1,harsh flavor,hay,no taste,no taste,2
 Peru,70.0,0,2.25,2,0,0,0,0,0,1,light color,sour,pungent,no taste,3
 Peru,66.0,1,3.5,3,1,0,0,0,1,0,mild caramel,honey,no taste,no taste,2
-Dominican republic,75.0,0,3.25,3,1,0,0,0,1,0,intense,bitter,coffee,no taste,3
+Dominican republic,75.0,1,3.25,3,1,0,0,0,1,0,intense,bitter,coffee,no taste,3
 Madagascar,70.0,0,2.75,3,1,0,0,0,1,0,sour,earthy,no taste,no taste,2
 Venezuela,72.0,0,2.75,3,1,0,0,0,1,0,nutty,off notes,no taste,no taste,2
 Ecuador,85.0,1,3.5,3,1,0,0,0,1,0,butterscotch,burnt cinnamon,no taste,no taste,2
-Venezuela,68.0,0,3.25,3,1,0,0,0,1,0,high acid,sweet,nut,strawberry,4
+Venezuela,68.0,1,3.25,3,1,0,0,0,1,0,high acid,sweet,nut,strawberry,4
 Ecuador,58.0,1,3.5,4,1,0,1,0,1,0,dry,nutty,sweet,no taste,3
-Ecuador,58.0,0,3.25,4,1,0,1,0,1,0,dry,intense floral,spciy,no taste,3
+Ecuador,58.0,1,3.25,4,1,0,1,0,1,0,dry,intense floral,spciy,no taste,3
 Ecuador,72.0,0,3.0,2,0,0,0,0,1,0,dry,floral,slight musty,no taste,3
 Ecuador,80.0,0,2.5,2,0,0,0,0,1,0,sandy,perfume,nutty,no taste,3
 Ecuador,80.0,0,2.0,4,1,0,1,0,1,0,perfume,burning,no taste,no taste,2
@@ -1049,7 +1049,7 @@ St. lucia,72.0,0,3.0,3,1,0,0,0,1,0,grassy,tobacco,intense,no taste,3
 Sao tome,72.0,0,3.0,4,1,0,1,0,1,0,fungal,mushroom,mild burn,no taste,3
 Tanzania,75.0,0,2.75,4,1,0,1,0,1,0,sandy,sweet,mild cocoa,no taste,3
 Venezuela,70.0,0,2.75,4,1,0,1,0,1,0,ashey,woody,bright red,no taste,3
-St. lucia,65.0,0,3.25,4,1,0,1,0,1,0,sweet,cocoa,grassy,no taste,3
+St. lucia,65.0,1,3.25,4,1,0,1,0,1,0,sweet,cocoa,grassy,no taste,3
 Ecuador,80.0,0,3.0,4,1,0,1,0,1,0,mild bitter,floral,no taste,no taste,2
 St. lucia,65.0,0,3.0,4,1,0,1,0,1,0,woody,nutty,short,no taste,3
 Madagascar,66.0,1,3.5,4,0,1,1,0,1,0,sweet,red berry,sour,no taste,3
@@ -1060,7 +1060,7 @@ Ecuador,90.0,0,3.0,2,0,0,0,0,1,0,oily,leathery,intense bitter,no taste,3
 Madagascar,72.0,0,3.0,4,1,0,1,0,1,0,nutty,mild coffee,no taste,no taste,2
 Ecuador,100.0,0,2.5,1,0,0,0,0,0,0,candy,uncontrolled bitterness,no taste,no taste,2
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,nutty,coffee,rich,no taste,3
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,fatty,gritty,roasty,no taste,3
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,fatty,gritty,roasty,no taste,3
 Dominican republic,70.0,1,3.75,3,1,0,0,0,1,0,raisins,rich choco,no taste,no taste,2
 Dominican republic,70.0,1,3.5,3,1,0,0,0,1,0,spicy,mild fruit,fatty,no taste,3
 Bolivia,70.0,0,3.0,3,1,0,0,0,1,0,intense,cherry,metallic,no taste,3
@@ -1075,24 +1075,24 @@ Venezuela,72.0,1,3.75,3,1,0,0,0,1,0,creamy,cocoa,lemon,no taste,3
 Venezuela,72.0,1,3.75,3,1,0,0,0,1,0,creamy,roasted nuts,fatty,no taste,3
 Venezuela,72.0,1,3.75,3,1,0,0,0,1,0,creamy,nutty,cocoa,no taste,3
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,creamy,nutty,muted,no taste,3
-Venezuela,72.0,0,3.25,3,1,0,0,0,1,0,creamy,sour,raisin,no taste,3
+Venezuela,72.0,1,3.25,3,1,0,0,0,1,0,creamy,sour,raisin,no taste,3
 Venezuela,72.0,1,3.75,3,1,0,0,0,1,0,fatty,rich,berry notes,no taste,3
 India,61.0,0,2.5,4,1,0,1,0,1,0,sour,sweet,rubber,no taste,3
-Dominican republic,70.0,0,3.25,3,1,0,0,0,0,1,heavy roast,black licorice,no taste,no taste,2
+Dominican republic,70.0,1,3.25,3,1,0,0,0,0,1,heavy roast,black licorice,no taste,no taste,2
 Dominican republic,70.0,0,2.75,3,1,0,0,0,0,1,sandy,strawberry,coconut,no taste,3
 Honduras,77.0,0,3.0,3,1,0,0,0,1,0,buttery,intense,spice,roasty,4
-Vietnam,72.0,0,3.25,3,1,0,0,0,1,0,molasses,roasty,no taste,no taste,2
+Vietnam,72.0,1,3.25,3,1,0,0,0,1,0,molasses,roasty,no taste,no taste,2
 Peru,72.0,0,3.0,4,1,0,1,0,0,1,sandy,caramel,no taste,no taste,2
 Peru,72.0,0,2.75,4,1,0,1,0,0,1,very sandy,sweet,spicy,no taste,3
 Madagascar,72.0,1,3.5,2,0,0,0,0,1,0,intense,tart,earthy,no taste,3
-Belize,72.0,0,3.25,2,0,0,0,0,1,0,mild metallic,spice,tea,no taste,3
-Dominican republic,72.0,0,3.25,2,0,0,0,0,1,0,roasty,nutty,spicy,no taste,3
+Belize,72.0,1,3.25,2,0,0,0,0,1,0,mild metallic,spice,tea,no taste,3
+Dominican republic,72.0,1,3.25,2,0,0,0,0,1,0,roasty,nutty,spicy,no taste,3
 Peru,72.0,0,2.25,2,0,0,0,0,1,0,off notes,pungent,no taste,no taste,2
 St.vincent-grenadines,72.0,0,2.75,4,1,0,1,0,1,0,woody,meaty,vegetal,no taste,3
 Belize,70.0,1,3.5,2,0,0,0,0,1,0,intense,cherry,rich,metallic,4
 Dominican republic,70.0,0,2.75,2,0,0,0,0,1,0,intense,molasses,fruit,no taste,3
 Ghana,71.0,0,2.0,5,1,1,1,0,1,0,gritty,unrefined,off notes,no taste,3
-Venezuela,72.0,0,3.25,3,1,0,0,0,1,0,sandy,sweet,no taste,no taste,2
+Venezuela,72.0,1,3.25,3,1,0,0,0,1,0,sandy,sweet,no taste,no taste,2
 Ecuador,78.0,1,3.75,4,1,0,1,0,1,0,full bodied,floral,no taste,no taste,2
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,dairy,nutty,butterscotch,no taste,3
 Vietnam,65.0,1,3.5,4,1,0,1,0,1,0,sweet,fruity,vanilla,no taste,3
@@ -1100,8 +1100,8 @@ Ecuador,70.0,1,3.5,4,1,0,1,0,1,0,floral,bourbon,salt,no taste,3
 Madagascar,68.0,1,3.5,5,1,1,1,0,1,0,vanilla,gateway,no taste,no taste,2
 Jamaica,67.0,0,3.0,4,1,0,1,0,1,0,candy like,sweet,dairy,no taste,3
 Peru,75.0,0,3.0,4,1,0,1,0,1,0,floral,tobacco,candied,no taste,3
-Colombia,73.0,0,3.25,4,1,0,1,0,1,0,complex,bold,gritty,no taste,3
-Trinidad,80.0,0,3.25,4,1,0,1,0,1,0,bold,spice,sour fruit,gritty,4
+Colombia,73.0,1,3.25,4,1,0,1,0,1,0,complex,bold,gritty,no taste,3
+Trinidad,80.0,1,3.25,4,1,0,1,0,1,0,bold,spice,sour fruit,gritty,4
 India,66.0,0,3.0,4,1,0,1,0,1,0,gritty,coffee,sweet,hammy,4
 Madagascar,63.0,0,2.75,2,0,0,0,0,1,0,off note,vanilla,basic cocoa,no taste,3
 Venezuela,75.0,0,2.75,3,1,0,0,0,1,0,harsh,burnt nuts,powdery,no taste,3
@@ -1110,15 +1110,15 @@ Thailand,70.0,1,3.5,3,1,0,0,0,1,0,nutty,cocoa,sour veggie,no taste,3
 Thailand,70.0,1,3.5,3,1,0,0,0,1,0,herbal,tea-like,no taste,no taste,2
 Thailand,70.0,0,3.0,3,1,0,0,0,1,0,floral,earthy,grassy,no taste,3
 Dominican republic,70.0,1,3.5,5,1,1,1,0,1,0,raisins,prunes,no taste,no taste,2
-Dominican republic,55.0,0,3.25,5,1,1,1,0,1,0,very sweet,basic cocoa,no taste,no taste,2
-Dominican republic,62.0,0,3.25,5,1,1,1,0,1,0,candy-like,peanut butter,no taste,no taste,2
+Dominican republic,55.0,1,3.25,5,1,1,1,0,1,0,very sweet,basic cocoa,no taste,no taste,2
+Dominican republic,62.0,1,3.25,5,1,1,1,0,1,0,candy-like,peanut butter,no taste,no taste,2
 Dominican republic,82.0,0,3.0,5,1,1,1,0,1,0,nutty,sour milk,off note,no taste,3
 Dominican republic,68.0,1,3.75,4,1,0,1,0,1,0,creamy,floral,dried fruit,no taste,3
 Dominican republic,65.0,1,3.75,4,1,0,1,0,1,0,creamy,distinct,dried fruit,no taste,3
 Dominican republic,71.5,1,3.5,3,1,0,0,0,1,0,creamy,balanced,fig,cocoa,4
 Dominican republic,70.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,acidic,no taste,3
 Dominican republic,72.0,0,3.0,4,1,0,1,0,1,0,creamy,black tea,vegetal,no taste,3
-Tanzania,75.0,0,3.25,3,1,0,0,0,1,0,base cocoa,fruit,fatty,no taste,3
+Tanzania,75.0,1,3.25,3,1,0,0,0,1,0,base cocoa,fruit,fatty,no taste,3
 Nicaragua,75.0,0,3.0,3,1,0,0,0,1,0,spicy,tobacco,no taste,no taste,2
 Peru,75.0,0,3.0,3,1,0,0,0,1,0,muted,grapes,astringent,no taste,3
 Ecuador,70.0,1,3.5,4,1,1,0,0,1,0,intense,mint,marshmallow,no taste,3
@@ -1131,26 +1131,26 @@ Ecuador,85.0,0,2.5,4,1,1,0,0,1,0,crumbly,vanilla,bitter,no taste,3
 Ecuador,75.0,0,2.5,4,1,1,0,0,1,0,grassy,earthy,coffee,no taste,3
 Dominican republic,70.0,1,3.75,3,1,0,0,0,1,0,fatty,dark berry,grassy,no taste,3
 Mexico,72.0,0,2.0,5,1,1,1,0,1,0,sweet,vanilla domintates,nut,no taste,3
-Colombia,70.0,0,3.25,3,1,0,0,0,1,0,poor finish,cocoa,grassy,no taste,3
+Colombia,70.0,1,3.25,3,1,0,0,0,1,0,poor finish,cocoa,grassy,no taste,3
 Dominican republic,60.0,0,3.0,2,0,0,0,0,1,0,gritty,overly sweet,citrus,no taste,3
-Mexico,70.0,0,3.25,2,0,0,0,0,1,0,medium roast,nutty,no taste,no taste,2
+Mexico,70.0,1,3.25,2,0,0,0,0,1,0,medium roast,nutty,no taste,no taste,2
 Belize,70.0,0,3.0,2,0,0,0,0,1,0,gritty,sour,berries,no taste,3
 Vietnam,70.0,0,3.0,2,0,0,0,0,1,0,sticky,molasses,sour,no taste,3
 Mexico,70.0,1,3.75,2,0,0,0,0,1,0,intense,high acidity,no taste,no taste,2
-Philippines,70.0,0,3.25,2,0,0,0,0,1,0,nuts,dried fruit,grassy,no taste,3
+Philippines,70.0,1,3.25,2,0,0,0,0,1,0,nuts,dried fruit,grassy,no taste,3
 Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,roasty,nutty,no taste,no taste,2
-Papua new guinea,70.0,0,3.25,2,0,0,0,0,1,0,astringent,smomkey cocoa,no taste,no taste,2
+Papua new guinea,70.0,1,3.25,2,0,0,0,0,1,0,astringent,smomkey cocoa,no taste,no taste,2
 Colombia,70.0,0,3.0,2,0,0,0,0,1,0,light color,no taste,no taste,no taste,1
-Madagascar,72.0,0,3.25,3,1,0,0,0,1,0,strawberry,intense,sour,no taste,3
-Belize,90.0,0,3.25,2,0,0,0,0,1,0,intense,spicy,pungent,no taste,3
-Dominican republic,72.0,0,3.25,3,1,0,0,0,1,0,spicy,molasses,earthy,no taste,3
-Dominican republic,72.0,0,3.25,3,1,0,0,0,1,0,earthy,fatty,tea,no taste,3
+Madagascar,72.0,1,3.25,3,1,0,0,0,1,0,strawberry,intense,sour,no taste,3
+Belize,90.0,1,3.25,2,0,0,0,0,1,0,intense,spicy,pungent,no taste,3
+Dominican republic,72.0,1,3.25,3,1,0,0,0,1,0,spicy,molasses,earthy,no taste,3
+Dominican republic,72.0,1,3.25,3,1,0,0,0,1,0,earthy,fatty,tea,no taste,3
 Belize,72.0,0,3.0,3,1,0,0,0,1,0,nutty,sour milk,no taste,no taste,2
 Venezuela,72.0,0,2.75,3,1,0,0,0,1,0,nutty,pungent,sour,no taste,3
 Peru,72.0,0,2.5,2,0,0,0,0,1,0,intense,pungent,tangy,no taste,3
 Brazil,70.0,1,3.75,4,1,0,1,0,1,0,creamy,mild flavors,no taste,no taste,2
 Ecuador,70.0,1,3.75,4,1,0,1,0,1,0,oranges,no taste,no taste,no taste,1
-Haiti,70.0,0,3.25,4,1,0,1,0,1,0,spicy,vanilla,dairy,no taste,3
+Haiti,70.0,1,3.25,4,1,0,1,0,1,0,spicy,vanilla,dairy,no taste,3
 Peru,70.0,0,2.75,4,1,0,1,0,1,0,astringent,unbalanced,off,no taste,3
 Dominican republic,72.5,0,3.0,5,1,1,0,1,1,0,vanilla,candy-like,sour milk,no taste,3
 Madagascar,72.5,0,3.0,5,1,1,0,1,1,0,mild vanilla and mild fruit,no taste,no taste,no taste,1
@@ -1159,15 +1159,15 @@ Ecuador,72.5,0,2.5,5,1,1,0,1,1,0,intense,bourbon,vanilla,no taste,3
 Madagascar,64.0,1,3.5,5,1,1,1,0,1,0,smooth,rich,lemon,no taste,3
 Bolivia,68.0,0,3.0,5,1,1,1,0,1,0,rich,spice,cheese,no taste,3
 Dominican republic,74.0,1,3.75,5,1,1,1,0,1,0,simple,rich hot cocoa,no taste,no taste,2
-Grenada,75.0,0,3.25,5,1,1,1,0,1,0,creamy,cocoa,spice,no taste,3
+Grenada,75.0,1,3.25,5,1,1,1,0,1,0,creamy,cocoa,spice,no taste,3
 Venezuela,71.0,0,3.0,5,1,1,1,0,1,0,cocoa,nutty,acidic,burning,4
 Ecuador,74.0,1,3.75,5,1,1,1,0,1,0,spicy,roasty,coffee,no taste,3
 Brazil,70.0,1,4.0,5,1,1,1,0,1,0,creamy,woody,nutty,no taste,3
 Venezuela,68.0,1,3.75,5,1,1,1,0,1,0,berry,rich cocoa dominates,no taste,no taste,2
-Peru,74.0,0,3.25,5,1,1,1,0,1,0,floral,soapy,earthy,no taste,3
+Peru,74.0,1,3.25,5,1,1,1,0,1,0,floral,soapy,earthy,no taste,3
 Fiji,68.0,0,3.0,3,1,0,0,0,1,0,unrefined,sweet,basic cocoa,no taste,3
-Belize,70.0,0,3.25,4,1,0,1,0,1,0,molasses,high acidity,no taste,no taste,2
-Guatemala,70.0,0,3.25,2,0,0,0,0,1,0,tart,molasses,grits,no taste,3
+Belize,70.0,1,3.25,4,1,0,1,0,1,0,molasses,high acidity,no taste,no taste,2
+Guatemala,70.0,1,3.25,2,0,0,0,0,1,0,tart,molasses,grits,no taste,3
 Dominican republic,70.0,0,3.0,2,0,0,0,0,1,0,anise,spicy,earthy,no taste,3
 Peru,75.0,0,3.0,2,0,0,0,0,1,0,earthy,molasses,dried fruit,no taste,3
 Belize,70.0,1,3.5,2,0,0,0,0,1,0,fruit,cocoa,grape,no taste,3
@@ -1176,12 +1176,12 @@ Peru,72.0,1,3.5,2,0,0,0,0,1,0,sandy,grapes,no taste,no taste,2
 Blend,74.0,1,3.5,4,1,0,1,0,1,0,roasty,dark berry,rich,no taste,3
 Blend,60.0,1,3.75,4,1,0,1,0,1,0,cocoa,caramel,sweet,no taste,3
 Venezuela,69.0,1,3.5,4,1,0,1,0,1,0,nutty,grassy,rich cocoa,no taste,3
-Ghana,68.0,0,3.25,4,1,0,1,0,1,0,rich cocoa,burning sensation,no taste,no taste,2
+Ghana,68.0,1,3.25,4,1,0,1,0,1,0,rich cocoa,burning sensation,no taste,no taste,2
 Blend,60.0,0,3.0,4,1,0,1,0,1,0,rich,sweet,cocoa,intense,4
 Grenada,68.0,1,3.5,4,1,0,1,0,1,0,rich,vegetal,banana,spice,4
 Dominican republic,66.0,1,3.5,4,1,0,1,0,1,0,nutty,pear,sour milk,no taste,3
-Tobago,60.0,0,3.25,4,1,0,1,0,1,0,creamy,rich,dairy,nutty,4
-Ecuador,56.0,0,3.25,4,1,0,1,0,1,0,sweet,nutty,cocoa,no taste,3
+Tobago,60.0,1,3.25,4,1,0,1,0,1,0,creamy,rich,dairy,nutty,4
+Ecuador,56.0,1,3.25,4,1,0,1,0,1,0,sweet,nutty,cocoa,no taste,3
 Blend,74.0,0,2.75,4,1,0,1,0,1,0,brownie,cocoa,sour,sweet,4
 Mexico,70.0,1,3.5,2,0,0,0,0,1,0,rich cocoa,mild fruit & nut,no taste,no taste,2
 Mexico,70.0,1,3.5,2,0,0,0,0,1,0,citrus,prononced orange,no taste,no taste,2
@@ -1190,8 +1190,8 @@ Cuba,70.0,0,2.75,4,1,0,1,0,1,0,fatty,roasty,coffee,off note,4
 Blend,68.0,0,2.75,4,1,0,1,0,1,0,nutty,woody,leathery,no taste,3
 Vietnam,75.0,1,3.75,4,1,0,1,0,1,0,creamy,mild honey,floral,no taste,3
 Sao tome,75.0,1,3.5,4,1,0,1,0,1,0,rich,roasty,nutty,smoke,4
-Peru,75.0,0,3.25,4,1,0,1,0,1,0,sandy,fatty,roasty,fruit,4
-Brazil,75.0,0,3.25,4,1,0,1,0,1,0,smokey,rich cocoa,spice,no taste,3
+Peru,75.0,1,3.25,4,1,0,1,0,1,0,sandy,fatty,roasty,fruit,4
+Brazil,75.0,1,3.25,4,1,0,1,0,1,0,smokey,rich cocoa,spice,no taste,3
 Cuba,75.0,0,3.0,4,1,0,1,0,1,0,slight burnt,astringent,fruit,no taste,3
 Ivory coast,75.0,0,3.0,4,1,0,1,0,1,0,roasty,nutty,rich cocoa,no taste,3
 Madagascar,75.0,0,2.75,4,1,0,1,0,1,0,roasty,sour,cardboard,no taste,3
@@ -1201,25 +1201,25 @@ Venezuela,75.0,0,3.0,5,1,1,1,0,1,0,chalky,cocoa,tangy,no taste,3
 Blend,72.0,0,3.0,5,1,1,1,0,1,0,fatty,nutty,woody,no taste,3
 Nicaragua,80.0,1,3.5,2,0,0,0,0,1,0,spicy,grassy,roasty,no taste,3
 Nicaragua,73.0,1,3.5,3,1,0,0,0,1,0,complex,dairy,roasty,no taste,3
-Honduras,70.0,0,3.25,3,1,0,0,0,1,0,sandy,rich cocoa,no taste,no taste,2
+Honduras,70.0,1,3.25,3,1,0,0,0,1,0,sandy,rich cocoa,no taste,no taste,2
 Nicaragua,71.0,0,3.0,3,1,0,0,0,1,0,simple,earthy,cocoa,no taste,3
 Bolivia,74.0,1,3.75,3,1,0,0,0,1,0,well balanced,melon,no taste,no taste,2
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,sandy,light color,grape,no taste,3
-Costa rica,70.0,0,3.25,3,1,0,0,0,1,0,base cocoa,mild ham,woody,no taste,3
+Costa rica,70.0,1,3.25,3,1,0,0,0,1,0,base cocoa,mild ham,woody,no taste,3
 Colombia,70.0,0,2.75,3,1,0,0,0,1,0,sandy,off,hammy,no taste,3
 Peru,70.0,1,3.5,2,0,0,0,0,1,0,intense,sticky,cocoa,no taste,3
 Trinidad,70.0,1,3.5,2,0,0,0,0,1,0,cocoa,spice,fruit,no taste,3
 Tanzania,70.0,1,3.5,2,0,0,0,0,1,0,subtle,spicy,banana,no taste,3
-Bolivia,70.0,0,3.25,2,0,0,0,0,1,0,dried fruit,nutty,mushroom,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,red fruit,brownie,no taste,no taste,2
+Bolivia,70.0,1,3.25,2,0,0,0,0,1,0,dried fruit,nutty,mushroom,no taste,3
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,red fruit,brownie,no taste,no taste,2
 Costa rica,70.0,0,3.0,2,0,0,0,0,1,0,roasty,black pepper,woody,no taste,3
-Liberia,70.0,0,3.25,2,0,0,0,0,1,0,floral,black licorice,no taste,no taste,2
+Liberia,70.0,1,3.25,2,0,0,0,0,1,0,floral,black licorice,no taste,no taste,2
 Peru,70.0,1,4.0,3,1,0,0,0,1,0,mild,licorice,coffee,cocoa,4
 Honduras,70.0,1,3.5,2,0,0,0,0,1,0,strong raspberry,mocha,no taste,no taste,2
-Belize,70.0,0,3.25,2,0,0,0,0,1,0,smokey,mild berry,no taste,no taste,2
+Belize,70.0,1,3.25,2,0,0,0,0,1,0,smokey,mild berry,no taste,no taste,2
 Ghana,70.0,1,3.75,3,1,0,0,0,1,0,brownie,no taste,no taste,no taste,1
-Jamaica,70.0,0,3.25,3,1,0,0,0,1,0,woody,mocha,molasses,no taste,3
-Bolvia,70.0,0,3.25,3,1,0,0,0,1,0,spoiled milk,sweet,molasses,no taste,3
+Jamaica,70.0,1,3.25,3,1,0,0,0,1,0,woody,mocha,molasses,no taste,3
+Bolvia,70.0,1,3.25,3,1,0,0,0,1,0,spoiled milk,sweet,molasses,no taste,3
 Madagascar,71.0,1,3.5,3,1,0,0,0,1,0,sandy,citrus,no taste,no taste,2
 Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,sweet edge,bright fruit,off,no taste,3
 Peru,68.0,1,3.75,2,0,0,0,0,1,0,rich cocoa,spicy edge,no taste,no taste,2
@@ -1235,13 +1235,13 @@ U.s.a.,71.0,0,3.0,4,1,1,0,0,1,0,aluminum,mild coffee,roasty,no taste,3
 U.s.a.,72.0,0,3.0,4,1,1,0,0,1,0,strong,brandy,smoke,no taste,3
 U.s.a.,70.0,1,3.75,2,0,0,0,0,1,0,spicy,candied,complex,no taste,3
 U.s.a.,75.0,1,3.75,4,1,1,0,0,1,0,dairy,pudding,no taste,no taste,2
-U.s.a.,65.0,0,3.25,4,1,1,0,0,1,0,sweet,candy-like,nutty,no taste,3
+U.s.a.,65.0,1,3.25,4,1,1,0,0,1,0,sweet,candy-like,nutty,no taste,3
 Nicaragua,75.0,0,2.0,2,0,0,0,0,1,0,multiple off flavors,metallic,no taste,no taste,2
 Nicaragua,78.0,1,3.5,2,0,0,0,0,1,0,intense mocha flavor,no taste,no taste,no taste,1
-Nicaragua,80.0,0,3.25,2,0,0,0,0,1,0,nutty,mild dairy,no taste,no taste,2
+Nicaragua,80.0,1,3.25,2,0,0,0,0,1,0,nutty,mild dairy,no taste,no taste,2
 Sumatra,70.0,0,3.0,2,0,0,0,0,1,0,smokey,earthy,cocoa,no taste,3
 Nicaragua,75.0,0,2.5,2,0,0,0,0,1,0,potting soil,no taste,no taste,no taste,1
-Brazil,81.0,0,3.25,2,0,0,0,0,1,0,oily,burnt,earthy,no taste,3
+Brazil,81.0,1,3.25,2,0,0,0,0,1,0,oily,burnt,earthy,no taste,3
 Brazil,70.0,0,3.0,2,0,0,0,0,1,0,rustic,basic cocoa,earthy,no taste,3
 Colombia,65.0,1,3.5,5,1,1,1,0,1,0,marshmallow,rich brownie,no taste,no taste,2
 Blend,60.0,0,3.0,5,1,1,1,0,1,0,sticky,marshmallow,cocoa,no taste,3
@@ -1257,15 +1257,15 @@ Mexico,72.0,0,2.75,4,1,1,0,0,1,0,raisiny,chewy,no taste,no taste,2
 Costa rica,70.0,0,2.75,4,1,1,0,0,1,0,sticky,strong vanilla,pepper,no taste,3
 Dominican republic,70.0,0,2.5,4,1,1,0,0,1,0,sandy,sweet,strong vanilla,no taste,3
 U.s.a.,70.0,1,3.5,4,1,1,0,0,1,0,vanilla,brownie,peanut,no taste,3
-U.s.a.,70.0,0,3.25,4,1,1,0,0,1,0,creamy,vanilla,rich fruit,no taste,3
-U.s.a.,70.0,0,3.25,4,1,1,0,0,1,0,creamy,burnt nuts,woody,no taste,3
+U.s.a.,70.0,1,3.25,4,1,1,0,0,1,0,creamy,vanilla,rich fruit,no taste,3
+U.s.a.,70.0,1,3.25,4,1,1,0,0,1,0,creamy,burnt nuts,woody,no taste,3
 Brazil,70.0,1,3.5,4,1,1,0,0,1,0,strong vanilla,nut,coffee,no taste,3
 Puerto rico,70.0,0,2.75,4,1,1,0,0,1,0,intense vanilla,swiss miss,no taste,no taste,2
 U.s.a.,70.0,0,2.75,4,1,1,0,0,1,0,fatty,vanilla,candy-like,no taste,3
 Mexico,70.0,0,2.75,4,1,1,0,0,1,0,vanilla,earthy,caramel,no taste,3
 Solomon islands,73.0,1,3.5,2,0,0,0,0,1,0,mild earthy,mild cocoa,nut,no taste,3
 Dominican republic,70.0,1,3.75,5,1,1,1,0,1,0,creamy,hay,nutty,no taste,3
-Cuba,70.0,0,3.25,5,1,1,1,0,1,0,nutty,cooling sensation,no taste,no taste,2
+Cuba,70.0,1,3.25,5,1,1,1,0,1,0,nutty,cooling sensation,no taste,no taste,2
 Ecuador,70.0,0,3.0,4,0,1,1,0,1,0,creamy,nutty,mass market,no taste,3
 Tanzania,75.0,0,2.0,4,1,1,0,0,1,0,chalky,astringent,vanilla,no taste,3
 Ecuador,70.0,0,2.0,4,1,0,1,0,1,0,strong vanilla,some spice,no taste,no taste,2
@@ -1281,18 +1281,18 @@ Venezuela,74.0,0,2.75,3,1,0,0,0,1,0,nutty,green,no taste,no taste,2
 Peru,74.0,0,2.5,3,1,0,0,0,1,0,rubber,off medicinal,no taste,no taste,2
 Ecuador,74.0,0,2.5,2,0,0,0,0,1,0,soil,wet,off notes,no taste,3
 Colombia,70.0,0,2.75,4,1,0,1,0,1,0,muted,nutty,no taste,no taste,2
-Liberia,72.0,0,3.25,3,1,0,0,0,1,0,molassses,intense,off,herb,4
-U.s.a.,72.0,0,3.25,3,1,0,0,0,1,0,molasses,sweet,cocoa,no taste,3
+Liberia,72.0,1,3.25,3,1,0,0,0,1,0,molassses,intense,off,herb,4
+U.s.a.,72.0,1,3.25,3,1,0,0,0,1,0,molasses,sweet,cocoa,no taste,3
 Peru,72.0,0,3.0,3,1,0,0,0,1,0,banana,menthol,medicinal,no taste,3
 U.s.a.,72.0,0,2.75,3,1,0,0,0,1,0,oily,tangy,fruit,earthy,4
 U.s.a.,72.0,1,3.75,3,1,0,0,0,1,0,orange,cocoa,no taste,no taste,2
 Costa rica,72.0,1,3.75,3,1,0,0,0,1,0,dried fruit,balanced,cocoa,no taste,3
 Papua new guinea,72.0,1,3.5,3,1,0,0,0,1,0,smoke,fruit,no taste,no taste,2
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,sweet,fatty,fig,no taste,3
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,sweet,fatty,fig,no taste,3
 U.s.a.,70.0,1,3.5,3,1,0,0,0,1,0,dried fruit,spicy,sticky,intense,4
 Ghana,70.0,1,3.5,2,0,0,0,0,1,0,cocoa,coconut,no taste,no taste,2
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,chewy,brownie like,no taste,no taste,2
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,grits,roaste brownie,no taste,no taste,2
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,chewy,brownie like,no taste,no taste,2
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,grits,roaste brownie,no taste,no taste,2
 Venezuela,70.0,1,3.75,2,0,0,0,0,1,0,nutty,intense,roasty,no taste,3
 Colombia,85.0,1,3.5,2,0,0,0,0,1,0,coarse,intense,nutty,no taste,3
 Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,basic,balanced,deep cocoa,no taste,3
@@ -1306,15 +1306,15 @@ Honduras,78.0,1,3.5,3,1,0,0,0,1,0,grassy,woody,sweet,no taste,3
 Tanzania,72.0,0,3.0,3,1,0,0,0,1,0,sweet,fatty,roasty,no taste,3
 Trinidad,70.0,0,2.75,3,1,0,0,0,1,0,heavy roast,few grits,rich,no taste,3
 Colombia,75.0,0,2.75,3,1,0,0,0,1,0,roasty,coffee,rubber,no taste,3
-Vietnam,75.0,0,3.25,3,1,0,0,0,1,0,intense,sour,tart,no taste,3
+Vietnam,75.0,1,3.25,3,1,0,0,0,1,0,intense,sour,tart,no taste,3
 Vietnam,73.0,0,3.0,2,0,0,0,0,1,0,earthy,tobacco,ashey,no taste,3
 Dominican republic,72.0,1,3.5,3,1,0,0,0,1,0,complex,creamy,cherry,no taste,3
-Mexico,72.0,0,3.25,3,1,0,0,0,1,0,sweet,spicy,dirty,no taste,3
+Mexico,72.0,1,3.25,3,1,0,0,0,1,0,sweet,spicy,dirty,no taste,3
 Blend,72.0,0,3.0,3,1,0,0,0,1,0,off notes,rubbery,hammy,no taste,3
 Peru,70.0,0,3.0,4,1,0,1,0,1,0,pungent,tangy,grapes,no taste,3
 Peru,70.0,0,3.0,3,1,0,0,0,1,0,pungent,grapes,brownie,no taste,3
 Peru,70.0,0,2.75,3,1,0,0,0,1,0,smokey,dirty,sour,no taste,3
-Blend,75.0,0,3.25,2,0,0,0,0,1,0,earthy,coffee,roasty,no taste,3
+Blend,75.0,1,3.25,2,0,0,0,0,1,0,earthy,coffee,roasty,no taste,3
 Haiti,75.0,0,2.75,2,0,0,0,0,1,0,dried fruit,woody,dirty,no taste,3
 Vietnam,76.0,1,3.5,3,1,0,0,0,1,0,citrus,no taste,no taste,no taste,1
 Vietnam,72.0,1,3.5,3,1,0,0,0,1,0,roasty,coffee,no taste,no taste,2
@@ -1325,20 +1325,20 @@ Vietnam,80.0,0,3.0,3,1,0,0,0,1,0,creamy,fatty,black pepper,no taste,3
 Vietnam,75.0,1,3.5,3,1,0,0,0,1,0,fatty,heavy roast,nutty,no taste,3
 Vietnam,70.0,1,3.75,2,0,0,0,0,1,0,spicy and fragrant,no taste,no taste,no taste,1
 Vietnam,68.0,1,3.5,2,0,0,0,0,1,0,roasty,rich,coffee,nut,4
-Vietnam,85.0,0,3.25,2,0,0,0,0,1,0,long,mild honey,rich cocoa,no taste,3
+Vietnam,85.0,1,3.25,2,0,0,0,0,1,0,long,mild honey,rich cocoa,no taste,3
 Vietnam,75.0,1,3.5,3,1,0,0,0,1,0,fatty,roasty,nutty,no taste,3
 Dominican republic,89.0,0,2.5,4,1,1,0,0,1,0,fatty,rubber,medicinal,no taste,3
 Dominican republic,74.0,0,2.25,4,1,1,0,0,1,0,waxy,rubber,medicinal,no taste,3
-Colombia,74.0,0,3.25,3,1,0,0,0,1,0,sandy,mild floral,mild nutty,no taste,3
+Colombia,74.0,1,3.25,3,1,0,0,0,1,0,sandy,mild floral,mild nutty,no taste,3
 Haiti,82.0,0,3.0,3,1,0,0,0,1,0,sandy,earthy,sweet edge,no taste,3
 Bolivia,76.0,0,2.75,3,1,0,0,0,1,0,sticky,pungent,off note,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,sticky,earthy,coffee,no taste,3
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,sticky,earthy,coffee,no taste,3
 Venezuela,75.0,0,3.0,2,0,0,0,0,1,0,dry,sticky,nutty,earthy,4
 Venezuela,81.0,0,2.75,2,0,0,0,0,1,0,sticky,woody,musty,no taste,3
 Dominican republic,74.0,1,3.75,2,0,0,0,0,1,0,gritty,raspberry,sour,no taste,3
 Blend,72.0,1,3.5,2,0,0,0,0,1,0,rich cocoa,coffee,roasty,no taste,3
 Belize,70.0,1,3.5,2,0,0,0,0,1,0,gritty,tangy,cocoa,no taste,3
-Dominican republic,73.0,0,3.25,2,0,0,0,0,1,0,dry,gritty,red berry,coffee,4
+Dominican republic,73.0,1,3.25,2,0,0,0,0,1,0,dry,gritty,red berry,coffee,4
 Venezuela,76.0,0,3.0,2,0,0,0,0,1,0,sandy,strawberry,sour,no taste,3
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,dry,sandy,intense,berry,4
 Peru,75.0,0,3.0,2,0,0,0,0,1,0,orange,lemon,coffee ground,no taste,3
@@ -1348,44 +1348,44 @@ Blend,73.0,1,3.5,2,0,0,0,0,1,0,gritty,fruit,tart,rich,4
 Venezuela,73.0,0,2.75,2,0,0,0,0,1,0,gritty,sour,sweet,no taste,3
 Blend,72.0,0,2.5,2,0,0,0,0,1,0,gritty,overly tart,sour,no taste,3
 Blend,75.0,1,3.75,2,0,0,0,0,1,0,tart,deep choco,no taste,no taste,2
-Tanzania,74.0,0,3.25,2,0,0,0,0,1,0,green,vegetal,mild spice,no taste,3
+Tanzania,74.0,1,3.25,2,0,0,0,0,1,0,green,vegetal,mild spice,no taste,3
 Guatemala,76.0,0,3.0,2,0,0,0,0,1,0,mild bitter,citrus,intense,no taste,3
 Madagascar,68.0,1,4.0,3,1,0,0,0,1,0,sticky,red fruit,no taste,no taste,2
 Papua new guinea,74.0,1,4.0,3,1,0,0,0,1,0,creamy,grassy,smoke,nut,4
 Blend,70.0,1,3.75,3,1,0,0,0,1,0,nutty,fruity,spicy,no taste,3
 Vanuatu,72.0,1,3.5,3,1,0,0,0,1,0,sticky,butterscotch,nutty,no taste,3
 Peru,63.0,1,3.5,3,1,0,0,0,1,0,sweet,cherry,cream,raisin,4
-Belize,70.0,0,3.25,2,0,0,0,0,1,0,heavy roast,smoke,no taste,no taste,2
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,roasty,coffee,no taste,no taste,2
-Peru,82.0,0,3.25,2,0,0,0,0,1,0,intense,burnt,bitter,spice,4
-Madagascar,65.0,0,3.25,3,1,0,0,0,1,0,sweet edge,sour fruit,no taste,no taste,2
+Belize,70.0,1,3.25,2,0,0,0,0,1,0,heavy roast,smoke,no taste,no taste,2
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,roasty,coffee,no taste,no taste,2
+Peru,82.0,1,3.25,2,0,0,0,0,1,0,intense,burnt,bitter,spice,4
+Madagascar,65.0,1,3.25,3,1,0,0,0,1,0,sweet edge,sour fruit,no taste,no taste,2
 U.s.a.,70.0,0,3.0,3,1,0,0,0,1,0,nutty,cheese,savory,no taste,3
 Vietnam,75.0,0,3.0,3,1,0,0,0,1,0,roasty,hammy,dirty,no taste,3
 Dominican republic,72.0,0,3.0,2,0,0,0,0,1,0,gritty,sweet,earthy,no taste,3
-Belize,70.0,0,3.25,3,1,0,0,0,1,0,cocoa,strawberry,no taste,no taste,2
+Belize,70.0,1,3.25,3,1,0,0,0,1,0,cocoa,strawberry,no taste,no taste,2
 Guatemala,70.0,0,2.5,3,1,0,0,0,1,0,musty,woody,rubbery,roasty,4
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,high roast,nutty,deep choco,no taste,3
 Belize,70.0,0,3.0,2,0,0,0,0,1,0,spicy,metallic,molasses,no taste,3
 Nicaragua,70.0,0,3.0,2,0,0,0,0,1,0,fatty,sligthly bland,earthy,no taste,3
 Venezuela,70.0,0,2.75,2,0,0,0,0,1,0,molasses,sweet,choco,no taste,3
 Bolivia,70.0,0,2.5,2,0,0,0,0,1,0,pungent,off,no taste,no taste,2
-Philippines,70.0,0,3.25,2,0,0,0,0,0,1,smooth,coconut,cocoa,no taste,3
-Tanzania,70.0,0,3.25,2,0,0,0,0,0,1,creamy,coconut,cocoa,no taste,3
+Philippines,70.0,1,3.25,2,0,0,0,0,0,1,smooth,coconut,cocoa,no taste,3
+Tanzania,70.0,1,3.25,2,0,0,0,0,0,1,creamy,coconut,cocoa,no taste,3
 Dominican republic,70.0,0,2.75,2,0,0,0,0,0,1,dry,floral,dirty,coconut,4
 Ecuador,85.0,0,2.5,2,0,0,0,0,0,1,floral,earthy,bitter,no taste,3
 Madagascar,80.0,0,2.5,4,1,0,1,0,1,0,sticky,tart,slight burnt,no taste,3
 Madagascar,72.0,0,2.5,4,1,0,1,0,1,0,uneven,smokey,hammy,no taste,3
 Honduras,70.0,1,3.5,3,1,0,0,0,1,0,intense,grassy,spicy,rich,4
 Nicaragua,80.0,1,3.5,3,1,0,0,0,1,0,dried fruit,rich cocoa,no taste,no taste,2
-Honduras,80.0,0,3.25,3,1,0,0,0,1,0,intense,ham,butterscotch,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,acidic,pomegrant,brownie,no taste,3
+Honduras,80.0,1,3.25,3,1,0,0,0,1,0,intense,ham,butterscotch,no taste,3
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,acidic,pomegrant,brownie,no taste,3
 El salvador,70.0,0,3.0,3,1,0,0,0,1,0,dairy,caramel,no taste,no taste,2
 El salvador,80.0,0,2.75,3,1,0,0,0,1,0,fatty,bitter,woody,roasty,4
 Brazil,75.0,0,2.5,3,1,0,0,0,1,0,earthy,floral,rubbery,no taste,3
 Madagascar,72.0,1,3.5,3,1,0,0,0,1,0,creamy,fatty,mild cherry,no taste,3
 Brazil,70.0,0,3.0,3,1,0,0,0,1,0,fatty,creamy,olive,no taste,3
 Solomon islands,67.0,1,3.75,3,1,0,0,0,1,0,dried fruit,mild hammy,no taste,no taste,2
-Solomon islands,72.0,0,3.25,3,1,0,0,0,1,0,roasty/smokey,high acidity,no taste,no taste,2
+Solomon islands,72.0,1,3.25,3,1,0,0,0,1,0,roasty/smokey,high acidity,no taste,no taste,2
 Blend,70.0,1,3.5,3,0,1,0,0,1,0,accesible,simple cocoa note,no taste,no taste,2
 Peru,70.0,1,3.5,3,1,0,0,0,1,0,grape,mild smoke,sandy,no taste,3
 Dominican republic,67.0,1,3.75,4,1,1,0,0,1,0,creamy,raisins,licorice,no taste,3
@@ -1398,23 +1398,23 @@ Blend,99.0,0,2.0,4,1,1,0,0,1,0,smooth,bold,bitter,no taste,3
 Venezuela,66.0,1,3.5,4,1,1,0,0,1,0,cocoa,orange,no taste,no taste,2
 Sao tome,67.0,1,3.5,4,1,1,0,0,1,0,creamy,smoke,raspberry,no taste,3
 Mexico,66.0,1,3.75,4,1,1,0,0,1,0,raisins,melon,no taste,no taste,2
-Colombia,69.0,0,3.25,4,1,1,0,0,1,0,sandy,earthy,fatty,no taste,3
+Colombia,69.0,1,3.25,4,1,1,0,0,1,0,sandy,earthy,fatty,no taste,3
 Guatemala,70.0,1,3.5,4,1,1,0,0,1,0,dairy,cocoa,fatty,apple,4
 Brazil,70.0,0,3.0,4,1,1,0,0,1,0,sandy,grits,nutty,vanilla,4
 Indonesia,70.0,0,2.5,4,1,0,0,1,0,1,leather,salt,no taste,no taste,2
 Bolivia,75.0,0,2.0,4,1,0,0,1,0,1,sticky,cardboard,why bother,no taste,3
 Blend,65.0,0,1.5,4,1,0,0,1,0,1,chemical,salt,wtf,no taste,3
-Belize,80.0,0,3.25,4,1,0,0,1,1,0,strawberry,cream,spice,no taste,3
+Belize,80.0,1,3.25,4,1,0,0,1,1,0,strawberry,cream,spice,no taste,3
 Dominican republic,75.0,0,2.5,3,0,0,0,1,0,1,molassses,palm,spicy,no taste,3
 Dominican republic,75.0,1,3.75,3,1,0,0,0,1,0,spicy,rich,mint,no taste,3
 Venezuela,75.0,1,3.75,3,1,0,0,0,1,0,nutty,grassy,woody,no taste,3
 Belize,80.0,1,3.5,3,1,0,0,0,1,0,woody,lemon,mild bitter,no taste,3
 Trinidad,70.0,1,3.5,3,1,0,0,0,1,0,black pepper,dairy,no taste,no taste,2
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,rum,herbal,rich,no taste,3
-Tanzania,75.0,0,3.25,3,1,0,0,0,1,0,banana,melon,fatty,no taste,3
+Tanzania,75.0,1,3.25,3,1,0,0,0,1,0,banana,melon,fatty,no taste,3
 Belize,70.0,1,3.5,3,1,0,0,0,1,0,grape,cocoa,no taste,no taste,2
-India,70.0,0,3.25,3,1,0,0,0,1,0,candy spices,sweet,no taste,no taste,2
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,complex,true to origin,no taste,no taste,2
+India,70.0,1,3.25,3,1,0,0,0,1,0,candy spices,sweet,no taste,no taste,2
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,complex,true to origin,no taste,no taste,2
 Dominican republic,70.0,0,3.0,3,1,0,0,0,1,0,fatty,simple,no taste,no taste,2
 Ecuador,70.0,1,3.5,4,1,1,0,0,1,0,wine,brownie batter,no taste,no taste,2
 Ecuador,70.0,0,2.5,4,1,1,0,0,1,0,unrefined,burnt nuts,vanilla,no taste,3
@@ -1423,13 +1423,13 @@ India,74.0,0,3.0,3,1,0,0,0,1,0,dry,sandy,empty,sweet,4
 Brazil,76.0,0,3.0,3,1,0,0,0,1,0,dry,sandy,dirt,empty,4
 Peru,70.0,1,3.75,2,0,0,0,0,1,0,grape,thick,chewy,no taste,3
 Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,cocoa,mild pear,sticky,no taste,3
-Vietnam,70.0,0,3.25,2,0,0,0,0,1,0,cocounut,late sour,no taste,no taste,2
+Vietnam,70.0,1,3.25,2,0,0,0,0,1,0,cocounut,late sour,no taste,no taste,2
 Brazil,70.0,0,3.0,2,0,0,0,0,1,0,intense,sour,hammy,no taste,3
 Ecuador,77.0,0,2.75,3,1,0,0,0,1,0,dry,coffee notes from roaster,no taste,no taste,2
 Ecuador,67.0,0,2.75,3,1,0,0,0,1,0,sandy,harsh,floral,no taste,3
 Haiti,70.0,1,3.5,2,0,0,0,0,1,0,gritty,sweet,earty,no taste,3
 Vietnam,65.0,1,3.5,2,0,0,0,0,1,0,slight grainy,roasty,spicy,no taste,3
-Madagascar,72.0,0,3.25,2,0,0,0,0,1,0,tangy,roasty,ham,no taste,3
+Madagascar,72.0,1,3.25,2,0,0,0,0,1,0,tangy,roasty,ham,no taste,3
 Papua new guinea,72.0,0,3.0,2,0,0,0,0,1,0,few grits,intense smoke,no taste,no taste,2
 Tanzania,72.0,1,3.75,3,1,0,0,0,1,0,complex,fruit,nut,rich,4
 Vietnam,70.0,1,3.5,3,1,0,0,0,1,0,sour fig,cocoa,creamy,fatty,4
@@ -1437,21 +1437,21 @@ Brazil,70.0,1,3.5,2,0,0,0,0,1,0,coarse,smokey,citrus,no taste,3
 Brazil,75.0,1,3.75,2,0,0,0,0,1,0,sticky,blackberry,acidic,no taste,3
 Puerto rico,70.0,0,3.0,3,1,0,0,0,1,0,powdery,intense,floral,no taste,3
 Belize,67.0,0,2.75,3,1,0,0,0,1,0,rough,sweet,dairy,vanilla,4
-Belize,73.0,0,3.25,3,1,0,0,0,1,0,basic cocoa,no taste,no taste,no taste,1
+Belize,73.0,1,3.25,3,1,0,0,0,1,0,basic cocoa,no taste,no taste,no taste,1
 Belize,72.0,0,3.0,3,1,0,0,0,1,0,strawberry,blueberry,no taste,no taste,2
 Cameroon,68.0,0,3.0,2,0,0,0,0,1,0,earthy,no taste,no taste,no taste,1
 Brazil,72.0,0,2.5,3,1,0,0,0,1,0,dirty,rubbery,spicy,no taste,3
 Tanzania,72.0,1,3.75,2,0,0,0,0,1,0,cocoa,fig,classic,no taste,3
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,dark berry,earthy,no taste,no taste,2
 Sierra leone,72.0,0,3.0,3,1,0,0,0,1,0,roasty,honey,sweet,no taste,3
-Peru,70.0,0,3.25,2,0,0,0,0,1,0,dry,nutty,fruity,no taste,3
+Peru,70.0,1,3.25,2,0,0,0,0,1,0,dry,nutty,fruity,no taste,3
 Dominican republic,70.0,0,3.0,2,0,0,0,0,1,0,overly intense,tart,red fruit,no taste,3
 Indonesia,70.0,0,2.75,2,0,0,0,0,1,0,intense,smokey,floral,no taste,3
 Nicaragua,70.0,0,2.75,2,0,0,0,0,1,0,unrefined,hay,sweet,no taste,3
 Nicaragua,70.0,0,2.75,2,0,0,0,0,1,0,unrefined,bright berry,sweet,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,fatty,floral,spicy,no taste,3
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,fatty,floral,spicy,no taste,3
 Dominican republic,72.0,1,3.5,2,0,0,0,0,1,0,earthy,spicy,cocoa,no taste,3
-Mexico,70.0,0,3.25,3,1,0,0,0,1,0,chalky,powdery,molasses,no taste,3
+Mexico,70.0,1,3.25,3,1,0,0,0,1,0,chalky,powdery,molasses,no taste,3
 Mexico,70.0,0,3.0,3,1,0,0,0,1,0,light color,spicy,sweet,sour,4
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,grassy,spicy,sweet,no taste,3
 Nicaragua,80.0,1,3.5,3,1,0,0,0,1,0,sweet,rich,no taste,no taste,2
@@ -1465,16 +1465,16 @@ Costa rica,58.0,0,2.5,3,1,0,0,0,1,0,too sweet,earthy,off notes,no taste,3
 Grenada,71.0,0,2.5,4,1,1,0,0,1,0,sandy,oranges,no taste,no taste,2
 Blend,70.0,1,3.75,4,1,0,1,0,1,0,sandy,floral,spice,roasty,4
 Peru,78.0,1,3.75,4,1,0,1,0,1,0,orange,floral,caramel,no taste,3
-Nicaragua,70.0,0,3.25,4,1,0,1,0,1,0,sandy,intense,tropical fruit,no taste,3
+Nicaragua,70.0,1,3.25,4,1,0,1,0,1,0,sandy,intense,tropical fruit,no taste,3
 Venezuela,70.0,0,3.0,4,1,0,1,0,1,0,coarse,sweet,no taste,no taste,2
 Venezuela,75.0,0,2.75,4,1,0,1,0,1,0,coarse,sweet,minty,no taste,3
-El salvador,70.0,0,3.25,3,1,0,0,0,1,0,bold,savory,creamy,no taste,3
+El salvador,70.0,1,3.25,3,1,0,0,0,1,0,bold,savory,creamy,no taste,3
 Nicaragua,67.0,0,2.75,3,1,0,0,0,1,0,strong,rubbery,woody,sweet,4
 Ghana,70.0,1,3.5,3,1,0,0,0,1,0,brownie,toffee,no taste,no taste,2
 Dominican republic,70.0,0,2.5,2,0,0,0,0,0,1,grassy,dirt,mild spice,no taste,3
 Madagascar,73.5,0,2.5,2,0,0,0,0,1,0,intense,pungent,sour fruit,no taste,3
 Peru,72.0,0,2.25,2,0,0,0,0,1,0,metallic,medicinal,pungent,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,dry,sandy,sweet,acidic,4
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,dry,sandy,sweet,acidic,4
 Venezuela,71.0,0,3.0,5,1,1,1,0,1,0,pastey,complex,coffee,vanilla,4
 Sao tome,75.0,0,2.75,5,1,1,1,0,1,0,grassy,earthy,burnt,no taste,3
 Blend,73.0,0,2.0,5,1,1,1,0,1,0,non descript,poor aftertaste,no taste,no taste,2
@@ -1493,12 +1493,12 @@ Peru,70.0,0,3.0,3,1,0,0,0,1,0,pungent,grape,sour,no taste,3
 Tanzania,72.0,0,3.0,3,1,0,0,0,1,0,sweet,melon notes,no taste,no taste,2
 Dominican republic,72.0,0,3.0,3,1,0,0,0,1,0,basic cocoa,sour ending,no taste,no taste,2
 Vietnam,72.0,0,2.75,3,1,0,0,0,1,0,spicy,vanilla,sweet,no taste,3
-Colombia,72.0,0,3.25,3,1,0,0,0,1,0,strong base cocoa,rubber,no taste,no taste,2
+Colombia,72.0,1,3.25,3,1,0,0,0,1,0,strong base cocoa,rubber,no taste,no taste,2
 Fiji,74.0,0,2.75,3,1,0,0,0,1,0,sour,rubbery,off,no taste,3
-Peru,75.0,0,3.25,4,0,1,1,0,0,1,roasty,mild orange,no taste,no taste,2
+Peru,75.0,1,3.25,4,0,1,1,0,0,1,roasty,mild orange,no taste,no taste,2
 Ghana,75.0,0,3.0,4,0,1,1,0,0,1,nutty,high roast,spice,no taste,3
 Belize,75.0,0,3.0,4,0,1,1,0,0,1,coconut,mild metallic,no taste,no taste,2
-Ecuador,80.0,0,3.25,2,0,0,0,0,1,0,sandy,strawberries,no taste,no taste,2
+Ecuador,80.0,1,3.25,2,0,0,0,0,1,0,sandy,strawberries,no taste,no taste,2
 Nicaragua,70.0,0,3.0,2,0,0,0,0,1,0,woody,coffee,roasted cherry,no taste,3
 Nicaragua,75.0,0,2.75,2,0,0,0,0,1,0,fatty,honey,earthy,no taste,3
 Ghana,70.0,1,3.75,2,0,0,0,0,1,0,rich,cherry,smoke,cocoa,4
@@ -1506,7 +1506,7 @@ Dominican republic,70.0,1,3.75,2,0,0,0,0,1,0,rich,mild smoke,red fruit,no taste,
 Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,fruity,sour,high astringent,no taste,3
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,intense,slightly burnt,no taste,no taste,2
 Ecuador,70.0,0,2.75,2,0,0,0,0,1,0,earthy,roasted nuts,no taste,no taste,2
-Vietnam,70.0,0,3.25,3,1,0,0,0,1,0,spicy,cocoa,hammy,no taste,3
+Vietnam,70.0,1,3.25,3,1,0,0,0,1,0,spicy,cocoa,hammy,no taste,3
 Nigeria,70.0,0,3.0,3,1,0,0,0,1,0,cocoa,nut,dried fruit,rubbery,4
 Brazil,70.0,1,3.5,3,1,0,0,0,1,0,nutty,banana,cocoa,no taste,3
 Jamaica,70.0,0,2.5,5,1,1,1,0,1,0,grassy,vanilla,burnt,no taste,3
@@ -1515,7 +1515,7 @@ Peru,70.0,1,3.75,2,0,0,0,0,1,0,intense grapes,sweet cocoa,no taste,no taste,2
 Peru,75.0,1,4.0,3,1,0,0,0,1,0,peanut butter,raspberry,no taste,no taste,2
 Congo,70.0,1,3.75,3,1,0,0,0,1,0,melon,earthy,tobacco,no taste,3
 Papua new guinea,74.0,1,3.5,2,0,0,0,0,1,0,smokey,intense,coffee,no taste,3
-Papua new guinea,88.0,0,3.25,2,0,0,0,0,1,0,intense,bitter,sour,smokey,4
+Papua new guinea,88.0,1,3.25,2,0,0,0,0,1,0,intense,bitter,sour,smokey,4
 Papua new guinea,70.0,0,3.0,2,0,0,0,0,1,0,smoke,sour fruit,hammy,no taste,3
 Papua new guinea,66.0,0,2.75,2,0,0,0,0,1,0,smoke,sour fruit,hammy,no taste,3
 Samoa,70.0,1,3.5,2,0,0,0,0,1,0,cocoa,roasty,nutty,no taste,3
@@ -1543,11 +1543,11 @@ Belize,74.0,0,2.75,3,1,0,0,0,1,0,sandy,ashey,mild fruit,no taste,3
 Dominican republic,72.0,0,2.75,3,1,0,0,0,1,0,sandy,roasty,fruity,no taste,3
 Nicaragua,72.0,0,2.75,3,1,0,0,0,1,0,grits,roasty,woody,no taste,3
 Panama,71.0,0,3.0,3,1,0,0,0,1,0,fatty,bland,some spice,no taste,3
-Bolivia,68.0,0,3.25,3,1,0,0,0,1,0,rich cocoa,bread notes,no taste,no taste,2
+Bolivia,68.0,1,3.25,3,1,0,0,0,1,0,rich cocoa,bread notes,no taste,no taste,2
 Congo,70.0,0,3.0,3,1,0,0,0,1,0,vegetable and honey,no taste,no taste,no taste,1
 Peru,75.0,0,3.0,3,1,0,0,0,1,0,creamy,sour banana,lemon,no taste,3
 Bolivia,66.0,1,3.75,3,1,0,0,0,1,0,creamy,melon,subtle,no taste,3
-Blend,80.0,0,3.25,2,0,0,0,0,1,0,creamy,mild bitter,coffee,no taste,3
+Blend,80.0,1,3.25,2,0,0,0,0,1,0,creamy,mild bitter,coffee,no taste,3
 Papua new guinea,68.0,0,2.75,3,1,0,0,0,1,0,fatty,dates,musty,no taste,3
 U.s.a.,60.0,0,3.0,5,1,1,1,0,1,0,muddy,pastey,sweet,vanilla,4
 U.s.a.,60.0,0,3.0,5,1,1,1,0,1,0,sticky,tobacco,no taste,no taste,2
@@ -1563,11 +1563,11 @@ Ecuador,85.0,0,2.75,4,1,0,1,0,1,0,spice,mostly bitter,no taste,no taste,2
 Ecuador,70.0,1,4.0,4,1,0,1,0,1,0,creamy,spicy,cocoa,no taste,3
 Ecuador,70.0,1,3.75,4,1,0,1,0,1,0,creamy,green fruit,candied,no taste,3
 Ecuador,70.0,1,3.5,4,1,0,1,0,1,0,savory,smokey,no taste,no taste,2
-Ecuador,70.0,0,3.25,4,1,0,1,0,1,0,floral,green,tannic,no taste,3
+Ecuador,70.0,1,3.25,4,1,0,1,0,1,0,floral,green,tannic,no taste,3
 Colombia,70.0,1,4.0,4,1,0,1,0,1,0,complex,balanced,no taste,no taste,2
 Cuba,72.0,1,3.75,5,1,1,1,0,1,0,creamy,tobacco,cocoa,no taste,3
 Haiti,70.0,1,3.5,5,1,1,1,0,1,0,vanilla,sweet,gateway,no taste,3
-Vietnam,72.0,0,3.25,5,1,1,1,0,1,0,molasses,tart,vegetal,no taste,3
+Vietnam,72.0,1,3.25,5,1,1,1,0,1,0,molasses,tart,vegetal,no taste,3
 Madagascar,78.0,1,3.75,2,0,0,0,0,1,0,red fruit,intense,bright,no taste,3
 Trinidad,70.0,1,3.75,2,0,0,0,0,1,0,mellow,fruity,brownie,no taste,3
 Blend,75.0,1,3.5,2,0,0,0,0,1,0,intense floral,slight woody,no taste,no taste,2
@@ -1575,8 +1575,8 @@ Bolivia,72.0,0,2.75,2,0,0,0,0,1,0,vinegar,sour,no taste,no taste,2
 Ecuador,75.0,0,2.75,2,0,0,0,0,1,0,earthy,nutty,black pepper,no taste,3
 Vietnam,72.0,1,3.75,2,0,0,0,0,1,0,cocoa,melon,dairy,no taste,3
 Tanzania,72.0,1,3.5,2,0,0,0,0,1,0,rich cocoa,dried fruit,no taste,no taste,2
-Bolivia,70.0,0,3.25,2,0,0,0,0,1,0,slow,sweet,spicy,no taste,3
-Trinidad,70.0,0,3.25,2,0,0,0,0,0,1,maple,spicy,cocoa,no taste,3
+Bolivia,70.0,1,3.25,2,0,0,0,0,1,0,slow,sweet,spicy,no taste,3
+Trinidad,70.0,1,3.25,2,0,0,0,0,0,1,maple,spicy,cocoa,no taste,3
 Belize,72.0,0,3.0,2,0,0,0,0,1,0,strawberry,savory,no taste,no taste,2
 Guatemala,70.0,0,2.75,2,0,0,0,0,1,0,fruity,off rubber,no taste,no taste,2
 Haiti,70.0,1,3.5,2,0,0,0,0,1,0,sticky,bold,nutty,fig,4
@@ -1585,16 +1585,16 @@ Dominican republic,75.0,0,2.75,2,0,0,0,0,1,0,creamy,burnt rubber,off,no taste,3
 Peru,70.0,1,3.5,2,0,0,0,0,1,0,intense spicy,floral,no taste,no taste,2
 Fiji,76.0,0,3.0,2,0,0,0,0,1,0,intense,bitter,spicy,no taste,3
 Peru,71.0,1,3.5,2,0,0,0,0,1,0,sandy,fruit,cocoa,sour,4
-Belize,75.0,0,3.25,2,0,0,0,0,1,0,fig,sour,rubbery,no taste,3
-Madagascar,76.0,0,3.25,2,0,0,0,0,1,0,fruit,sour,roasty,no taste,3
-Dominican republic,76.0,0,3.25,2,0,0,0,0,1,0,cocoa,earthy,roasty,no taste,3
+Belize,75.0,1,3.25,2,0,0,0,0,1,0,fig,sour,rubbery,no taste,3
+Madagascar,76.0,1,3.25,2,0,0,0,0,1,0,fruit,sour,roasty,no taste,3
+Dominican republic,76.0,1,3.25,2,0,0,0,0,1,0,cocoa,earthy,roasty,no taste,3
 Philippines,76.0,0,3.0,2,0,0,0,0,1,0,burnt caramel,coffee,no taste,no taste,2
 Bolivia,76.0,0,2.75,2,0,0,0,0,1,0,harsh,tobacco,roasty,no taste,3
 Blend,65.0,1,3.5,3,0,1,0,0,1,0,mild nutty,basic cocoa,no taste,no taste,2
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,mild spice,grapes,no taste,no taste,2
 Bolivia,70.0,0,3.0,2,0,0,0,0,1,0,gritty,woody,acidic,no taste,3
 Guatemala,70.0,1,3.5,2,0,0,0,0,1,0,intense,blackberry,acidic,no taste,3
-Tanzania,70.0,0,3.25,2,0,0,0,0,1,0,sour,earthy,roasty,no taste,3
+Tanzania,70.0,1,3.25,2,0,0,0,0,1,0,sour,earthy,roasty,no taste,3
 Colombia,75.0,0,3.0,3,1,0,0,0,1,0,nut,roasty,high astringent,no taste,3
 Guatemala,75.0,0,2.75,3,1,0,0,0,1,0,fatty,woody,poor aftertaste,no taste,3
 Dominican republic,75.0,0,2.75,3,1,0,0,0,1,0,rubbery,buttery,soil,no taste,3
@@ -1610,7 +1610,7 @@ Madagascar,64.0,0,2.75,2,0,0,0,0,0,1,coarse,sweet,tart,earthy,4
 Madagascar,73.0,0,2.25,2,0,0,0,0,0,1,sticky,mild citrus,earthy,no taste,3
 Dominican republic,82.0,0,3.0,3,1,0,0,0,1,0,coarse,earthy,sweet,no taste,3
 Fiji,75.0,0,3.0,3,1,0,0,0,0,1,mild smokey,black licorice,no taste,no taste,2
-Peru,70.0,0,3.25,4,1,0,1,0,1,0,off aroma,anise,dried fruit,no taste,3
+Peru,70.0,1,3.25,4,1,0,1,0,1,0,off aroma,anise,dried fruit,no taste,3
 Mexico,72.0,1,4.0,5,1,1,1,0,1,0,mild tart,long and rich,no taste,no taste,2
 Venezuela,72.0,1,3.75,5,1,1,1,0,1,0,rich cocoa,marshmallow,no taste,no taste,2
 Indonesia,72.0,0,3.0,5,1,1,1,0,1,0,red fruit,smokey,sour,no taste,3
@@ -1621,10 +1621,10 @@ Blend,85.0,1,3.5,5,1,1,1,0,1,0,cinamon,bitter aftertaste,no taste,no taste,2
 Brazil,72.0,0,3.0,5,1,1,1,0,1,0,smokey,floral,mild,no taste,3
 Mexico,72.0,0,3.0,5,1,1,1,0,1,0,bland,subtle dairy,burning,no taste,3
 Cuba,78.0,1,3.75,5,1,1,1,0,1,0,chunky,rich and spicy,no taste,no taste,2
-Trinidad,75.0,0,3.25,5,1,1,1,0,1,0,berry notes with sweet edge,no taste,no taste,no taste,1
+Trinidad,75.0,1,3.25,5,1,1,1,0,1,0,berry notes with sweet edge,no taste,no taste,no taste,1
 Venezuela,75.0,0,3.0,5,1,1,1,0,1,0,strong vanilla,nutty,spicey,no taste,3
 Peru,85.0,0,3.0,5,1,1,1,0,1,0,bitter,coffee,cocoa,no taste,3
-Cameroon,70.0,0,3.25,5,1,1,1,0,1,0,mild fruit,woody,no taste,no taste,2
+Cameroon,70.0,1,3.25,5,1,1,1,0,1,0,mild fruit,woody,no taste,no taste,2
 Madagascar,76.0,0,3.0,4,1,0,1,0,1,0,powdery,roasty,off flavor,no taste,3
 Cameroon,70.0,0,3.0,4,1,0,1,0,1,0,rich cocoa,off flavor,no taste,no taste,2
 Tanzania,70.0,1,3.5,3,1,0,0,0,1,0,sweet,cream,cherry,rich,4
@@ -1632,10 +1632,10 @@ India,73.0,1,3.5,3,1,0,0,0,1,0,creamy,fruity,mocha,no taste,3
 Vietnam,70.0,0,3.0,3,1,0,0,0,1,0,swiss miss,pistachio,rich,no taste,3
 Honduras,80.0,0,2.5,4,0,1,1,0,1,0,banana,earthy ending,no taste,no taste,2
 Ecuador,73.0,1,3.5,2,0,0,0,0,1,0,intense,floral,leather,no taste,3
-Madagascar,73.0,0,3.25,2,0,0,0,0,1,0,intense,dried fruit,roasty,no taste,3
-Ecuador,73.0,0,3.25,2,0,0,0,0,1,0,tobacco,woody,rum,no taste,3
+Madagascar,73.0,1,3.25,2,0,0,0,0,1,0,intense,dried fruit,roasty,no taste,3
+Ecuador,73.0,1,3.25,2,0,0,0,0,1,0,tobacco,woody,rum,no taste,3
 Fiji,73.0,0,2.5,2,0,0,0,0,1,0,intense smoke,medicinal,no taste,no taste,2
-Nicaragua,80.0,0,3.25,2,0,0,0,0,1,0,chunky,dairy,nutty,rich,4
+Nicaragua,80.0,1,3.25,2,0,0,0,0,1,0,chunky,dairy,nutty,rich,4
 Nicaragua,80.0,0,2.75,2,0,0,0,0,1,0,dry,sandy,earthy,leathery,4
 Nicaragua,80.0,0,2.75,3,1,0,0,0,1,0,metal,earthy,pungent,no taste,3
 Nicaragua,80.0,0,2.75,3,1,0,0,0,1,0,metal,molasses,roasty,no taste,3
@@ -1663,23 +1663,23 @@ Madagascar,100.0,0,3.0,2,1,0,0,0,0,0,fatty,mild fruit,bitter,smoke,4
 Dominican republic,75.0,0,2.0,4,1,0,1,0,1,0,sandy,sour,no taste,no taste,2
 Venezuela,75.0,0,2.0,4,1,0,1,0,1,0,creamy,burnt,ashey,lemon,4
 Venezuela,75.0,1,3.5,4,1,0,1,0,1,0,nutty,red berry,rich,no taste,3
-Venezuela,75.0,0,3.25,4,1,0,1,0,1,0,burnt nuts,subtle fruit,no taste,no taste,2
-Peru,75.0,0,3.25,3,1,0,0,0,1,0,subdued,floral,nutty,fatty,4
+Venezuela,75.0,1,3.25,4,1,0,1,0,1,0,burnt nuts,subtle fruit,no taste,no taste,2
+Peru,75.0,1,3.25,3,1,0,0,0,1,0,subdued,floral,nutty,fatty,4
 Sao tome & principe,75.0,1,3.5,4,1,0,1,0,1,0,deep cocoa,fatty,mild ashey,no taste,3
 Tanzania,75.0,1,3.5,4,1,0,1,0,1,0,spicy,cocoa,no taste,no taste,2
 Ecuador,75.0,1,3.5,4,1,0,1,0,1,0,dried fruit,floral,no taste,no taste,2
-Trinidad,75.0,0,3.25,4,1,0,1,0,1,0,tobacco,deep cocoa,sl. burnt,no taste,3
-Ghana,75.0,0,3.25,4,1,0,1,0,1,0,rich cocoa,fatty,roasty,no taste,3
+Trinidad,75.0,1,3.25,4,1,0,1,0,1,0,tobacco,deep cocoa,sl. burnt,no taste,3
+Ghana,75.0,1,3.25,4,1,0,1,0,1,0,rich cocoa,fatty,roasty,no taste,3
 Papua new guinea,75.0,0,3.0,4,1,0,1,0,1,0,smoke,fat,hammy,no taste,3
 Papua new guinea,75.0,0,3.0,4,1,0,1,0,1,0,complex,smoke,intense,no taste,3
 Indonesia,75.0,0,3.0,4,1,0,1,0,1,0,fruit,woody,ashey,fatty,4
 Venezuela,75.0,0,3.0,4,1,0,1,0,1,0,roasty,black licorice,rubbery,no taste,3
 Madagascar,75.0,0,3.0,4,1,0,1,0,1,0,high acidity,roasty,sour,chalky,4
 Colombia,75.0,0,3.0,4,1,0,1,0,1,0,sandy,coffee,sweet,roasty,4
-Tanzania,75.0,0,3.25,2,0,0,0,0,0,1,sour palm,rich cocoa,fruit,no taste,3
-Peru,75.0,0,3.25,2,0,0,0,0,0,1,molasses,coffee,cocoa,no taste,3
+Tanzania,75.0,1,3.25,2,0,0,0,0,0,1,sour palm,rich cocoa,fruit,no taste,3
+Peru,75.0,1,3.25,2,0,0,0,0,0,1,molasses,coffee,cocoa,no taste,3
 Vietnam,70.0,0,2.75,2,0,0,0,0,1,0,fruit,tart,fertilzer,no taste,3
-Madagascar,72.0,0,3.25,3,1,0,0,0,1,0,long,mellow,buttery,no taste,3
+Madagascar,72.0,1,3.25,3,1,0,0,0,1,0,long,mellow,buttery,no taste,3
 Ecuador,75.0,0,3.0,3,1,0,0,0,1,0,perfume,roasted caramel,no taste,no taste,2
 Venezuela,75.0,0,2.75,3,1,0,0,0,1,0,nutty,fuel,intense,no taste,3
 Ecuador,85.0,0,2.75,3,1,0,0,0,1,0,floral,slightly burnt,intense,no taste,3
@@ -1688,18 +1688,18 @@ Madagascar,74.0,1,3.5,3,1,0,0,0,1,0,dairy,butterscotch,caramel,no taste,3
 Honduras,80.0,0,2.75,3,1,0,0,0,1,0,chunky,earthy,rubber,no taste,3
 Ecuador,77.0,1,3.5,3,1,0,0,0,1,0,floral,grain,deep cocoa,no taste,3
 Jamaica,75.0,1,3.75,2,0,0,0,0,1,0,sticky,mild,hay,honey,4
-Solomon islands,72.0,0,3.25,3,1,0,0,0,1,0,dominant savory,no taste,no taste,no taste,1
+Solomon islands,72.0,1,3.25,3,1,0,0,0,1,0,dominant savory,no taste,no taste,no taste,1
 Venezuela,73.0,0,2.75,4,1,0,1,0,1,0,fatty,vanilla,orange,no taste,3
 Dominican republic,65.0,1,3.75,4,1,0,1,0,1,0,peanut,soy,sunflower,no taste,3
 Vietnam,75.0,1,3.5,4,1,0,1,0,1,0,intense,fig,roasty,citrus,4
 Philippines,66.0,1,3.5,4,1,0,1,0,1,0,spice,sunflower,no taste,no taste,2
-Ecuador,73.0,0,3.25,4,1,0,1,0,1,0,few grits,strong floral,no taste,no taste,2
-Papua new guinea,75.0,0,3.25,4,1,0,1,0,1,0,intense smoke,no taste,no taste,no taste,1
-Brazil,65.0,0,3.25,3,1,0,0,0,1,0,muted,banana,hot cocoa,no taste,3
+Ecuador,73.0,1,3.25,4,1,0,1,0,1,0,few grits,strong floral,no taste,no taste,2
+Papua new guinea,75.0,1,3.25,4,1,0,1,0,1,0,intense smoke,no taste,no taste,no taste,1
+Brazil,65.0,1,3.25,3,1,0,0,0,1,0,muted,banana,hot cocoa,no taste,3
 Brazil,60.0,0,3.0,3,1,0,0,0,1,0,sweet,intense banana,no taste,no taste,2
 Brazil,85.0,1,3.5,3,1,0,0,0,1,0,mild bitter,banana,citrus,no taste,3
-Brazil,75.0,0,3.25,3,1,0,0,0,1,0,sticky,intense,roasty,fruit,4
-Brazil,80.0,0,3.25,3,1,0,0,0,1,0,tannic,fruity,cocoa,no taste,3
+Brazil,75.0,1,3.25,3,1,0,0,0,1,0,sticky,intense,roasty,fruit,4
+Brazil,80.0,1,3.25,3,1,0,0,0,1,0,tannic,fruity,cocoa,no taste,3
 Brazil,55.0,0,2.75,3,1,0,0,0,1,0,creamy,too sweet,sour,no taste,3
 Peru,70.0,0,3.0,3,1,0,0,0,1,0,pungent,grapes,no taste,no taste,2
 Peru,70.0,1,3.75,3,1,0,0,0,1,0,bold,nutty,floral,wine,4
@@ -1707,16 +1707,16 @@ Peru,70.0,1,3.5,3,1,0,0,0,1,0,intense plum,harsh woody,no taste,no taste,2
 Mexico,74.0,0,3.0,3,1,0,0,0,1,0,waxy,gritty,spicy,hammy,4
 Mexico,70.0,0,2.75,3,1,0,0,0,1,0,gritty,waxy,leather,no taste,3
 Dominican republic,85.0,1,3.5,3,1,0,0,0,1,0,creamy,pasty,bitter,cocoa,4
-Madagascar,75.0,0,3.25,3,1,0,0,0,1,0,gritty,sticky,candied,no taste,3
+Madagascar,75.0,1,3.25,3,1,0,0,0,1,0,gritty,sticky,candied,no taste,3
 Congo,75.0,0,2.75,3,1,0,0,0,1,0,refined,honey,rubber,no taste,3
 Peru,70.0,0,3.0,3,1,0,0,0,1,0,pungent,green,citrus,no taste,3
 Haiti,70.0,1,3.5,3,1,0,0,0,1,0,basic cocoa,no taste,no taste,no taste,1
-Haiti,70.0,0,3.25,3,1,0,0,0,1,0,green,no taste,no taste,no taste,1
+Haiti,70.0,1,3.25,3,1,0,0,0,1,0,green,no taste,no taste,no taste,1
 Guatemala,70.0,0,2.75,5,1,1,1,0,1,0,Easter candy,burnt,no taste,no taste,2
 Peru,73.0,1,3.5,2,0,0,0,0,1,0,dried fruit,raisins,nutty,no taste,3
-Peru,80.0,0,3.25,2,0,0,0,0,1,0,fruity,melon,no taste,no taste,2
+Peru,80.0,1,3.25,2,0,0,0,0,1,0,fruity,melon,no taste,no taste,2
 Peru,70.0,0,2.5,2,0,0,0,0,1,0,oily,intense vinegar,no taste,no taste,2
-Peru,75.0,0,3.25,3,1,0,0,0,1,0,fatty,cocoa,no taste,no taste,2
+Peru,75.0,1,3.25,3,1,0,0,0,1,0,fatty,cocoa,no taste,no taste,2
 Tanzania,72.0,1,3.75,3,1,0,0,0,1,0,creamy,complex,maple,no taste,3
 Peru,72.0,1,3.75,3,1,0,0,0,1,0,dominant spice,no taste,no taste,no taste,1
 Ecuador,72.0,1,3.5,3,1,0,0,0,1,0,floral,malt,high astringcy,no taste,3
@@ -1726,11 +1726,11 @@ Ecuador,75.0,1,3.75,4,1,0,1,0,1,0,vanilla,dark roast,spicy,no taste,3
 Ecuador,67.0,1,3.5,4,1,0,1,0,1,0,creamy,caramel,dairy,no taste,3
 Ecuador,75.0,0,3.0,4,1,0,1,0,1,0,cinamon,hazelnut,roasty,no taste,3
 Ecuador,75.0,0,2.5,4,1,0,1,0,1,0,strong rubber,off chemical,no taste,no taste,2
-Ecuador,75.0,0,3.25,4,1,0,1,0,1,0,strong spicey,earthy green,no taste,no taste,2
+Ecuador,75.0,1,3.25,4,1,0,1,0,1,0,strong spicey,earthy green,no taste,no taste,2
 Costa rica,75.0,1,3.5,2,0,0,0,0,1,0,dark berry,woody,astringent,no taste,3
 Madagascar,75.0,1,4.0,2,0,0,0,0,1,0,dark berry,tropical,nutty,no taste,3
 Trinidad,75.0,1,3.5,2,0,0,0,0,1,0,orange,heavy roast,no taste,no taste,2
-Ecuador,75.0,0,3.25,2,0,0,0,0,1,0,dried fruit,nut,bitter,roasty,4
+Ecuador,75.0,1,3.25,2,0,0,0,0,1,0,dried fruit,nut,bitter,roasty,4
 Belize,75.0,1,3.75,2,0,0,0,0,1,0,thick,slow,pure,no taste,3
 Peru,75.0,0,3.0,2,0,0,0,0,1,0,intense,roasty,spice,no taste,3
 Ecuador,85.0,1,3.5,2,0,0,0,0,1,0,mild bitter,woody,bourbon,no taste,3
@@ -1742,11 +1742,11 @@ Trinidad,80.0,1,3.5,2,0,0,0,0,1,0,rich brownie,dried fruit,no taste,no taste,2
 Tanzania,72.0,0,3.0,3,1,0,0,0,1,0,muted,heavy roast,no taste,no taste,2
 Fiji,70.0,0,2.5,3,1,0,0,0,1,0,fatty,rubbery,nutty,no taste,3
 Peru,70.0,0,2.5,3,1,0,0,0,1,0,fatty,rubbery,off,no taste,3
-Costa rica,70.0,0,3.25,2,0,0,0,0,1,0,dried fruit,intense,no taste,no taste,2
-Costa rica,70.0,0,3.25,2,0,0,0,0,1,0,fatty,honey,slight sour,no taste,3
-Costa rica,70.0,0,3.25,2,0,0,0,0,1,0,roasty,coffee,intense,no taste,3
-Madagascar,75.0,0,3.25,5,1,1,1,0,1,0,rich cocoa,nutty,no taste,no taste,2
-Madagascar,68.0,0,3.25,4,1,0,1,0,1,0,basic cocoa,large nibs,no taste,no taste,2
+Costa rica,70.0,1,3.25,2,0,0,0,0,1,0,dried fruit,intense,no taste,no taste,2
+Costa rica,70.0,1,3.25,2,0,0,0,0,1,0,fatty,honey,slight sour,no taste,3
+Costa rica,70.0,1,3.25,2,0,0,0,0,1,0,roasty,coffee,intense,no taste,3
+Madagascar,75.0,1,3.25,5,1,1,1,0,1,0,rich cocoa,nutty,no taste,no taste,2
+Madagascar,68.0,1,3.25,4,1,0,1,0,1,0,basic cocoa,large nibs,no taste,no taste,2
 Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,raisins,sour,roasty,no taste,3
 Trinidad,70.0,0,3.0,2,0,0,0,0,1,0,dry,honey,roasty,no taste,3
 Dominican republic,70.0,0,2.75,2,0,0,0,0,1,0,nutty,earthy,mild off note,no taste,3
@@ -1761,7 +1761,7 @@ Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,creamy,heavy roast,citrus,no taste,3
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,sticky,earthy,smokey,no taste,3
 Venezuela,80.0,1,3.75,2,0,0,0,0,1,0,red fruit,intense,earthy,no taste,3
 Venezuela,70.0,1,3.75,2,0,0,0,0,1,0,deep,rich,nutty,roasty,4
-Bolivia,75.0,0,3.25,2,0,0,0,0,1,0,roasty,dried fruit,sour,no taste,3
+Bolivia,75.0,1,3.25,2,0,0,0,0,1,0,roasty,dried fruit,sour,no taste,3
 Honduras,75.0,1,3.75,2,0,0,0,0,1,0,robust,tart,roasty,no taste,3
 Venezuela,73.0,1,3.5,3,1,0,0,0,1,0,fatty,roasty,coffee,no taste,3
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,uneven melt,cashew,no taste,no taste,2
@@ -1774,13 +1774,13 @@ Venezuela,73.0,1,3.75,3,1,0,0,0,1,0,nuts,chocolate,mellow,no taste,3
 Honduras,72.0,0,2.75,3,1,0,0,0,0,1,off note,vegetal,nibby,no taste,3
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,complex,coarse,astringent,no taste,3
 Haiti,75.0,0,3.0,3,1,0,0,0,1,0,cocoa base,spice,no taste,no taste,2
-Blend,69.0,0,3.25,4,1,1,0,0,0,1,grassy,maple,no taste,no taste,2
+Blend,69.0,1,3.25,4,1,1,0,0,0,1,grassy,maple,no taste,no taste,2
 Blend,83.0,0,2.75,4,1,1,0,0,0,1,grassy,strong bitter,no taste,no taste,2
 Brazil,70.0,1,3.5,4,1,0,1,0,1,0,creamy,vanilla,rich,no taste,3
 Ecuador,70.0,1,3.5,4,1,0,1,0,1,0,nutty,spicy,floral,no taste,3
 Venezuela,70.0,1,3.5,4,1,0,1,0,1,0,nutty,basic cocoa,no taste,no taste,2
 Ecuador,70.0,1,3.5,4,1,0,1,0,1,0,floral,spicey,no taste,no taste,2
-Ecuador,70.0,0,3.25,4,1,0,1,0,1,0,few grits,basic,gateway,no taste,3
+Ecuador,70.0,1,3.25,4,1,0,1,0,1,0,few grits,basic,gateway,no taste,3
 Colombia,70.0,1,3.75,5,1,1,1,0,1,0,rustic,cherry,marshmallow,no taste,3
 Colombia,65.0,0,3.0,5,1,1,1,0,1,0,sweet,cherry,marshmallow,no taste,3
 Colombia,53.0,0,2.0,5,1,1,1,0,1,0,too sweet,candy-like,no taste,no taste,2
@@ -1806,7 +1806,7 @@ Papua new guinea,68.0,1,3.75,5,1,1,1,0,1,0,cherry,wine,rich,smoke,4
 Peru,78.0,1,4.0,4,1,0,1,0,1,0,banana,pear,spice,cheese,4
 Dominican republic,70.0,0,2.75,2,0,0,0,0,1,0,rustic,vegetal,earthy,no taste,3
 Grenada,70.0,0,2.75,2,0,0,0,0,1,0,off,sweet,orange,rubber,4
-Tanzania,70.0,0,3.25,2,0,0,0,0,1,0,sticky,cherry,cocoa,no taste,3
+Tanzania,70.0,1,3.25,2,0,0,0,0,1,0,sticky,cherry,cocoa,no taste,3
 Dominican republic,70.0,0,3.0,2,0,0,0,0,1,0,earthy,mild fruit,sticky,no taste,3
 Honduras,70.0,0,2.75,2,0,0,0,0,1,0,dry,earthy,surface mark,no taste,3
 Uganda,70.0,1,3.5,2,0,0,0,0,1,0,cocoa,roasty,sticky,no taste,3
@@ -1814,27 +1814,27 @@ Fiji,70.0,0,2.75,2,0,0,0,0,1,0,sharp,raw,metallic,no taste,3
 Belize,70.0,1,3.5,3,1,0,0,0,1,0,full cocoa flavor,no taste,no taste,no taste,1
 Guatemala,70.0,0,3.0,3,1,0,0,0,1,0,spicy,rich cocoa,sweet,no taste,3
 Colombia,70.0,0,3.0,3,1,0,0,0,1,0,black pepper,astringent,no taste,no taste,2
-Belize,72.0,0,3.25,2,0,0,0,0,1,0,fruity,blueberry,no taste,no taste,2
+Belize,72.0,1,3.25,2,0,0,0,0,1,0,fruity,blueberry,no taste,no taste,2
 Ecuador,75.0,0,3.0,2,0,0,0,0,1,0,coffee,nutty,no taste,no taste,2
 Papua new guinea,73.0,1,3.5,2,0,0,0,0,1,0,chewy,smoke,fruit,cocoa,4
 Dominican republic,74.0,1,3.5,2,0,0,0,0,1,0,grapes,tangy,cocoa,no taste,3
-Jamaica,72.0,0,3.25,2,0,0,0,0,1,0,sticky,dried fruit,smoke,no taste,3
+Jamaica,72.0,1,3.25,2,0,0,0,0,1,0,sticky,dried fruit,smoke,no taste,3
 Venezuela,77.0,0,2.75,2,0,0,0,0,1,0,smoked ham,tangy,berry,no taste,3
 U.s.a.,73.0,0,2.5,4,1,1,0,0,1,0,perfume,floral,chemical,no taste,3
 U.s.a.,73.0,0,2.0,4,1,1,0,0,1,0,sticky,earthy,medicinal,no taste,3
 Peru,75.0,1,3.5,3,1,0,0,0,1,0,strong spice,perfume,roasty,no taste,3
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,earthy,roasty,vegetal,no taste,3
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,earthy,roasty,vegetal,no taste,3
 Costa rica,70.0,1,3.5,3,1,0,0,0,1,0,gritty,bold,black pepper,no taste,3
-Costa rica,82.0,0,3.25,3,1,0,0,0,1,0,gritty,fatty,coffee,no taste,3
-Sao tome,65.0,0,3.25,4,1,0,0,1,1,0,nutty,salty,no taste,no taste,2
-Brazil,60.0,0,3.25,4,1,0,0,1,1,0,fatty,sweet,salty,no taste,3
+Costa rica,82.0,1,3.25,3,1,0,0,0,1,0,gritty,fatty,coffee,no taste,3
+Sao tome,65.0,1,3.25,4,1,0,0,1,1,0,nutty,salty,no taste,no taste,2
+Brazil,60.0,1,3.25,4,1,0,0,1,1,0,fatty,sweet,salty,no taste,3
 Belize,67.0,0,3.0,4,1,0,0,1,1,0,fatty,cocoa,spicy,no taste,3
 Colombia,68.0,0,3.0,4,1,0,0,1,1,0,fatty,salty,caramel,no taste,3
 Madagascar,67.0,1,3.75,3,1,0,0,0,1,0,tart,sweet edge,no taste,no taste,2
 Madagascar,73.0,1,3.75,3,1,0,0,0,1,0,intense fruity,mild sour,no taste,no taste,2
 Ecuador,73.0,1,3.75,3,1,0,0,0,1,0,intense,rich,burnt,licorice,4
-Guatemala,73.0,0,3.25,2,0,0,0,0,0,1,waxy,maple,flat,no taste,3
-Haiti,73.0,0,3.25,2,0,0,0,0,1,0,oily,medium roasted cocoa,no taste,no taste,2
+Guatemala,73.0,1,3.25,2,0,0,0,0,0,1,waxy,maple,flat,no taste,3
+Haiti,73.0,1,3.25,2,0,0,0,0,1,0,oily,medium roasted cocoa,no taste,no taste,2
 Madagascar,100.0,0,3.0,1,0,0,0,0,0,0,creamy,tart,bitter,no taste,3
 Ecuador,100.0,0,3.0,1,0,0,0,0,0,0,floral,bourbon,bitter,no taste,3
 Guatemala,73.0,0,3.0,2,0,0,0,0,1,0,waxy,earthy,cocoa,roasty,4
@@ -1850,37 +1850,37 @@ Trinidad,70.0,1,3.75,3,1,0,0,0,1,0,cigar,tobacco,grass,spice,4
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,mild cacao and fruit notes,no taste,no taste,no taste,1
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,few grits,bold,dark berry,no taste,3
 Papua new guinea,65.0,1,3.5,3,1,0,0,0,1,0,smokey,tart,astringent,no taste,3
-Madagascar,65.0,0,3.25,3,1,0,0,0,1,0,few grits,sweet,orange,no taste,3
+Madagascar,65.0,1,3.25,3,1,0,0,0,1,0,few grits,sweet,orange,no taste,3
 Peru,67.0,0,3.0,3,1,0,0,0,1,0,light brown,grits,floral,no taste,3
 Bolivia,72.0,0,2.75,3,1,0,0,0,1,0,floral,intense,pungent,no taste,3
 Ecuador,70.0,1,4.0,3,1,0,0,0,1,0,ligt color,creamy,peanut,no taste,3
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,creamy,fruit,cocoa,no taste,3
 Belize,70.0,1,3.75,3,1,0,0,0,1,0,apple,mild cherry,no taste,no taste,2
 Australia,67.0,1,3.75,3,1,0,0,0,1,0,delicate,smooth,dairy,no taste,3
-Guatemala,70.0,0,3.25,3,1,0,0,0,1,0,gummy,fatty,earthy,no taste,3
+Guatemala,70.0,1,3.25,3,1,0,0,0,1,0,gummy,fatty,earthy,no taste,3
 Vietnam,70.0,0,3.0,3,1,0,0,0,1,0,creamy,molasses,off note,no taste,3
 Dominican republic,70.0,1,3.5,3,1,0,0,0,1,0,cherry,rich choco,no taste,no taste,2
 Haiti,70.0,1,3.5,3,1,0,0,0,1,0,complex,earthy,melon,no taste,3
-Ecuador,68.0,0,3.25,3,1,0,0,0,1,0,fudgey then spicy,vanilla,no taste,no taste,2
+Ecuador,68.0,1,3.25,3,1,0,0,0,1,0,fudgey then spicy,vanilla,no taste,no taste,2
 Madagascar,68.0,0,3.0,3,1,0,0,0,1,0,mild cocoa,fruity,no taste,no taste,2
 Ghana,67.0,0,1.5,3,1,0,0,0,1,0,perfume,strong chemical,no taste,no taste,2
-Sulawesi,66.0,0,3.25,3,1,0,0,0,0,1,nuts,fruit,cocoa,no taste,3
+Sulawesi,66.0,1,3.25,3,1,0,0,0,0,1,nuts,fruit,cocoa,no taste,3
 India,70.0,0,2.75,3,1,0,0,0,1,0,grassy,hammy,no taste,no taste,2
 Madagascar,72.0,0,3.0,2,0,0,0,0,1,0,tangy,sour,intense,no taste,3
 Ecuador,70.0,1,3.5,2,0,0,0,0,1,0,intense,simple,floral,earthy,4
 Dominican republic,85.0,0,2.75,2,0,0,0,0,1,0,sticky,hammy,bitter,no taste,3
 Peru,68.0,0,2.75,2,0,0,0,0,1,0,sticky,sandy,pungent,no taste,3
 Philippines,70.0,0,2.5,3,1,0,0,0,1,0,intense,dirty,floral,medicinal,4
-Solomon islands,70.0,0,3.25,2,0,0,0,0,1,0,sweet,roasty,spicy,no taste,3
-Solomon islands,75.0,0,3.25,2,0,0,0,0,1,0,spicy,roasted,fresh nibs,no taste,3
+Solomon islands,70.0,1,3.25,2,0,0,0,0,1,0,sweet,roasty,spicy,no taste,3
+Solomon islands,75.0,1,3.25,2,0,0,0,0,1,0,spicy,roasted,fresh nibs,no taste,3
 Blend,70.0,1,3.5,3,1,0,0,0,1,0,creamy,nutty,cocoa,no taste,3
-Bolivia,70.0,0,3.25,2,0,0,0,0,1,0,intense,leathery,cocoa,no taste,3
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,molasses,grape,sour,no taste,3
+Bolivia,70.0,1,3.25,2,0,0,0,0,1,0,intense,leathery,cocoa,no taste,3
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,molasses,grape,sour,no taste,3
 Madagascar,70.0,0,3.0,2,0,0,0,0,1,0,dry,molasses,sour,no taste,3
 Venezuela,70.0,0,3.0,2,0,0,0,0,1,0,dairy,cheese,molasses,no taste,3
 Uganda,70.0,0,3.0,3,1,0,0,0,1,0,molasses,licorice,muted,no taste,3
-Tanzania,70.0,0,3.25,3,1,0,0,0,1,0,sticky,strong molasses,no taste,no taste,2
-India,70.0,0,3.25,3,1,0,0,0,1,0,molasses undertone,tangy,no taste,no taste,2
+Tanzania,70.0,1,3.25,3,1,0,0,0,1,0,sticky,strong molasses,no taste,no taste,2
+India,70.0,1,3.25,3,1,0,0,0,1,0,molasses undertone,tangy,no taste,no taste,2
 Madagascar,70.0,1,3.75,3,1,0,0,0,1,0,subtle red berry,complex,no taste,no taste,2
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,black tea,no taste,no taste,no taste,1
 Ghana,70.0,1,3.5,3,1,0,0,0,1,0,earthy,woody,vegetal,no taste,3
@@ -1901,7 +1901,7 @@ Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,intense,rich burnt caramel,no taste,no taste
 Guatemala,70.0,1,3.5,3,1,0,0,0,1,0,sandy,earthy,tangy wine,no taste,3
 Blend,70.0,1,3.5,3,1,0,0,0,1,0,smoke,tobacco,black pepper,no taste,3
 Papua new guinea,85.0,1,3.5,3,1,0,0,0,1,0,mild smoke,fruit,mild burnt,no taste,3
-Haiti,70.0,0,3.25,3,1,0,0,0,1,0,uneven,grassy,roasty,no taste,3
+Haiti,70.0,1,3.25,3,1,0,0,0,1,0,uneven,grassy,roasty,no taste,3
 Blend,88.0,1,4.0,3,1,0,0,0,1,0,pronounced berry,mild smoke,no taste,no taste,2
 Venezuela,70.0,1,4.0,3,1,0,0,0,1,0,delicate,nutty,cocoa,dairy,4
 Blend,67.0,1,4.0,3,1,0,0,0,1,0,roasted nuts,burnt brownie,no taste,no taste,2
@@ -1909,16 +1909,16 @@ Jamaica,70.0,1,4.0,3,1,0,0,0,1,0,floral,berry,clove,no taste,3
 Dominican republic,77.0,1,3.75,3,1,0,0,0,1,0,smoke,burnt caramel,citrus,no taste,3
 Trinidad,70.0,1,3.75,3,1,0,0,0,1,0,creamy,brownie mix,roasty,no taste,3
 Venezuela,70.0,1,3.75,3,1,0,0,0,1,0,nutty,chocolate ice cream,no taste,no taste,2
-Indonesia,70.0,0,3.25,3,1,0,0,0,1,0,creamy,smokey,some fruit,no taste,3
-Blend,70.0,0,3.25,3,1,0,0,0,1,0,grassy,dairy,mild fatty,no taste,3
-Venezuela,70.0,0,3.25,3,1,0,0,0,1,0,creamy,nutty,roasty,no taste,3
+Indonesia,70.0,1,3.25,3,1,0,0,0,1,0,creamy,smokey,some fruit,no taste,3
+Blend,70.0,1,3.25,3,1,0,0,0,1,0,grassy,dairy,mild fatty,no taste,3
+Venezuela,70.0,1,3.25,3,1,0,0,0,1,0,creamy,nutty,roasty,no taste,3
 Peru,70.0,0,2.75,3,1,0,0,0,1,0,creamy,medicinal,mild fruit,no taste,3
 Peru,70.0,1,3.75,3,1,0,0,0,1,0,creamy,sour orange,no taste,no taste,2
 Vanuatu,70.0,1,3.75,3,1,0,0,0,1,0,creamy,smokey,rich cocoa,no taste,3
 Nicaragua,70.0,1,3.5,3,1,0,0,0,1,0,basic chocolate,accessible,no taste,no taste,2
 Ecuador,80.0,1,3.5,3,1,0,0,0,1,0,robust,nutty,brownie,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,spicy,woodsy,no taste,no taste,2
-Blend,70.0,0,3.25,3,1,0,0,0,1,0,tart,mild sour,no taste,no taste,2
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,spicy,woodsy,no taste,no taste,2
+Blend,70.0,1,3.25,3,1,0,0,0,1,0,tart,mild sour,no taste,no taste,2
 Venezuela,75.0,1,4.0,3,1,0,0,0,1,0,balanced,nuts,strawberry,no taste,3
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,roasted nuts,dried fruit,no taste,no taste,2
 Vietnam,70.0,1,4.0,3,1,0,0,0,1,0,creamy,honey,blackberry,no taste,3
@@ -1927,21 +1927,21 @@ Blend,75.0,1,3.75,3,1,0,0,0,1,0,banana,nutty,no taste,no taste,2
 Dominican republic,62.0,1,3.5,3,1,0,0,0,1,0,creamy,sweet,deep choco,no taste,3
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,robust dark tropical fruit,no taste,no taste,no taste,1
 Brazil,70.0,1,3.5,3,1,0,0,0,1,0,creamy,diluted,mild choco,no taste,3
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,nutty,banana,harsh ending,no taste,3
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,nutty,banana,harsh ending,no taste,3
 Colombia,70.0,1,4.0,3,1,0,0,0,1,0,creamy,honey,marshmallow,no taste,3
-Fiji,70.0,0,3.25,3,1,0,0,0,1,0,creamy,roasty,woody,no taste,3
+Fiji,70.0,1,3.25,3,1,0,0,0,1,0,creamy,roasty,woody,no taste,3
 Madagascar,70.0,1,4.0,3,1,0,0,0,1,0,creamy,acidic,balanced,no taste,3
 Venezuela,70.0,1,4.0,3,1,0,0,0,1,0,nutty,cocoa,no taste,no taste,2
 Haiti,70.0,0,3.0,3,1,0,0,0,1,0,sweet edge,lemon,muted,no taste,3
 U.s.a.,70.0,1,3.5,2,0,0,0,0,1,0,intense,tannic,choco,earthy,4
-Nicaragua,70.0,0,3.25,2,0,0,0,0,1,0,earthy,dried fruit,complex,no taste,3
+Nicaragua,70.0,1,3.25,2,0,0,0,0,1,0,earthy,dried fruit,complex,no taste,3
 Madagascar,70.0,1,3.5,2,0,0,0,0,1,0,tart,sour,basic,no taste,3
 Venezuela,75.0,1,3.5,2,0,0,0,0,1,0,dry,earthy,roasty,no taste,3
 Tanzania,80.0,1,3.5,2,0,0,0,0,1,0,sticky,mild fruit,brownie,no taste,3
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,few grits,sweet,cocoa,no taste,3
-Ecuador,75.0,0,3.25,2,0,0,0,0,1,0,dry,floral,earthy,no taste,3
-Papua new guinea,77.0,0,3.25,2,0,0,0,0,1,0,sandy,smokey,fruit,sour,4
-Dominican republic,75.0,0,3.25,4,1,1,0,0,1,0,oily,floral,no taste,no taste,2
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,few grits,sweet,cocoa,no taste,3
+Ecuador,75.0,1,3.25,2,0,0,0,0,1,0,dry,floral,earthy,no taste,3
+Papua new guinea,77.0,1,3.25,2,0,0,0,0,1,0,sandy,smokey,fruit,sour,4
+Dominican republic,75.0,1,3.25,4,1,1,0,0,1,0,oily,floral,no taste,no taste,2
 Dominican republic,70.0,0,3.0,4,1,1,0,0,1,0,oily,floral,dairy,no taste,3
 Dominican republic,80.0,0,3.0,4,1,1,0,0,1,0,fatty,muted strawberry,no taste,no taste,2
 Vanuatu,72.0,0,2.75,3,1,0,0,0,1,0,bready,sour milk,fatty,no taste,3
@@ -1959,7 +1959,7 @@ Dominican republic,70.0,0,3.0,4,1,1,0,0,0,1,coconut,cocoa,few grits,no taste,3
 Guatemala,70.0,0,3.0,4,1,1,0,0,0,1,dried fruit,coconut,few grits,no taste,3
 Nicaragua,70.0,0,3.0,4,1,1,0,0,0,1,brownie,few grits,sandy,no taste,3
 Madagascar,70.0,0,3.0,4,1,1,0,0,0,1,red fruit,coconut,no taste,no taste,2
-India,72.0,0,3.25,4,1,1,0,0,1,0,peanut butter,vanilla,artificial,no taste,3
+India,72.0,1,3.25,4,1,1,0,0,1,0,peanut butter,vanilla,artificial,no taste,3
 Brazil,68.0,0,2.75,4,1,1,0,0,1,0,creamy,vanilla,moldy,no taste,3
 Ecuador,84.0,1,3.5,3,1,0,0,0,1,0,floral,hints of fruit,no taste,no taste,2
 Ecuador,70.0,1,3.5,3,1,0,0,0,1,0,oily surface,floral,earthy,no taste,3
@@ -1967,7 +1967,7 @@ Bolivia,70.0,0,2.5,3,1,0,0,0,1,0,fatty,rubber,off notes,no taste,3
 Philippines,75.0,0,2.75,4,1,1,0,0,1,0,bland,earthy,no taste,no taste,2
 Philippines,65.0,0,2.5,4,1,1,0,0,1,0,vanilla,sweet,no taste,no taste,2
 Philippines,70.0,0,2.5,4,1,1,0,0,1,0,dry,sweet,vanilla(n),no taste,3
-Belize,78.0,0,3.25,2,0,0,0,0,1,0,intense,rich,dark berry,no taste,3
+Belize,78.0,1,3.25,2,0,0,0,0,1,0,intense,rich,dark berry,no taste,3
 Madagascar,67.0,0,2.75,2,0,0,0,0,1,0,molasses,sour,astringent,no taste,3
 Peru,71.0,0,3.0,5,1,1,1,0,1,0,powdery,vanilla,earthy,no taste,3
 Peru,61.0,0,2.5,5,1,1,1,0,1,0,sandy,sweet,vanilla,no taste,3
@@ -1975,48 +1975,48 @@ Venezuela,60.0,0,3.0,3,1,0,0,0,1,0,sticky,sweet,nutty,roasty,4
 Venezuela,70.0,0,2.75,3,1,0,0,0,1,0,sticy,nutty,roasty,off notes,4
 Sri lanka,70.0,0,2.75,2,0,0,0,0,1,0,ham,sour,intense,no taste,3
 Tanzania,74.0,0,2.75,2,0,0,0,0,1,0,fruit,burnt,harsh,no taste,3
-Venezuela,75.0,0,3.25,5,1,1,1,0,1,0,acidic,cocoa,dried fruit,no taste,3
+Venezuela,75.0,1,3.25,5,1,1,1,0,1,0,acidic,cocoa,dried fruit,no taste,3
 Belize,70.0,0,3.0,5,1,1,1,0,1,0,buttery,cheesy,no taste,no taste,2
 Brazil,70.0,0,3.0,5,1,1,1,0,1,0,cardboard,cheesy,no taste,no taste,2
 Tanzania,75.0,0,2.75,3,1,0,0,0,1,0,fatty,sour,off notes,no taste,3
 Peru,70.0,0,2.5,5,1,1,1,0,1,0,pungent,molasses,sour,no taste,3
-Peru,68.0,0,3.25,3,1,0,0,0,1,0,burnt black licorice,intense,no taste,no taste,2
-Papua new guinea,73.0,0,3.25,3,1,0,0,0,1,0,savory lemon,ham,no taste,no taste,2
+Peru,68.0,1,3.25,3,1,0,0,0,1,0,burnt black licorice,intense,no taste,no taste,2
+Papua new guinea,73.0,1,3.25,3,1,0,0,0,1,0,savory lemon,ham,no taste,no taste,2
 Mexico,74.0,0,3.0,3,1,0,0,0,1,0,dried fig,earthy,dirty,no taste,3
 Venezuela,70.0,0,3.0,3,1,0,0,0,1,0,rustic,sugar dominates,no taste,no taste,2
 Peru,70.0,1,3.75,3,1,0,0,0,1,0,sweet,spicy,no taste,no taste,2
-Dominican republic,70.0,0,3.25,3,1,0,0,0,1,0,rustic,large unground pieces,no taste,no taste,2
-Madagascar,70.0,0,3.25,3,1,0,0,0,1,0,rustic,bright fruit,no taste,no taste,2
+Dominican republic,70.0,1,3.25,3,1,0,0,0,1,0,rustic,large unground pieces,no taste,no taste,2
+Madagascar,70.0,1,3.25,3,1,0,0,0,1,0,rustic,bright fruit,no taste,no taste,2
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,light color,sandy,fruity,no taste,3
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,dark color,sandy,fruity,no taste,3
-Nicaragua,70.0,0,3.25,3,1,0,0,0,1,0,sour milk,hot cocoa,no taste,no taste,2
+Nicaragua,70.0,1,3.25,3,1,0,0,0,1,0,sour milk,hot cocoa,no taste,no taste,2
 Cuba,70.0,1,3.75,3,1,0,0,0,1,0,sandy,banana,no taste,no taste,2
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,sandy,earthy,spice,nutty,4
 Ecuador,70.0,1,3.75,3,1,0,0,0,1,0,coarse,spicy cinnamon,no taste,no taste,2
 Brazil,70.0,1,3.5,3,1,0,0,0,1,0,rustic,earthy,tea,no taste,3
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,sweet,brownie,sour,no taste,3
-Cuba,88.0,0,3.25,3,1,0,0,0,1,0,rustic,spicy,earthy,no taste,3
-Madagascar,70.0,0,3.25,3,1,0,0,0,1,0,sour orange,fatty,no taste,no taste,2
-Vietnam,70.0,0,3.25,3,1,0,0,0,1,0,smokey,mild citrus,no taste,no taste,2
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,sweet,brownie,sour,no taste,3
+Cuba,88.0,1,3.25,3,1,0,0,0,1,0,rustic,spicy,earthy,no taste,3
+Madagascar,70.0,1,3.25,3,1,0,0,0,1,0,sour orange,fatty,no taste,no taste,2
+Vietnam,70.0,1,3.25,3,1,0,0,0,1,0,smokey,mild citrus,no taste,no taste,2
 Peru,70.0,0,3.0,4,1,1,0,0,1,0,vanilla,fatty,vegetal,mint,4
 Costa rica,70.0,0,2.75,4,1,1,0,0,1,0,licorice,dried fruit,burnt fuel,no taste,3
 Dominican republic,70.0,0,2.75,4,1,1,0,0,1,0,oily,cardboard,sour,no taste,3
 Mexico,70.0,0,2.5,4,1,1,0,0,1,0,vanilla,fuel,earthy,no taste,3
-Papua new guinea,62.0,0,3.25,5,1,1,1,0,1,0,creamy,smoke,ham,no taste,3
-Vietnam,60.0,0,3.25,5,1,1,1,0,1,0,vanilla,butter,caramel,no taste,3
+Papua new guinea,62.0,1,3.25,5,1,1,1,0,1,0,creamy,smoke,ham,no taste,3
+Vietnam,60.0,1,3.25,5,1,1,1,0,1,0,vanilla,butter,caramel,no taste,3
 Colombia,70.0,0,3.0,5,1,1,1,0,1,0,flat,smoke,marshmallow,no taste,3
 Trinidad,77.0,0,2.75,4,1,0,1,0,1,0,intense,grassy,smokey,no taste,3
 Vietnam,75.0,0,3.0,3,1,0,0,0,1,0,intense cocoa,fatty,sticky,no taste,3
 Vietnam,70.0,0,2.75,3,1,0,0,0,1,0,cocoa,sweet,fatty,cardboard,4
-Suriname,70.0,0,3.25,2,0,0,0,0,1,0,earthy,floral,dry,no taste,3
+Suriname,70.0,1,3.25,2,0,0,0,0,1,0,earthy,floral,dry,no taste,3
 Peru,75.0,1,4.0,3,1,0,0,0,1,0,fig,no taste,no taste,no taste,1
-Peru,75.0,0,3.25,3,1,0,0,0,1,0,blackberry,dirt,high roast,no taste,3
+Peru,75.0,1,3.25,3,1,0,0,0,1,0,blackberry,dirt,high roast,no taste,3
 Venezuela,75.0,0,3.0,4,1,1,0,0,1,0,vanilla,fatty,no taste,no taste,2
-Mexico,70.0,0,3.25,3,1,0,0,0,1,0,nutty,fruit,sour,floral,4
+Mexico,70.0,1,3.25,3,1,0,0,0,1,0,nutty,fruit,sour,floral,4
 Nicaragua,72.0,0,3.0,3,1,0,0,0,1,0,nutty,off,roasty,fatty,4
 Dominican republic,70.0,0,3.0,3,1,0,0,0,1,0,sandy,sour banana,sweet,no taste,3
 Mexico,75.0,0,2.75,3,1,0,0,0,1,0,rustic,sweet,earthy,no taste,3
-Bolivia,87.0,0,3.25,3,1,0,0,0,1,0,grainy,blueberries,bitter,no taste,3
+Bolivia,87.0,1,3.25,3,1,0,0,0,1,0,grainy,blueberries,bitter,no taste,3
 Belize,68.0,0,3.0,3,1,0,0,0,1,0,coarse,watering,sweet,no taste,3
 Madagascar,70.0,0,2.75,5,1,1,1,0,1,0,dry,red berry,off note,no taste,3
 Ghana,70.0,0,2.5,5,1,1,1,0,1,0,gritty,sweet,swiss miss,vanilla,4
@@ -2027,10 +2027,10 @@ Blend,60.0,0,2.75,5,1,1,1,0,1,0,tea,sweet,astringent,no taste,3
 Blend,62.0,0,2.0,5,1,1,1,0,1,0,strong vanilla,sweet,fatty,no taste,3
 Dominican republic,70.0,1,3.5,4,1,1,0,0,1,0,molasses,caramel,no taste,no taste,2
 Brazil,70.0,1,3.5,3,1,0,0,0,1,0,honey,pepper,charcoal,no taste,3
-Ecuador,70.0,0,3.25,4,1,1,0,0,1,0,gritty,rum,molasses,no taste,3
-Ecuador,70.0,0,3.25,3,1,0,0,0,1,0,molasses,fruit,floral,no taste,3
-Mexico,70.0,0,3.25,3,1,0,0,0,1,0,molasses,caramel,no taste,no taste,2
-Bolivia,67.0,0,3.25,3,1,0,0,0,1,0,green apple,sweet,no taste,no taste,2
+Ecuador,70.0,1,3.25,4,1,1,0,0,1,0,gritty,rum,molasses,no taste,3
+Ecuador,70.0,1,3.25,3,1,0,0,0,1,0,molasses,fruit,floral,no taste,3
+Mexico,70.0,1,3.25,3,1,0,0,0,1,0,molasses,caramel,no taste,no taste,2
+Bolivia,67.0,1,3.25,3,1,0,0,0,1,0,green apple,sweet,no taste,no taste,2
 Blend,70.0,0,3.0,4,1,1,0,0,1,0,molasses,caramel,spice,no taste,3
 Papua new guinea,70.0,0,3.0,4,1,1,0,0,1,0,molasses,caramel,fruity,no taste,3
 Madagascar,70.0,0,3.0,3,1,0,0,0,1,0,sticky,caramel,no taste,no taste,2
@@ -2041,14 +2041,14 @@ Brazil,70.0,0,2.75,3,1,0,0,0,1,0,flat,cardboard,metallic,no taste,3
 Peru,70.0,0,2.0,4,1,1,0,0,1,0,perfume,chemical,soapy,no taste,3
 Madagascar,67.0,1,3.75,2,0,0,0,0,1,0,sweet,rich,tannic,fruity,4
 Uganda,73.0,1,3.75,2,0,0,0,0,1,0,creamy,almond,butter,no taste,3
-Ecuador,77.0,0,3.25,2,0,0,0,0,1,0,intense,mild coffee and rum,no taste,no taste,2
+Ecuador,77.0,1,3.25,2,0,0,0,0,1,0,intense,mild coffee and rum,no taste,no taste,2
 Belize,70.0,1,3.75,2,0,0,0,0,1,0,nutty,raspberry,metallic,no taste,3
 Madagascar,70.0,1,3.75,2,0,0,0,0,1,0,bright fruit,mild sour,no taste,no taste,2
 Guatemala,70.0,1,3.75,3,1,0,0,0,1,0,walnuts,cocoa,easy melt,no taste,3
 Dominican republic,70.0,1,3.5,3,1,0,0,0,1,0,spicy,black pepper,bold,no taste,3
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,floral,earthy,bourbon,no taste,3
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,floral,earthy,bourbon,no taste,3
 Peru,70.0,0,2.75,2,0,0,0,0,1,0,spicy,black pepper,intense,no taste,3
-Bolivia,77.0,0,3.25,3,1,0,0,0,1,0,muted,roasted banana,no taste,no taste,2
+Bolivia,77.0,1,3.25,3,1,0,0,0,1,0,muted,roasted banana,no taste,no taste,2
 Belize,77.0,0,3.0,3,1,0,0,0,1,0,berries,licorice,cocoa,bitter,4
 Haiti,72.0,0,2.75,3,1,0,0,0,1,0,harsh,tobacco,no taste,no taste,2
 Peru,70.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,raisins,no taste,3
@@ -2057,14 +2057,14 @@ Ghana,84.0,0,3.0,4,1,1,0,0,1,0,dry,slightly tart,bitter,no taste,3
 Blend,75.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,fruity,no taste,3
 Ivory coast,75.0,0,2.5,4,1,1,0,0,1,0,dry,gritty,hint of fruit,sour,4
 Venezuela,91.0,0,2.0,2,0,0,0,0,1,0,dry,very bland,mild bitter,no taste,3
-Congo,65.0,0,3.25,4,1,1,0,0,1,0,sweet,vanilla,cocoa,no taste,3
-Peru,70.0,0,3.25,2,0,0,0,0,1,0,peanut butter,sour milk,no taste,no taste,2
+Congo,65.0,1,3.25,4,1,1,0,0,1,0,sweet,vanilla,cocoa,no taste,3
+Peru,70.0,1,3.25,2,0,0,0,0,1,0,peanut butter,sour milk,no taste,no taste,2
 Ecuador,70.0,1,3.5,2,0,0,0,0,1,0,pure,bold,floral,no taste,3
-Colombia,70.0,0,3.25,3,0,0,1,0,1,0,spicy,marshmallow,no taste,no taste,2
+Colombia,70.0,1,3.25,3,0,0,1,0,1,0,spicy,marshmallow,no taste,no taste,2
 Colombia,70.0,0,3.0,3,0,0,1,0,1,0,floral,vegetal,no taste,no taste,2
 Belize,72.0,1,3.75,3,1,0,0,0,1,0,bright fruit,cashew,no taste,no taste,2
 Tanzania,71.0,0,2.75,2,0,0,0,0,1,0,bland,mild honey,sour,no taste,3
-Ecuador,81.0,0,3.25,2,0,0,0,0,1,0,waxy,mild fruit,floral,no taste,3
+Ecuador,81.0,1,3.25,2,0,0,0,0,1,0,waxy,mild fruit,floral,no taste,3
 Dominican republic,74.0,0,3.0,3,1,0,0,0,1,0,pronounced fruit,sour,no taste,no taste,2
 Venezuela,72.0,0,2.75,3,1,0,0,0,1,0,peanut butter,soapy,no taste,no taste,2
 Bolivia,77.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,no taste,no taste,2
@@ -2080,21 +2080,21 @@ Peru,70.0,0,3.0,2,0,0,0,0,1,0,very sandy,spicey,sweet,no taste,3
 Vietnam,70.0,0,2.75,2,0,0,0,0,1,0,tart,sweet,sour,savory,4
 Honduras,70.0,0,2.75,2,0,0,0,0,1,0,woody,sweet,unrefined,no taste,3
 Dominican republic,73.0,0,2.75,2,0,0,0,0,1,0,roasty,woody,rubber off,no taste,3
-Dominican republic,68.0,0,3.25,2,0,0,0,0,1,0,roasty,sligt burnt,red fruit,no taste,3
+Dominican republic,68.0,1,3.25,2,0,0,0,0,1,0,roasty,sligt burnt,red fruit,no taste,3
 Bolivia,75.0,0,2.5,2,0,0,0,0,1,0,roasty,bitter,caramel,dairy,4
 Madagascar,75.0,1,3.5,2,0,0,0,0,1,0,intense,red berry,no taste,no taste,2
 Ecuador,75.0,1,3.5,2,0,0,0,0,1,0,intense,floral,no taste,no taste,2
 Dominican republic,75.0,0,2.75,2,0,0,0,0,1,0,spicy,sour,off note,no taste,3
-Tanzania,75.0,0,3.25,2,0,0,0,0,1,0,dry,floral,woody,no taste,3
+Tanzania,75.0,1,3.25,2,0,0,0,0,1,0,dry,floral,woody,no taste,3
 Peru,60.0,0,3.0,3,1,0,0,0,1,0,coarse,sweet,lemon,no taste,3
-Guatemala,75.0,0,3.25,2,0,0,0,0,1,0,dry,coarse,sour,no taste,3
+Guatemala,75.0,1,3.25,2,0,0,0,0,1,0,dry,coarse,sour,no taste,3
 Tanzania,75.0,0,3.0,2,0,0,0,0,1,0,dry,coarse,sweet,earthy,4
 Dominican republic,75.0,0,2.75,2,0,0,0,0,1,0,dry,coarse,hay,off,4
 Dominican republic,70.0,0,3.0,2,0,0,0,0,1,0,tart,tangy,mild cocoa,no taste,3
 Nicaragua,74.0,0,2.75,2,0,0,0,0,1,0,creamy,woody,green,rubber,4
-Tanzania,72.0,0,3.25,2,0,0,0,0,1,0,sandy,sweet,peach,no taste,3
+Tanzania,72.0,1,3.25,2,0,0,0,0,1,0,sandy,sweet,peach,no taste,3
 Madagascar,72.0,0,3.0,2,0,0,0,0,1,0,sweet,acidic,tart,no taste,3
-Venezuela,65.0,0,3.25,4,1,1,0,0,1,0,intense,nutty,mild rubber,no taste,3
+Venezuela,65.0,1,3.25,4,1,1,0,0,1,0,intense,nutty,mild rubber,no taste,3
 Colombia,70.0,1,3.75,3,1,0,0,0,1,0,spice,melon,nutty,no taste,3
 Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,roasty cocoa,no taste,no taste,no taste,1
 Belize,74.0,1,3.5,3,1,0,0,0,1,0,roasted strawberry,bold,no taste,no taste,2
@@ -2105,7 +2105,7 @@ Venezuela,64.0,0,3.0,5,1,1,1,0,1,0,modest,creamy,cocoa,no taste,3
 Trinidad,64.0,0,2.5,5,1,1,1,0,1,0,nutty,vegetal,sweet,no taste,3
 Madagascar,64.0,1,4.0,5,1,1,1,0,1,0,creamy,blueberry,raspberry,no taste,3
 Venezuela,65.0,1,3.75,5,1,1,1,0,1,0,sandy,vegetal,cocoa,no taste,3
-Venezuela,64.0,0,3.25,5,1,1,1,0,1,0,creamy,cherry,no taste,no taste,2
+Venezuela,64.0,1,3.25,5,1,1,1,0,1,0,creamy,cherry,no taste,no taste,2
 Blend,72.0,0,3.0,5,1,1,1,0,1,0,creamy,rich,licorice,no taste,3
 Blend,71.0,0,2.75,5,1,1,1,0,1,0,nutty and bitter dominate,no taste,no taste,no taste,1
 Blend,85.0,0,2.5,5,1,1,1,0,1,0,berries,tart,bitter,no taste,3
@@ -2114,29 +2114,29 @@ Dominican republic,64.0,1,3.75,5,1,1,1,0,1,0,cocoa dominates,woodsy,no taste,no 
 Ecuador,66.0,1,3.75,5,1,1,1,0,1,0,rich cocoa,hot spice,no taste,no taste,2
 Ghana,68.0,1,3.5,5,1,1,1,0,1,0,creamy,cocoa,bread,no taste,3
 Venezuela,64.0,1,4.0,5,1,1,1,0,1,0,creamy,honey,peanut butter,no taste,3
-Blend,56.0,0,3.25,5,1,1,1,0,1,0,intense sweet,nut,orange,no taste,3
+Blend,56.0,1,3.25,5,1,1,1,0,1,0,intense sweet,nut,orange,no taste,3
 Venezuela,69.0,1,4.0,5,1,1,1,0,1,0,green,unripened fruit,banana,no taste,3
 Blend,70.0,1,3.5,5,1,1,1,0,1,0,yogurt,lemon,licorice,no taste,3
 Dominican republic,64.0,1,3.5,5,1,1,1,0,1,0,complex,herbs,fruit,dairy,4
 Peru,63.0,1,4.0,5,1,1,1,0,1,0,intense,dark berry,grapes,no taste,3
-Blend,60.0,0,3.25,3,1,0,0,0,1,0,intense,rich,sweet,no taste,3
+Blend,60.0,1,3.25,3,1,0,0,0,1,0,intense,rich,sweet,no taste,3
 Madagascar,72.0,0,2.75,3,1,0,0,0,1,0,fatty,bland,very astringent,no taste,3
 Madagascar,76.0,0,2.75,4,1,1,0,0,1,0,fatty,sour,spoiled,no taste,3
 Madagascar,80.0,0,2.75,4,1,1,0,0,1,0,fatty,bitter,sour,no taste,3
-Bolivia,70.0,0,3.25,2,0,0,0,0,1,0,peanut butter,coffee,mint,no taste,3
-Bolivia,70.0,0,3.25,2,0,0,0,0,1,0,complex,nibs too soft,no taste,no taste,2
-Dominican republic,70.0,0,3.25,2,0,0,0,0,1,0,dark berry,roasty,no taste,no taste,2
+Bolivia,70.0,1,3.25,2,0,0,0,0,1,0,peanut butter,coffee,mint,no taste,3
+Bolivia,70.0,1,3.25,2,0,0,0,0,1,0,complex,nibs too soft,no taste,no taste,2
+Dominican republic,70.0,1,3.25,2,0,0,0,0,1,0,dark berry,roasty,no taste,no taste,2
 Guatemala,70.0,0,3.0,2,0,0,0,0,1,0,earthy,sour,intense,no taste,3
 Bolivia,70.0,0,2.75,2,0,0,0,0,1,0,smokey,earthy,nutty,no taste,3
-Blend,70.0,0,3.25,3,1,0,0,0,1,0,sweet,fruity,heavy roast,no taste,3
+Blend,70.0,1,3.25,3,1,0,0,0,1,0,sweet,fruity,heavy roast,no taste,3
 Blend,90.0,1,3.75,3,1,0,0,0,1,0,mellow fruit,tart,mild bitter,no taste,3
 Trinidad,75.0,1,3.5,3,1,0,0,0,1,0,spicy,roasty,acidic,dairy,4
 Ecuador,75.0,1,3.5,3,1,0,0,0,1,0,spicy,nutmeg,brownie,no taste,3
-Dominican republic,90.0,0,3.25,3,1,0,0,0,1,0,intense,cocoa,spicy,fruit,4
+Dominican republic,90.0,1,3.25,3,1,0,0,0,1,0,intense,cocoa,spicy,fruit,4
 Vietnam,70.0,1,3.5,4,1,0,1,0,1,0,spicy,dairy,no taste,no taste,2
 Peru,75.0,0,3.0,3,1,0,0,0,1,0,sandy,sweet,nutty,no taste,3
 Ecuador,65.0,0,3.0,3,1,0,0,0,1,0,sticky,cocoa,earthy,no taste,3
-Peru,77.0,0,3.25,2,0,0,0,0,1,0,chalky,peach,bland,no taste,3
+Peru,77.0,1,3.25,2,0,0,0,0,1,0,chalky,peach,bland,no taste,3
 Belize,77.0,0,3.0,2,0,0,0,0,1,0,mild metallic,brownie,earth,no taste,3
 Venezuela,77.0,0,3.0,2,0,0,0,0,1,0,intense,mild bitter,roasty,no taste,3
 Madagascar,77.0,0,2.75,2,0,0,0,0,1,0,intense,tart,sour,raisin,4
@@ -2151,11 +2151,11 @@ Peru,70.0,1,3.5,2,0,0,0,0,0,1,grapes,pungent,no taste,no taste,2
 Samoa,77.0,0,3.0,2,0,0,0,0,1,0,earthy,roasty,no taste,no taste,2
 Tanzania,68.0,0,3.0,3,1,0,0,0,1,0,nuts,fruit,poor aftertaste,no taste,3
 Bolivia,72.0,0,3.0,3,1,0,0,0,1,0,creamy,fruit,poor aftertaste,no taste,3
-Peru,75.0,0,3.25,3,1,0,0,0,1,0,sandy,sweet,coffee,no taste,3
+Peru,75.0,1,3.25,3,1,0,0,0,1,0,sandy,sweet,coffee,no taste,3
 Peru,89.0,0,2.75,3,1,0,0,0,1,0,slow develop,bitter,metallic,no taste,3
 Peru,75.0,0,2.75,3,1,0,0,0,1,0,mild,metallic,no taste,no taste,2
 Peru,75.0,0,2.5,3,1,0,0,0,1,0,light color,grit,metallic,no taste,3
-Venezuela,72.0,0,3.25,3,1,0,0,0,1,0,creamy,earthy,nutty,no taste,3
+Venezuela,72.0,1,3.25,3,1,0,0,0,1,0,creamy,earthy,nutty,no taste,3
 Peru,70.0,0,3.0,3,1,0,0,0,1,0,sandy,rich,earthy,no taste,3
 Indonesia,69.0,1,3.75,3,1,0,0,0,1,0,smokey,fruity,sour,no taste,3
 Venezuela,72.0,1,3.5,3,1,0,0,0,1,0,dry,nutty,cocoa,no taste,3
@@ -2166,25 +2166,25 @@ Ghana,75.0,1,3.75,3,1,0,0,0,1,0,strong malt,choco pudding,no taste,no taste,2
 Bolivia,76.0,1,3.5,3,1,0,0,0,1,0,nutty,fig,short length,no taste,3
 Venezuela,74.0,0,3.0,3,1,0,0,0,1,0,nutty,rubber,no taste,no taste,2
 Venezuela,70.0,1,3.5,3,1,0,0,0,1,0,intense,creamy,nutty,no taste,3
-Belize,68.0,0,3.25,3,1,0,0,0,1,0,flat,molasses,creamy,no taste,3
+Belize,68.0,1,3.25,3,1,0,0,0,1,0,flat,molasses,creamy,no taste,3
 Venezuela,70.0,1,4.0,2,0,0,0,0,1,0,nutty,tart,coffee,no taste,3
 Dominican republic,70.0,1,3.5,2,0,0,0,0,1,0,brownie,fruit,fudge,no taste,3
-Madagascar,70.0,0,3.25,3,1,0,0,0,1,0,melon,no taste,no taste,no taste,1
+Madagascar,70.0,1,3.25,3,1,0,0,0,1,0,melon,no taste,no taste,no taste,1
 Costa rica,70.0,0,3.0,2,0,0,0,0,1,0,roasty,metallic,coffee,no taste,3
 Ecuador,70.0,0,2.5,2,0,0,0,0,1,0,mild fruit,chemical off,no taste,no taste,2
 Trinidad,70.0,1,3.5,2,0,0,0,0,1,0,creamy,woody,mild metallic,no taste,3
-Ecuador,70.0,0,3.25,2,0,0,0,0,1,0,intense,bourbon,no taste,no taste,2
+Ecuador,70.0,1,3.25,2,0,0,0,0,1,0,intense,bourbon,no taste,no taste,2
 Peru,70.0,0,3.0,2,0,0,0,0,1,0,sandy,intense,mild nutty,no taste,3
 Dominican republic,66.0,0,3.0,5,1,0,1,1,1,0,salt noticeable,vanilla,no taste,no taste,2
-El salvador,70.0,0,3.25,4,1,0,1,0,1,0,nutty,basic cocoa,no taste,no taste,2
+El salvador,70.0,1,3.25,4,1,0,1,0,1,0,nutty,basic cocoa,no taste,no taste,2
 El salvador,75.0,0,3.0,4,1,0,1,0,1,0,coarse,sweet,candy,licorice,4
 El salvador,65.0,0,2.75,4,1,0,1,0,1,0,overly sweet,dirty,no taste,no taste,2
 Madagascar,70.0,0,2.75,2,0,0,0,0,1,0,sour milk,molasses,sweet,no taste,3
 Dominican republic,70.0,0,2.5,2,0,0,0,0,1,0,spciy,cardamom,off flavor,no taste,3
 Belize,70.0,1,3.5,3,1,0,0,0,1,0,rich base cocoa,sweet,no taste,no taste,2
-Dominican republic,70.0,0,3.25,3,1,0,0,0,1,0,nutty,earthy,hammy,no taste,3
-Madagascar,70.0,0,3.25,3,1,0,0,0,1,0,sandy,mild sour,mild fruit,no taste,3
-Peru,70.0,0,3.25,3,1,0,0,0,1,0,sandy,nutty,mocha,no taste,3
+Dominican republic,70.0,1,3.25,3,1,0,0,0,1,0,nutty,earthy,hammy,no taste,3
+Madagascar,70.0,1,3.25,3,1,0,0,0,1,0,sandy,mild sour,mild fruit,no taste,3
+Peru,70.0,1,3.25,3,1,0,0,0,1,0,sandy,nutty,mocha,no taste,3
 Papua new guinea,70.0,0,3.0,3,1,0,0,0,1,0,heavy smoke,fruit,ham,no taste,3
 Blend,60.0,0,3.0,3,1,0,0,0,1,0,very sweet,heavy roast,nuts,no taste,3
 Madagascar,70.0,1,3.5,3,1,0,0,0,1,0,sticky,mellow choco,dairy,no taste,3
@@ -2197,15 +2197,15 @@ Bolivia,72.0,1,3.75,4,1,0,1,0,1,0,intense prune and berry,no taste,no taste,no t
 Bolivia,68.0,1,3.5,4,1,0,1,0,1,0,oily,honey,light rum,no taste,3
 Papua new guinea,66.0,1,3.5,4,1,0,1,0,1,0,toffee,caramel,butterscotch,no taste,3
 Solomon islands,78.0,1,3.75,4,1,0,1,0,1,0,smokey,dried fruit,balanced,no taste,3
-Blend,65.0,0,3.25,5,1,1,1,0,1,0,oily,sweet,choco,nutty,4
+Blend,65.0,1,3.25,5,1,1,1,0,1,0,oily,sweet,choco,nutty,4
 Nicaragua,70.0,1,3.75,3,1,0,0,0,1,0,large grits,sweet,dried fruit,no taste,3
-Nicaragua,75.0,0,3.25,3,1,0,0,0,1,0,sandy,basic cocoa,no taste,no taste,2
+Nicaragua,75.0,1,3.25,3,1,0,0,0,1,0,sandy,basic cocoa,no taste,no taste,2
 Nicaragua,72.0,0,3.0,3,1,0,0,0,1,0,intense earthy,no taste,no taste,no taste,1
 Dr congo,68.0,0,3.0,3,1,0,0,0,0,1,fatty,herbal,earthy,no taste,3
 Brazil,65.0,0,3.0,4,1,0,0,1,0,1,woody,butterscotch,no taste,no taste,2
 Peru,70.0,1,3.75,4,1,0,0,1,0,1,creamy,fatty,mild nutty,no taste,3
 India,65.0,1,3.5,4,1,0,0,1,0,1,creamy,masculine,earthy,no taste,3
-India,62.0,0,3.25,4,1,0,0,1,0,1,oily,subdued,caramel,salt,4
+India,62.0,1,3.25,4,1,0,0,1,0,1,oily,subdued,caramel,salt,4
 Congo,65.0,0,3.0,4,1,0,0,1,0,1,dairy,salt,caramel,no taste,3
 Dominican republic,62.0,1,3.75,4,1,0,0,1,0,1,spice,caramel,toffee,salty,4
 Dominican republic,70.0,1,3.75,4,1,0,0,1,0,1,strawberry,Cadbury egg,no taste,no taste,2
@@ -2213,13 +2213,13 @@ Panama,72.0,1,3.5,4,1,0,0,1,0,1,oily,earthy,caramel,salty,4
 Blend,65.0,1,3.5,4,1,0,0,1,0,1,dairy,burnt caramel,coffee,no taste,3
 Peru,70.0,1,3.5,4,1,0,0,1,0,1,butterscotch,pepper,no taste,no taste,2
 Blend,58.0,1,3.5,4,1,0,0,1,0,1,smooth,spicy,floral,no taste,3
-Bolivia,90.0,0,3.25,4,1,0,0,1,0,1,smooth,intense blueberry,no taste,no taste,2
-Congo,68.0,0,3.25,4,1,0,0,1,0,1,creamy,caramel,salt,sweet,4
+Bolivia,90.0,1,3.25,4,1,0,0,1,0,1,smooth,intense blueberry,no taste,no taste,2
+Congo,68.0,1,3.25,4,1,0,0,1,0,1,creamy,caramel,salt,sweet,4
 Peru,70.0,0,3.0,4,1,0,0,1,0,1,woody,toast,pepper,no taste,3
 Ecuador,75.0,0,3.0,4,1,0,0,1,0,1,creamy,nutty,bready,no taste,3
 Papua new guinea,75.0,0,3.0,4,1,0,0,1,0,1,hint of smoke,fruit,no taste,no taste,2
 Blend,80.0,0,2.75,4,1,0,0,1,0,1,waxy,cloying,vegetal,no taste,3
 Colombia,75.0,1,3.75,3,1,0,0,0,1,0,strong nutty,marshmallow,no taste,no taste,2
 Belize,72.0,1,3.5,3,1,0,0,0,1,0,muted,roasty,accessible,no taste,3
-Congo,70.0,0,3.25,3,1,0,0,0,1,0,fatty,mild nuts,mild fruit,no taste,3
+Congo,70.0,1,3.25,3,1,0,0,0,1,0,fatty,mild nuts,mild fruit,no taste,3
 Blend,75.0,0,3.0,3,1,0,0,0,1,0,fatty,earthy,cocoa,no taste,3
