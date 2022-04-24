@@ -45,8 +45,7 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 - Collaborating through github
 - Dealing with categorical predictor variables
 ## References
-Adasyn. ADASYN - Version 0.9.0.(n.d.). Retrieved from 
-https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html#imblearn.over_sampling.ADASYN
+Adasyn. ADASYN - Version 0.9.0.(n.d.). Retrieved from https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html#imblearn.over_sampling.ADASYN
 
 Alakh Sethi. (2020, June 25). Categorical encoding: One hot encoding vs label encoding. Analytics Vidhya. Retrieved from https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/
 
@@ -63,9 +62,12 @@ https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classificat
 Dark chocolate market size, share, scope, Opportunities & Forecast. Verified Market Research. (2021, November 24). Retrieved from https://www.verifiedmarketresearch.com/product/global-dark-chocolate-market/
 
 Gupta, (2022). Module 4 Topic 1: Binary Classification [PowerPoint Slides]. Retrieved from NTULearn course site.
+
 RandomForestClassifier (2022). scikit-learn. Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 MediLexicon International. (n.d.). Chocolate: Health benefits, facts, and research. Medical News Today. Retrieved from https://www.medicalnewstoday.com/articles/270272#benefits
+
+RandomForestClassifier (2022). scikit-learn. Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
 
 Wilson, M. (2021, March 18). What is the cutoff for Skewness and kurtosis? Restaurantnorman.com. Retrieved from 
 https://www.restaurantnorman.com/what-is-the-cutoff-for-skewness-and-kurtosis/#What_is_the_cutoff_for_skewness_and_kurtosis
