@@ -6,9 +6,9 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 2. [Exploratory Data Analysis ](https://github.com/bachts/sc1015-project/blob/main/Data%20visualization.ipynb)
 3. [Machine Learning](https://github.com/bachts/sc1015-project/blob/main/Machine%20learning.ipynb)
 ## Contributors
-- @bachts
-- @Brybn
-- @evangeline1234
+- @bachts: SMOTE, Cross-validation, Gradient Boosting. 
+- @Brybn: Random Forest, Removal of minority classes.
+- @evangeline1234: Decision Tree, Data cleaning, Data visualization.
 ## Problem Definition
 - Can we find out what makes a dark chocolate product highly rated by experts?
 ## Techniques Used
