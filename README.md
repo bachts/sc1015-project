@@ -4,8 +4,7 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 ## Content of code
 1. Data Cleaning
 2. Exploratory Data Analysis 
-3. Data resampling
-4. Classification tree
+3. Machine Learning
 ## Contributors
 - @bachts
 - @Brybn
@@ -13,7 +12,10 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 ## Problem Definition
 - Can we find out what makes a dark chocolate product highly rated by experts?
 ## Techniques Used
-- 
+- SMOTE() and its variations
+- KFold cross validation
+- Decision Tree, Random Forest and Gradient Boosting
+- One-hot encoding
 ## Outcome
 ## What did we learn
 ## References
