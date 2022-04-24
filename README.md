@@ -58,7 +58,7 @@ Brownlee, J. (2019, October 21). A Gentle Introduction to the Chi-Squared Test f
 
 Brownlee, J. (2021, April 26). Gradient boosting with Scikit-learn, XGBoost, LIGHTGBM, and CatBoost. Machine Learning Mastery. Retrieved from https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/
 
-https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html#imblearn.over_sampling.ADASYN
+Adasyn. ADASYN - Version 0.9.0.(n.d.). Retrieved from https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html#imblearn.over_sampling.ADASYN
 
 https://www.restaurantnorman.com/what-is-the-cutoff-for-skewness-and-kurtosis/#What_is_the_cutoff_for_skewness_and_kurtosis
 
