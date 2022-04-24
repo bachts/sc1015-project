@@ -41,3 +41,15 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 - Collaborating through github
 - Dealing with categorical predictor variables
 ## References
+Dark chocolate market size, share, scope, Opportunities & Forecast. Verified Market Research. (2021, November 24). Retrieved from https://www.verifiedmarketresearch.com/product/global-dark-chocolate-market/
+Alakh Sethi. (2020, June 25). Categorical encoding: One hot encoding vs label encoding. Analytics Vidhya. Retrieved from https://www.analyticsvidhya.com/blog/2020/03/one-hot-encoding-vs-label-encoding-using-scikit-learn/
+MediLexicon International. (n.d.). Chocolate: Health benefits, facts, and research. Medical News Today. Retrieved from https://www.medicalnewstoday.com/articles/270272#benefits
+Gupta, (2022). Module 4 Topic 1: Binary Classification [PowerPoint Slides]. Retrieved from NTULearn course site.
+RandomForestClassifier (2022). scikit-learn. Retrieved from https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html
+Brownlee, J. (2019, October 21). A Gentle Introduction to the Chi-Squared Test for Machine Learning. Machine Learning Mastery. Retrieved from https://machinelearningmastery.com/chi-squared-test-for-machine-learning/
+Brownlee, J. (2021, April 26). Gradient boosting with Scikit-learn, XGBoost, LIGHTGBM, and CatBoost. Machine Learning Mastery. Retrieved from https://machinelearningmastery.com/gradient-boosting-with-scikit-learn-xgboost-lightgbm-and-catboost/
+https://imbalanced-learn.org/stable/references/generated/imblearn.over_sampling.ADASYN.html#imblearn.over_sampling.ADASYN
+https://www.restaurantnorman.com/what-is-the-cutoff-for-skewness-and-kurtosis/#What_is_the_cutoff_for_skewness_and_kurtosis
+https://machinelearningmastery.com/configure-gradient-boosting-algorithm/
+https://machinelearningmastery.com/smote-oversampling-for-imbalanced-classification/
+
