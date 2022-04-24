@@ -15,7 +15,7 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 - SMOTE() and its variations
 - KFold cross validation
 - Decision Tree, Random Forest and Gradient Boosting
-- One-hot encoding and multi-label binarizer
+- One-hot encoding
 ## Outcome
 ## What did we learn
 ## References
