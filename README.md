@@ -34,7 +34,11 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 ## Outcome
 - We discovered some variables that could influence the rating of a chocolate bar, such as number of ingredients, the taste of it.
 - However, the variables in the dataset was not sufficient to predict the rating of a chocolate bar perfectly, but had somewhat acceptable accuracy, and was able to point out a large number of highly rated chocolate bars, despite a roughly 0.30 false positive rate.
+## Recommendation
+- More data, so that some data points do not have to be dropped.
 - A more detailed dataset with more variables are recommended, such as the percentages of the ingredients, as well as a cleaner taste dataset.
+- Better feature engineering of the taste columns, such as grouping similar classes like "cocoa", "mild cocoa", "rich cocoa", which has a lot of minority classes
+- Utilize Natural Language Processing, specifically sentiment analysis for classes in taste such as "why bother", "wtf". This could further be utilized to deal with text reviews, such as from a survey, in the form of a description.
 ## What did we learn
 - Dealing with imbalanced data
 - Utilizing cross-validation for tuning models
