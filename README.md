@@ -5,10 +5,10 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 - Can we find out what makes a dark chocolate product highly rated by experts?
 ## Content of code
 1. [Data Cleaning](https://github.com/bachts/sc1015-project/blob/main/Data%20cleaning.ipynb)
-- Remove unrelated variables: company location, review date, review reference number
+- Remove unrelated variables such as company location, review date or review reference number
 - Replaced binary categorical values with numerical values
-- Reclassified rating to fit our problem statement
-- Added the "number_of_taste" column  
+- Reclassified rating to fit our problem statement: high vs. not high
+- Added the "number_of_taste" column : could be a relevant point
 2. [Exploratory Data Analysis ](https://github.com/bachts/sc1015-project/blob/main/Data%20visualization.ipynb)
 - Creates a helper function to visualize the percentage and proportion of the two ratings for different variables
 - Examine the distribution of high vs. not-high rating for different ingredients.
@@ -16,7 +16,7 @@ Our mini-project for SC1015 (Introduction to Data Science and Artificial Intelli
 - Correlation and chi-squared test for each ingredients respective to rating category
 - Examine the distribution of high vs. not-high rating for country of bean origin and taste
 - Overall distribution between different groups of variables
-This helped us drop columns such as cocoa_butter due to little correlation, as well as sweetener_with_salt due to its perfect negative correlation with sugar.
+This helped us drop columns such as cocoa_butter due to little correlation, as well as sweetener_with_salt due to its perfect negative correlation with sugar. 
 3. [Machine Learning](https://github.com/bachts/sc1015-project/blob/main/Machine%20learning.ipynb)
 - One-hot encoding for multi-class categorical variables
 country_of_bean_origin and the four taste columns have a lot of classes in it, which we dealt with by using one-hot encoder. The four taste columns are appended to a list, to ensure it does not discriminate between first_taste, second_taste, third_taste and fourth_taste
